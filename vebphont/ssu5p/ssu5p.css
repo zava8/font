@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ssu5p';
+    src: url('fonts/ssu5p.eot');
+    src: url('fonts/ssu5p.eot') format('embedded-opentype'),
+         url('fonts/ssu5p.woff2') format('woff2'),
+         url('fonts/ssu5p.woff') format('woff'),
+         url('fonts/ssu5p.ttf') format('truetype'),
+         url('fonts/ssu5p.svg#ssu5p') format('svg');
+}

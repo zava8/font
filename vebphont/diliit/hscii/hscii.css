@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'hscii';
+    src: url('fonts/hscii.eot');
+    src: url('fonts/hscii.eot') format('embedded-opentype'),
+         url('fonts/hscii.woff2') format('woff2'),
+         url('fonts/hscii.woff') format('woff'),
+         url('fonts/hscii.ttf') format('truetype'),
+         url('fonts/hscii.svg#hscii') format('svg');
+}

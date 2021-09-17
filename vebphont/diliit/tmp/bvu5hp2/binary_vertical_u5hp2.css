@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'binary_vertical_u5hp2';
+    src: url('fonts/binary_vertical_u5hp2.eot');
+    src: url('fonts/binary_vertical_u5hp2.eot') format('embedded-opentype'),
+         url('fonts/binary_vertical_u5hp2.woff2') format('woff2'),
+         url('fonts/binary_vertical_u5hp2.woff') format('woff'),
+         url('fonts/binary_vertical_u5hp2.ttf') format('truetype'),
+         url('fonts/binary_vertical_u5hp2.svg#binary_vertical_u5hp2') format('svg');
+}

@@ -1,0 +1,12 @@
+[{
+	"filename": "u5cdot.woff.json",
+	"callback": "fonts_loaded_callback",
+	"fonts": [
+		{
+			"font-family": "u5cdot",
+			"font-weight": "normal",
+			"file": "fonts/u5cdot.woff",
+			"format": "woff"
+		}
+	]
+}]
