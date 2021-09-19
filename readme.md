@@ -1,23 +1,24 @@
 # hscii810 phur digital zinglish zemistry maths & zava 0123456789LJQWXF
+## [firefox ztr translator](https://addons.mozilla.org/en-US/firefox/addon/ztr/)
 -------
-##### 1) [unicase_phonts repozitory](https://github.com/Font77/unicase_phonts) dounlod kre ya git clone kre.
+##### 1) [font repozitory](https://github.com/zava8/font) dounlod kre ya git clone kre.
 
 1. see above to click **code**(green) **button** -> click **dounlod zip**
- (or / ya phir apke computer me git install h To ap clone kr skTe h : git clone github.com/Font77/unicase_phonts.git )
-3. AgAr zip dounload kiye h To **unzip** krke unicase_phonts pholdr prapT kiziyega
-4. check kre unicase_phonts/yunikes pholder me u5cdot.ttf .ttf files h. ye phonts file h. inko vindouz/linuks/Android me install krTe h.
+ (or / ya phir apke computer me git install h To ap clone kr skTe h : git clone github.com/zava8/font.git )
+3. AgAr zip dounload kiye h To **unzip** krke font pholdr prapT kiziyega
+4. check kre font/unicase pholder me u5cdot.ttf ttf files h. ye font file h. ise vindouz/linuks/Android me install krTe h.
 
 ------
-##### install **u5cdot.ttf font** , "ztr firefox addon" in vindoz/linuks , phayrphoks
+##### install **u5cdot.ttf font** , "ztr firefox addon" in vindoz/linuks , firefox
 <table style="width:100%">
 <tr> <td><a href="./vindoz_install.md">install u5cdot.ttf in vindoz</a></td> </tr>
 <tr> <td><a href="./linuks_install.md">install u5cdot.ttf in linuks/linux</a></td> </tr>
-<tr> <td><a href="./mozilla_u5cdot.md">install u5cdot.ttf in phayrphoks brauzr</a></td></tr>
+<tr> <td><a href="./mozilla_u5cdot.md">install u5cdot.ttf in firefox brauzr</a></td></tr>
 </table>
 
 ------
-<img src="imez/keybord/hbord_hpop_phonics.gif" alt="multilanguage keyboard">
-(keyboard layout phur hscii810 zava multilanguage mozilla mint linuks )
+<img src="imez/keybord/hbord_hpop_phonics_18sep21.gif" alt="multilanguage keyboard">
+(keyboard layout for hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>
 (vest zermanik lANguAzis)
 
@@ -111,7 +112,7 @@ At: [github/zava810][z8z8] .
 
 
 
-### ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)  
+### ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)
 
 ## steps tu instal **u5c** phont & **hpop kibord** on android mobail
 1. daunload & install [roboto510 roboto810 robotobin]
@@ -121,4 +122,4 @@ At: [github/zava810][z8z8] .
     4. iph it is xiomi Dn use **miui font installer old** method.
 2. hpop instalesAn
     1. aphtr instaling roboto_heks_jk.ttf daunload [hpop.apk][github hpop apk lifk]
-    2. Dn opAn **hpop.apk** & **instal** in yuAr Androed mobail.  
+    2. Dn opAn **hpop.apk** & **instal** in yuAr Androed mobail.
