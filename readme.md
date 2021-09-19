@@ -18,18 +18,18 @@
 
 ------
 <img src="imez/keybord/kiiz_sym_hindi.png" alt="multilanguage keyboard">
-#### keyboard hinDi programing sim_bls
+<h4>keyboard hinDi programing sim_bls</h4>
 <hr></hr>
 <img src="imez/keybord/hpop_phoniks_git.jpeg" alt="multilanguage keyboard">
 <hr></hr>
 <img src="imez/keybord/hscii_all.jpeg" alt="multilanguage keyboard">
-#### keyboard hinDi programing sim_bls
+<h4>keyboard hinDi programing sim_bls</h4>
 <hr></hr>
 <img src="imez/keybord/kiiz_sym_zing.png" alt="multilanguage keyboard">
-#### keyboard scots(skotlAnd) programing sim_bls
+<h4>keyboard scots(skotlAnd) programing sim_bls</h4>
 <hr></hr>
 <img src="imez/keybord/kiiz_cAps_zing.png" alt="multilanguage keyboard">
-#### keyboard hinDi programing sim_bls
+<h4>keyboard hinDi programing sim_bls</h4>
 <hr></hr>
 <img src="imez/keybord/hpop_git_camel.jpeg" alt="multilanguage keyboard">
 (keyboard layout for hscii810 zava multilanguage mozilla mint linuks )
