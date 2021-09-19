@@ -17,10 +17,24 @@
 </table>
 
 ------
-<img src="imez/keybord/hbord_hpop_phonics_18sep21.gif" alt="multilanguage keyboard">
+<img src="imez/keybord/kiiz_sym_hindi.png" alt="multilanguage keyboard">
+#### keyboard hinDi programing sim_bls
+<hr></hr>
+<img src="imez/keybord/hpop_phoniks_git.jpeg" alt="multilanguage keyboard">
+<hr></hr>
+<img src="imez/keybord/hscii_all.jpeg" alt="multilanguage keyboard">
+#### keyboard hinDi programing sim_bls
+<hr></hr>
+<img src="imez/keybord/kiiz_sym_zing.png" alt="multilanguage keyboard">
+#### keyboard scots(skotlAnd) programing sim_bls
+<hr></hr>
+<img src="imez/keybord/kiiz_cAps_zing.png" alt="multilanguage keyboard">
+#### keyboard hinDi programing sim_bls
+<hr></hr>
+<img src="imez/keybord/hpop_git_camel.jpeg" alt="multilanguage keyboard">
 (keyboard layout for hscii810 zava multilanguage mozilla mint linuks )
 <hr></hr>
-(vest zermanik lANguAzis)
+(vest zermanik bhasae_languages)
 
 <img src="imez/keybord/vest_zemanic_languages.png" alt="multilanguage keyboard">
 <hr></hr>
