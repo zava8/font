@@ -9,6 +9,10 @@
 
 ![hinDi52h_gif](./hinDi52h.gif)
 
+[hinDi online sikhe](http://zinglish.vercel.app)
+
+[firefox ztr Addon](https://addons.mozilla.org/en-US/firefox/addon/ztr/) se hinDi Tmil mlyalm knrra mrathi guzraTi urriya Telugu pnzabi ko **trnsliterate kre**
+
 ![hinDi52h_jpeg](./hpop_phoniks_git.jpeg)
 
 ![hinDi52h_jpeg](./hscii_all.jpeg)
