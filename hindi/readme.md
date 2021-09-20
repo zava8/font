@@ -5,7 +5,7 @@
 3. linux me install krne font zis folder me daunlod kiye h use root access ke saTh khole.
 4. vindoz me font install krne ke liye font file ko right klik krke **install** select kre.
 
-## hinDi52 fonts
+## hinDi52 fonts pAsvord828@
 
 ![hinDi52h_gif](./hinDi52h.gif)
 
