@@ -8,11 +8,11 @@
 ## hinDi52 fonts
 
 ![hinDi52h_gif](./hinDi52h.gif)
-<hr></hr>
+
 ![hinDi52h_jpeg](./hpop_phoniks_git.jpeg)
-<hr></hr>
+
 ![hinDi52h_jpeg](./hscii_all.jpeg)
-<hr></hr>
+
 ![hinDi52h_jpeg](./kiiz_sym_hindi.png)
-<hr></hr>
+
 ![hinDi52h_jpeg](./kiiz_sym_hindi_hpop_phoniks.gif)
