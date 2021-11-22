@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: lato510cC
-FullName: lato510cC
-FamilyName: lato510cC
+FontName: lato510c
+FullName: lato510c
+FamilyName: lato510c
 Weight: Book
 Copyright: modified for hinglish kanglish manglish\nCopyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
 Version: 1.000; Western+Polish opensource
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1315810800
-ModificationTime: 1637577496
+ModificationTime: 1637617133
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1949,7 +1949,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "lato510cC" "" "Version 1.000; Western+-Polish opensource" "" "Lato is a trademark of tyPoland Lukasz Dziedzic." "tyPoland Lukasz Dziedzic" "Lukasz Dziedzic" "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (+ACIA-Lato+ACIA means +ACIA-Summer+ACIA in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite +ACIA-transparent+ACIA when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness." "http://www.typoland.com/" "http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name +ACIA-Lato+ACIA. Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL)." "http://zs810.tumblr.com"
+LangName: 1033 "" "" "" "lato510c" "" "Version 1.000; Western+-Polish opensource" "" "Lato is a trademark of tyPoland Lukasz Dziedzic." "tyPoland Lukasz Dziedzic" "Lukasz Dziedzic" "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (+ACIA-Lato+ACIA means +ACIA-Summer+ACIA in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite +ACIA-transparent+ACIA when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness." "http://www.typoland.com/" "http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name +ACIA-Lato+ACIA. Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL)." "http://zs810.tumblr.com"
 GaspTable: 2 18 7 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -12911,80 +12911,54 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-328 1315 m 4,0,1
- 328 1357 328 1357 344 1391 c 132,-1,2
- 360 1425 360 1425 387.5 1450 c 132,-1,3
- 415 1475 415 1475 451 1488.5 c 132,-1,4
- 487 1502 487 1502 527 1502 c 4,5,6
- 568 1502 568 1502 604.5 1488.5 c 132,-1,7
- 641 1475 641 1475 669 1450 c 132,-1,8
- 697 1425 697 1425 713 1391 c 132,-1,9
- 729 1357 729 1357 729 1315 c 4,10,11
- 729 1274 729 1274 713 1240 c 132,-1,12
- 697 1206 697 1206 669 1182 c 132,-1,13
- 641 1158 641 1158 604.5 1144.5 c 132,-1,14
- 568 1131 568 1131 527 1131 c 4,15,16
- 487 1131 487 1131 451 1144.5 c 132,-1,17
- 415 1158 415 1158 387.5 1182 c 132,-1,18
- 360 1206 360 1206 344 1240 c 132,-1,19
- 328 1274 328 1274 328 1315 c 4,0,1
-428 1315 m 4,20,21
- 428 1271 428 1271 455 1243 c 132,-1,22
- 482 1215 482 1215 529 1215 c 4,23,24
- 574 1215 574 1215 601.5 1243 c 132,-1,25
- 629 1271 629 1271 629 1315 c 4,26,27
- 629 1360 629 1360 601.5 1388 c 132,-1,28
- 574 1416 574 1416 529 1416 c 4,29,30
- 482 1416 482 1416 455 1388 c 132,-1,31
- 428 1360 428 1360 428 1315 c 4,20,21
-890 0 m 1,32,-1
- 811 0 l 2,33,34
- 785 0 785 0 769 8 c 128,-1,35
- 753 16 753 16 748 42 c 2,36,-1
- 728 136 l 1,37,38
- 688 100 688 100 650 71.5 c 128,-1,39
- 612 43 612 43 570 23.5 c 128,-1,40
- 528 4 528 4 480.5 -6 c 128,-1,41
- 433 -16 433 -16 375 -16 c 0,42,43
- 316 -16 316 -16 264.5 0.5 c 128,-1,44
- 213 17 213 17 175 50 c 128,-1,45
- 137 83 137 83 114.5 133.5 c 128,-1,46
- 92 184 92 184 92 253 c 0,47,48
- 92 313 92 313 125 368.5 c 128,-1,49
- 158 424 158 424 231.5 467 c 128,-1,50
- 305 510 305 510 424 537.5 c 128,-1,51
- 543 565 543 565 715 569 c 1,52,-1
- 715 648 l 2,53,54
- 715 766 715 766 664.5 826.5 c 128,-1,55
- 614 887 614 887 515 887 c 0,56,57
- 450 887 450 887 405.5 870.5 c 128,-1,58
- 361 854 361 854 328.5 833.5 c 128,-1,59
- 296 813 296 813 272.5 796.5 c 128,-1,60
- 249 780 249 780 226 780 c 0,61,62
- 208 780 208 780 194.5 789.5 c 128,-1,63
- 181 799 181 799 173 813 c 2,64,-1
- 141 870 l 1,65,66
- 225 951 225 951 322 991 c 128,-1,67
- 419 1031 419 1031 537 1031 c 0,68,69
- 622 1031 622 1031 688 1003 c 128,-1,70
- 754 975 754 975 799 925 c 128,-1,71
- 844 875 844 875 867 804 c 128,-1,72
- 890 733 890 733 890 648 c 2,73,-1
- 890 0 l 1,32,-1
-428 109 m 0,74,75
- 475 109 475 109 514 118.5 c 128,-1,76
- 553 128 553 128 587.5 145.5 c 128,-1,77
- 622 163 622 163 653.5 188 c 128,-1,78
- 685 213 685 213 715 245 c 1,79,-1
- 715 456 l 1,80,81
- 592 452 592 452 506 436.5 c 128,-1,82
- 420 421 420 421 366 396 c 128,-1,83
- 312 371 312 371 287.5 337 c 128,-1,84
- 263 303 263 303 263 261 c 0,85,86
- 263 221 263 221 276 192 c 128,-1,87
- 289 163 289 163 311 144.5 c 128,-1,88
- 333 126 333 126 363 117.5 c 128,-1,89
- 393 109 393 109 428 109 c 0,74,75
+890 0 m 1,0,-1
+ 811 0 l 2,1,2
+ 785 0 785 0 769 8 c 128,-1,3
+ 753 16 753 16 748 42 c 2,4,-1
+ 728 136 l 1,5,6
+ 688 100 688 100 650 71.5 c 128,-1,7
+ 612 43 612 43 570 23.5 c 128,-1,8
+ 528 4 528 4 480.5 -6 c 128,-1,9
+ 433 -16 433 -16 375 -16 c 0,10,11
+ 316 -16 316 -16 264.5 0.5 c 128,-1,12
+ 213 17 213 17 175 50 c 128,-1,13
+ 137 83 137 83 114.5 133.5 c 128,-1,14
+ 92 184 92 184 92 253 c 0,15,16
+ 92 313 92 313 125 368.5 c 128,-1,17
+ 158 424 158 424 231.5 467 c 128,-1,18
+ 305 510 305 510 424 537.5 c 128,-1,19
+ 543 565 543 565 715 569 c 1,20,-1
+ 715 648 l 2,21,22
+ 715 766 715 766 664.5 826.5 c 128,-1,23
+ 614 887 614 887 515 887 c 0,24,25
+ 450 887 450 887 405.5 870.5 c 128,-1,26
+ 361 854 361 854 328.5 833.5 c 128,-1,27
+ 296 813 296 813 272.5 796.5 c 128,-1,28
+ 249 780 249 780 226 780 c 0,29,30
+ 208 780 208 780 194.5 789.5 c 128,-1,31
+ 181 799 181 799 173 813 c 2,32,-1
+ 141 870 l 1,33,34
+ 225 951 225 951 322 991 c 128,-1,35
+ 419 1031 419 1031 537 1031 c 0,36,37
+ 622 1031 622 1031 688 1003 c 128,-1,38
+ 754 975 754 975 799 925 c 128,-1,39
+ 844 875 844 875 867 804 c 128,-1,40
+ 890 733 890 733 890 648 c 2,41,-1
+ 890 0 l 1,0,-1
+428 109 m 0,42,43
+ 475 109 475 109 514 118.5 c 128,-1,44
+ 553 128 553 128 587.5 145.5 c 128,-1,45
+ 622 163 622 163 653.5 188 c 128,-1,46
+ 685 213 685 213 715 245 c 1,47,-1
+ 715 456 l 1,48,49
+ 592 452 592 452 506 436.5 c 128,-1,50
+ 420 421 420 421 366 396 c 128,-1,51
+ 312 371 312 371 287.5 337 c 128,-1,52
+ 263 303 263 303 263 261 c 0,53,54
+ 263 221 263 221 276 192 c 128,-1,55
+ 289 163 289 163 311 144.5 c 128,-1,56
+ 333 126 333 126 363 117.5 c 128,-1,57
+ 393 109 393 109 428 109 c 0,42,43
 EndSplineSet
 Kerns2: 91 -32 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -32 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
