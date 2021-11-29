@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: inglish_ascii510c
-FullName: inglish_ascii510c
-FamilyName: inglish_ascii510c
+FontName: kvz5c
+FullName: kvz5c
+FamilyName: kvz5c
 Weight: Book
 Copyright: modified for hinglish kanglish manglish\nCopyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
 Version: 1.000; Western+Polish opensource
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1315810800
-ModificationTime: 1637700021
+ModificationTime: 1638149212
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1949,7 +1949,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "inglish_ascii510c" "" "Version 1.000; Western+-Polish opensource" "" "Lato is a trademark of tyPoland Lukasz Dziedzic." "tyPoland Lukasz Dziedzic" "Lukasz Dziedzic" "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (+ACIA-Lato+ACIA means +ACIA-Summer+ACIA in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite +ACIA-transparent+ACIA when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness." "http://www.typoland.com/" "http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name +ACIA-Lato+ACIA. Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL)." "http://zs810.tumblr.com"
+LangName: 1033 "" "" "" "kvz5c" "" "Version 1.000; Western+-Polish opensource" "" "Lato is a trademark of tyPoland Lukasz Dziedzic." "tyPoland Lukasz Dziedzic" "Lukasz Dziedzic" "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (+ACIA-Lato+ACIA means +ACIA-Summer+ACIA in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite +ACIA-transparent+ACIA when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness." "http://www.typoland.com/" "http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name +ACIA-Lato+ACIA. Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL)." "http://zs810.tumblr.com"
 GaspTable: 2 18 7 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
