@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1261065660
-ModificationTime: 1638827112
+ModificationTime: 1638981703
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -4308,7 +4308,7 @@ EndASM
 MacFeat: 0 0 0
 MacName: 0 0 24 "All Typographic Features"
 MacName: 0 1 24 "Fonctions typographiques"
-MacName: 0 2 33 "Alle typografischen M\232glichkeiten"
+MacName: 0 2 32 "Alle typografischen Mglichkeiten"
 MacName: 0 3 21 "Funzioni Tipografiche"
 MacName: 0 4 28 "Alle typografische kenmerken"
 MacSetting: 0
@@ -4329,11 +4329,11 @@ MacName: 0 1 18 "Ligatures Requises"
 MacName: 0 4 18 "Vereiste ligaturen"
 MacFeat: 5 1 0
 MacName: 0 0 24 "Linguistic Rearrangement"
-MacName: 0 1 26 "R\216arrangement Linguistique"
+MacName: 0 1 25 "Rarrangement Linguistique"
 MacName: 0 4 24 "Taalkundige herschikking"
 MacSetting: 0
 MacName: 0 0 24 "Linguistic Rearrangement"
-MacName: 0 1 31 "Avec R\216arrangement Linguistique"
+MacName: 0 1 30 "Avec Rarrangement Linguistique"
 MacName: 0 4 24 "Taalkundige herschikking"
 EndMacFeatures
 ShortTable: cvt  2
@@ -4366,10 +4366,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65538 188
+BeginChars: 65538 194
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -12657,6 +12657,54 @@ SplineSet
  310 646 310 646 293 584.5 c 128,-1,43
  276 523 276 523 276 454 c 256,24,25
 EndSplineSet
+EndChar
+
+StartChar: ae
+Encoding: 230 230 188
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 189
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 190
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 191
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 192
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 193
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
