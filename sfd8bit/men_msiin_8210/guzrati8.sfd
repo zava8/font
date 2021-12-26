@@ -47087,7 +47087,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-1" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-2" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-3" "'blwm' Below Base Mark lookup 2 subtable"

@@ -137,3 +137,14 @@ At: [github/zava810][z8z8] .
 2. hpop instalesAn
     1. aphtr instaling roboto_heks_jk.ttf daunload [hpop.apk][github hpop apk lifk]
     2. Dn opAn **hpop.apk** & **instal** in yuAr Androed mobail.
+
+razu seb khaxa h.
+gay citti honwi h.
+qap kya kr rhe jo.
+jm xo khush j.
+
+savwhan kwqrwan.
+ABCDE   FGHIJ  KLMNO   PQRST   UVWXY Z
+abcde fghij   klmno   pqrst       uvwxy z
+github.com/dounload font/men_msiin/u8
+0123456789:;<=>?
