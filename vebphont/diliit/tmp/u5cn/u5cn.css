@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'u5cn';
-    src: url('fonts/u5cn.eot');
-    src: url('fonts/u5cn.eot') format('embedded-opentype'),
-         url('fonts/u5cn.woff2') format('woff2'),
-         url('fonts/u5cn.woff') format('woff'),
-         url('fonts/u5cn.ttf') format('truetype'),
-         url('fonts/u5cn.svg#u5cn') format('svg');
-}

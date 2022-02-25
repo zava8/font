@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'u8';
-    src: url('fonts/u8.eot');
-    src: url('fonts/u8.eot') format('embedded-opentype'),
-         url('fonts/u8.woff2') format('woff2'),
-         url('fonts/u8.woff') format('woff'),
-         url('fonts/u8.ttf') format('truetype'),
-         url('fonts/u8.svg#u8') format('svg');
-}

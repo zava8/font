@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'binary_vertical_u82';
-    src: url('fonts/binary_vertical_u82.eot');
-    src: url('fonts/binary_vertical_u82.eot') format('embedded-opentype'),
-         url('fonts/binary_vertical_u82.woff2') format('woff2'),
-         url('fonts/binary_vertical_u82.woff') format('woff'),
-         url('fonts/binary_vertical_u82.ttf') format('truetype'),
-         url('fonts/binary_vertical_u82.svg#binary_vertical_u82') format('svg');
-}
