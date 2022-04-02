@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'guz54';
+    src: url('guz54.woff2') format('woff2'),
+        url('guz54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mlyalm54';
+    src: url('mlyalm54.woff2') format('woff2'),
+        url('mlyalm54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'telgu54';
+    src: url('telgu54.woff2') format('woff2'),
+        url('telgu54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'knrra54';
+    src: url('knrra54.woff2') format('woff2'),
+        url('knrra54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'latin54';
+    src: url('latin54.woff2') format('woff2'),
+        url('latin54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'gurum54';
+    src: url('gurum54.woff2') format('woff2'),
+        url('gurum54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bangla54';
+    src: url('bangla54.woff2') format('woff2'),
+        url('bangla54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'uria54';
+    src: url('uria54.woff2') format('woff2'),
+        url('uria54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'tmil54';
+    src: url('tmil54.woff2') format('woff2'),
+        url('tmil54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'hin54';
+    src: url('hin54.woff2') format('woff2'),
+        url('hin54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
