@@ -3,7 +3,7 @@ xkb_symbols "basic" {
 
     name[Group1]= "skovz";
 
-    key <TLDE> {	[     grave,	asciitilde	]	};
+    key <TLDE> {	[         A,	asciitilde	]	};
     key <AE01> {	[	  1,	exclam 		]	};
     key <AE02> {	[	  2,	at		]	};
     key <AE03> {	[	  3,	numbersign	]	};
@@ -14,14 +14,14 @@ xkb_symbols "basic" {
     key <AE08> {	[	  8,	asterisk	]	};
     key <AE09> {	[	  9,	parenleft	]	};
     key <AE10> {	[	  0,	parenright	]	};
-    key <AE11> {	[     minus,	backslash	]	};
-    key <AE12> {	[     equal,	plus		]	};
+    key <AE11> {	[         H,	backslash	]	};
+    key <AE12> {	[         N,    equal		]	};
 
-    key <AD01> {	[	  A,	q 		]	};
-    key <AD02> {	[	  D,	w		]	};
+    key <AD01> {	[	  q,	Q 		]	};
+    key <AD02> {	[	  w,	W		]	};
     key <AD03> {	[	  e,	E		]	};
     key <AD04> {	[	  r,	R		]	};
-    key <AD05> {	[	  t,	J		]	};
+    key <AD05> {	[	  t,	semicolon	]	};
     key <AD06> {	[	  y,	Y		]	};
     key <AD07> {	[	  u,	U		]	};
     key <AD08> {	[	  i,	I		]	};
@@ -30,16 +30,16 @@ xkb_symbols "basic" {
     key <AD11> {	[ bracketleft,	braceleft	]	};
     key <AD12> {	[ bracketright,	braceright	]	};
 
-    key <AC01> {	[	  a,	Q 		]	};
+    key <AC01> {	[	  a,	grave 		]	};
     key <AC02> {	[	  s,	S		]	};
-    key <AC03> {	[	  d,	W		]	};
+    key <AC03> {	[	  d,	slash		]	};
     key <AC04> {	[	  f,	F		]	};
     key <AC05> {	[	  g,	G		]	};
-    key <AC06> {	[	  h,	H		]	};
-    key <AC07> {	[	  T,	j		]	};
+    key <AC06> {	[	  h,	minus		]	};
+    key <AC07> {	[	  j,	J		]	};
     key <AC08> {	[	  k,	K		]	};
     key <AC09> {	[	  l,	L		]	};
-    key <AC10> {	[ semicolon,	colon		]	};
+    key <AC10> {	[         T,	colon		]	};
     key <AC11> {	[ apostrophe,	quotedbl	]	};
 
     key <AB01> {	[	  z,	Z 		]	};
@@ -47,11 +47,11 @@ xkb_symbols "basic" {
     key <AB03> {	[	  c,	C		]	};
     key <AB04> {	[	  v,	V		]	};
     key <AB05> {	[	  b,	B		]	};
-    key <AB06> {	[	  n,	N		]	};
+    key <AB06> {	[	  n,	plus		]	};
     key <AB07> {	[	  m,	M		]	};
     key <AB08> {	[     comma,	less		]	};
     key <AB09> {	[    period,	greater		]	};
-    key <AB10> {	[     slash,	question	]	};
+    key <AB10> {	[         D,	question	]	};
 
     key <BKSL> {	[ underscore,   bar		]	};
 };
