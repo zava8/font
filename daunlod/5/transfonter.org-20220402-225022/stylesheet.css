@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'hin54';
-    src: url('hin54.woff2') format('woff2'),
-        url('hin54.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
