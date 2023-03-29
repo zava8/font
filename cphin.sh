@@ -36,7 +36,12 @@ case $instal_kro_kya in
      sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/.config/GIMP/2.10/fonts/
      fc-cache -fv
      sudo fc-cache -fv
+     ;;
+esac
 #############################
+read -p "git commit ? [y,n]" git_kro_kya 
+case $git_kro_kya in  
+  y|Y)
      git add . ; git commit -am "fb.com/ztrabc tvitter.com/etphor" ; git push
      cd ~/mg/free/
      git add . ; git commit -am "fb.com/ztrabc tvitter.com/etphor" ; git push
