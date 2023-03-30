@@ -7,6 +7,7 @@ case $rm_kro_kya in
      rm /home/viml/.local/share/fonts/Monotype/hin5*.ttf
      rm /home/viml/.local/share/fonts/hin5*.ttf
      sudo rm /home/viml/.fonts/hin5*.ttf 
+     sudo rm /root/.local/share/fonts/hin5*.ttf
      sudo rm /usr/local/share/fonts/hin5*.ttf 
      sudo rm /usr/share/fonts/truetype/hscii/hin5*.ttf 
      sudo rm /usr/share/gimp/2.0/fonts/hin5*.ttf 
@@ -34,6 +35,7 @@ case $instal_kro_kya in
      sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /usr/share/fonts/truetype/hscii/
      sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /usr/share/gimp/2.0/fonts/
      sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/.config/GIMP/2.10/fonts/
+     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /root/.local/share/fonts/
      fc-cache -fv
      sudo fc-cache -fv
      ;;
