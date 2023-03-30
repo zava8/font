@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432194851
-ModificationTime: 1680153741
+ModificationTime: 1680164500
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3633,7 +3633,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 65988 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-1" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-2" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-3" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-4" "'abvm' Above Base Mark in Devanagari2 lookup 26 subtable" "Anchor-5" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-6" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-7" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-8" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable" "Anchor-9" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable"
@@ -5445,7 +5445,6 @@ SplineSet
  173 286 l 1,23,-1
  299 286 l 2,15,16
 EndSplineSet
-Kerns2:
 EndChar
 
 StartChar: S
