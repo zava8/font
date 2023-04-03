@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 #############################
 read -p "old hinDi fonts hin*.ttf remove? [y,n]" rm_kro_kya 
 case $rm_kro_kya in  
