@@ -77,7 +77,7 @@ case "${systemfont_cenz_to}" in
    gsettings reset org.nemo.desktop font
      ;;
   *)
-   printf "in case *(default)systemfont_cenz_to ki value ${systemfont_cenz_to} h."
+   printf "\nin case *(default)systemfont_cenz_to ki value ${systemfont_cenz_to} h."
    sleep 4
    gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
@@ -92,7 +92,7 @@ case "${systemfont_cenz_to}" in
    gsettings set org.nemo.desktop font "'${systemfont_cenz_to}'"
      ;;
 esac
-echo "nao system fonts h:"
+echo "\nnao system fonts h:"
 gsettings get org.cinnamon.desktop.interface font-name
 gsettings get org.gnome.desktop.interface font-name
 gsettings get org.gnome.desktop.interface document-font-name
