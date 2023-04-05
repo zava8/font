@@ -82,7 +82,7 @@ case "${systemfont_cenz_to}" in
    gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface document-font-name "'${systemfont_cenz_to}'"
-   gsettings set org.gnome.desktop.interface monospace-font-name 'hin58m 12'
+   gsettings set org.gnome.desktop.interface monospace-font-name 'hin58md 12'
    gsettings set org.cinnamon.desktop.wm.preferences titlebar-uses-system-font false
    gsettings set org.cinnamon.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.wm.preferences titlebar-uses-system-font false
