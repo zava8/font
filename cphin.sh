@@ -63,7 +63,7 @@ sleep 5
 case "${systemfont_cenz_to}" in  
   r|R)
    printf "in case r|R) systemfont_cenz_to ki value ${systemfont_cenz_to} h."
-   sleep 4
+   #sleep 4
    gsettings reset org.cinnamon.desktop.interface font-name
    gsettings reset org.gnome.desktop.interface font-name
    gsettings reset org.gnome.desktop.interface document-font-name
@@ -78,7 +78,7 @@ case "${systemfont_cenz_to}" in
      ;;
   *)
    printf "\nin case *(default)systemfont_cenz_to ki value ${systemfont_cenz_to} h."
-   sleep 4
+   #sleep 4
    gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface document-font-name "'${systemfont_cenz_to}'"
