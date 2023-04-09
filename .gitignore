@@ -5,4 +5,7 @@ diliit/
 .jekyll-cache/
 .jekyll-metadata
 *.zip
+*.swp
+.*.*.swp
+.*.swp
 
