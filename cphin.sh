@@ -104,4 +104,7 @@ gsettings get org.gnome.desktop.wm.preferences titlebar-font
 gsettings get org.x.editor.preferences.editor use-default-font
 gsettings get org.x.editor.preferences.editor editor-font
 gsettings get org.nemo.desktop font
+########################
+printf "firefox font settings select/change:\n"
+./ffox_font_set.sh
 ###### D end ###############
