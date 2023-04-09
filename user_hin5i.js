@@ -3,12 +3,12 @@ user_pref("font.default.x-western", "sans-serif");
 //user_pref("font.language.group", "x-unicode");
 user_pref("font.language.group", "x-western");
 //
-user_pref("font.name.monospace.x-unicode", "Noto Mono");
-user_pref("font.name.monospace.x-western", "Noto Mono");
-user_pref("font.name.sans-serif.x-unicode", "Times New Roman");
-user_pref("font.name.sans-serif.x-western", "Times New Roman");
-user_pref("font.name.serif.x-unicode", "Times New Roman");
-user_pref("font.name.serif.x-western", "Times New Roman");
+user_pref("font.name.monospace.x-unicode", "hin5im");
+user_pref("font.name.monospace.x-western", "hin5im");
+user_pref("font.name.sans-serif.x-unicode", "hin5i");
+user_pref("font.name.sans-serif.x-western", "hin5i");
+user_pref("font.name.serif.x-unicode", "hin5i");
+user_pref("font.name.serif.x-western", "hin5i");
 //
 user_pref("font.name.monospace.x-devanagari", "hin58dm");
 user_pref("font.name.sans-serif.x-devanagari", "hin58d");

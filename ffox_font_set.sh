@@ -1,11 +1,12 @@
 #!/bin/bash
 
-select ffoxfont in hin58d default_font
+select ffoxfont in hin58d hin5i default_font
 do
    printf "ffoxfont is ${ffoxfont}\n"
    for f in ~/.mozilla/firefox/*.default* ; do
          cp ./user_dfont.js "${f}/"
          cp ./user_hin58d.js "${f}/"
+         cp ./user_hin5i.js "${f}/"
          if [[ $(ls ${f}/user.js) ]]
          then
             printf "${f}/user.js yes present\n"
