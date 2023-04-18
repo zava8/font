@@ -107,4 +107,7 @@ gsettings get org.nemo.desktop font
 ########################
 printf "firefox font settings select/change:\n"
 ./ffox_font_set.sh
+########################
+sudo cp zi /usr/share/X11/xkb/symbols/
+setxkbmap zi
 ###### D end ###############
