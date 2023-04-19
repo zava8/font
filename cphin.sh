@@ -59,7 +59,7 @@ system font chenz to :
 printf "${text_content}"
 read -p "system font chenz tu ??? " systemfont_cenz_to
 printf "systemfont_cenz_to ki value ${systemfont_cenz_to} h."
-sleep 5
+#sleep 5
 case "${systemfont_cenz_to}" in  
   r|R)
    printf "in case r|R) systemfont_cenz_to ki value ${systemfont_cenz_to} h."
