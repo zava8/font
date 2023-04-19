@@ -64,46 +64,46 @@ case "${systemfont_cenz_to}" in
   r|R)
    printf "in case r|R) systemfont_cenz_to ki value ${systemfont_cenz_to} h."
    #sleep 4
-   sudo gsettings reset org.cinnamon.desktop.interface font-name
-   sudo gsettings reset org.gnome.desktop.interface font-name
-   sudo gsettings reset org.gnome.desktop.interface document-font-name
-   sudo gsettings reset org.gnome.desktop.interface monospace-font-name
-   sudo gsettings reset org.cinnamon.desktop.wm.preferences titlebar-uses-system-font
-   sudo gsettings reset org.cinnamon.desktop.wm.preferences titlebar-font
-   sudo gsettings reset org.gnome.desktop.wm.preferences titlebar-uses-system-font
-   sudo gsettings reset org.gnome.desktop.wm.preferences titlebar-font
-   sudo gsettings reset org.x.editor.preferences.editor use-default-font
-   sudo gsettings reset org.x.editor.preferences.editor editor-font
-   sudo gsettings reset org.nemo.desktop font
+   gsettings reset org.cinnamon.desktop.interface font-name
+   gsettings reset org.gnome.desktop.interface font-name
+   gsettings reset org.gnome.desktop.interface document-font-name
+   gsettings reset org.gnome.desktop.interface monospace-font-name
+   gsettings reset org.cinnamon.desktop.wm.preferences titlebar-uses-system-font
+   gsettings reset org.cinnamon.desktop.wm.preferences titlebar-font
+   gsettings reset org.gnome.desktop.wm.preferences titlebar-uses-system-font
+   gsettings reset org.gnome.desktop.wm.preferences titlebar-font
+   gsettings reset org.x.editor.preferences.editor use-default-font
+   gsettings reset org.x.editor.preferences.editor editor-font
+   gsettings reset org.nemo.desktop font
      ;;
   *)
    printf "\nin case *(default)systemfont_cenz_to ki value ${systemfont_cenz_to} h."
    #sleep 4
-   sudo gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
-   sudo gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
-   sudo gsettings set org.gnome.desktop.interface document-font-name "'${systemfont_cenz_to}'"
-   sudo gsettings set org.gnome.desktop.interface monospace-font-name 'hin58md 12'
-   sudo gsettings set org.cinnamon.desktop.wm.preferences titlebar-uses-system-font false
-   sudo gsettings set org.cinnamon.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
-   sudo gsettings set org.gnome.desktop.wm.preferences titlebar-uses-system-font false
-   sudo gsettings set org.gnome.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
-   sudo gsettings set org.x.editor.preferences.editor use-default-font false
-   sudo gsettings set org.x.editor.preferences.editor editor-font "'${systemfont_cenz_to}'"
-   sudo gsettings set org.nemo.desktop font "'${systemfont_cenz_to}'"
+   gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
+   gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
+   gsettings set org.gnome.desktop.interface document-font-name "'${systemfont_cenz_to}'"
+   gsettings set org.gnome.desktop.interface monospace-font-name 'hin58md 12'
+   gsettings set org.cinnamon.desktop.wm.preferences titlebar-uses-system-font false
+   gsettings set org.cinnamon.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
+   gsettings set org.gnome.desktop.wm.preferences titlebar-uses-system-font false
+   gsettings set org.gnome.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
+   gsettings set org.x.editor.preferences.editor use-default-font false
+   gsettings set org.x.editor.preferences.editor editor-font "'${systemfont_cenz_to}'"
+   gsettings set org.nemo.desktop font "'${systemfont_cenz_to}'"
      ;;
 esac
 echo "\nnao system fonts h:"
-sudo gsettings get org.cinnamon.desktop.interface font-name
-sudo gsettings get org.gnome.desktop.interface font-name
-sudo gsettings get org.gnome.desktop.interface document-font-name
-sudo gsettings get org.gnome.desktop.interface monospace-font-name
-sudo gsettings get org.cinnamon.desktop.wm.preferences titlebar-uses-system-font
-sudo gsettings get org.cinnamon.desktop.wm.preferences titlebar-font
-sudo gsettings get org.gnome.desktop.wm.preferences titlebar-uses-system-font
-sudo gsettings get org.gnome.desktop.wm.preferences titlebar-font
-sudo gsettings get org.x.editor.preferences.editor use-default-font
-sudo gsettings get org.x.editor.preferences.editor editor-font
-sudo gsettings get org.nemo.desktop font
+gsettings get org.cinnamon.desktop.interface font-name
+gsettings get org.gnome.desktop.interface font-name
+gsettings get org.gnome.desktop.interface document-font-name
+gsettings get org.gnome.desktop.interface monospace-font-name
+gsettings get org.cinnamon.desktop.wm.preferences titlebar-uses-system-font
+gsettings get org.cinnamon.desktop.wm.preferences titlebar-font
+gsettings get org.gnome.desktop.wm.preferences titlebar-uses-system-font
+gsettings get org.gnome.desktop.wm.preferences titlebar-font
+gsettings get org.x.editor.preferences.editor use-default-font
+gsettings get org.x.editor.preferences.editor editor-font
+gsettings get org.nemo.desktop font
 ########################
 printf "firefox font settings select/change:\n"
 ./ffox_font_set.sh
