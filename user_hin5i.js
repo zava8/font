@@ -10,9 +10,9 @@ user_pref("font.name.sans-serif.x-western", "hin5i");
 user_pref("font.name.serif.x-unicode", "hin5i");
 user_pref("font.name.serif.x-western", "hin5i");
 //
-user_pref("font.name.monospace.x-devanagari", "hin58dm");
-user_pref("font.name.sans-serif.x-devanagari", "hin58d");
-user_pref("font.name.serif.x-devanagari", "hin58d");
+user_pref("font.name.monospace.x-devanagari", "hin58m");
+user_pref("font.name.sans-serif.x-devanagari", "hin58");
+user_pref("font.name.serif.x-devanagari", "hin58");
 //
 user_pref("font.size.monospace.x-unicode", 18);
 user_pref("font.size.monospace.x-western", 18);
