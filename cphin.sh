@@ -4,38 +4,39 @@ read -p "old hinDi fonts hin*.ttf remove? [y,n]" rm_kro_kya
 case $rm_kro_kya in  
   y|Y)
      echo "yes old hinDi fonts hin*.ttf removing starts"
-     rm /home/viml/.local/share/fonts/Monotype/hin5*.ttf
-     rm /home/viml/.local/share/fonts/hin5*.ttf
-     sudo rm /home/viml/.fonts/hin5*.ttf 
+     rm ~/.local/share/fonts/Monotype/hin5*.ttf
+     rm ~/.local/share/fonts/hin5*.ttf
+     sudo rm ~/.fonts/hin5*.ttf 
      sudo rm /root/.local/share/fonts/hin5*.ttf
      sudo rm /usr/local/share/fonts/hin5*.ttf 
      sudo rm /usr/share/fonts/truetype/hscii/hin5*.ttf 
      sudo rm /usr/share/gimp/2.0/fonts/hin5*.ttf 
-     sudo rm /home/viml/.config/GIMP/2.10/fonts/hin5*.ttf 
+     sudo rm ~/.config/GIMP/2.10/fonts/hin5*.ttf 
      echo yes old hinDi fonts hin*.ttf removing ends
      ;; 
   n|N) echo no ;; 
   *) echo dont know ;; 
 esac
 ############################
-cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/mg/free/font/
-cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/mg/dounload/font/5/
-cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/mg/font/daunlod/5/
-cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/mg/hpop/app/src/main/res/font/
-cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/mg/si_hpop/app/src/main/res/font/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/free/font/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/dounload/font/5/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/font/daunlod/5/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/hpop/app/src/main/res/font/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/si_hpop/app/src/main/res/font/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/zava8.github.io/font/
 ############################
 read -p "hin5*.ttf install ? [y,n]" instal_kro_kya 
 case $instal_kro_kya in  
   y|Y)
      echo "yes old hinDi fonts hin*.ttf removing starts"
-     cp /home/viml/mg/font/sfd/5/hin5*m.ttf /home/viml/.local/share/fonts/Monotype/
-     cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/.local/share/fonts/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/.fonts/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /usr/local/share/fonts/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /usr/share/fonts/truetype/hscii/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /usr/share/gimp/2.0/fonts/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /home/viml/.config/GIMP/2.10/fonts/
-     sudo cp /home/viml/mg/font/sfd/5/hin5*.ttf /root/.local/share/fonts/
+     cp ~/mg/font/sfd/5/hin5*m.ttf ~/.local/share/fonts/Monotype/
+     cp ~/mg/font/sfd/5/hin5*.ttf ~/.local/share/fonts/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf ~/.fonts/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf /usr/local/share/fonts/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf /usr/share/fonts/truetype/hscii/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf /usr/share/gimp/2.0/fonts/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf ~/.config/GIMP/2.10/fonts/
+     sudo cp ~/mg/font/sfd/5/hin5*.ttf /root/.local/share/fonts/
      fc-cache -fv
      sudo fc-cache -fv
      ;;
@@ -47,6 +48,9 @@ case $git_kro_kya in
      git add . ; git commit -am "fb.com/ztrabc tvitter.com/etphor" ; git push
      cd ~/mg/free/
      git add . ; git commit -am "fb.com/ztrabc tvitter.com/etphor" ; git push
+     cd ~/mg/zava8.github.io/
+     git add . ; git commit -am "fb.com/ztrabc tvitter.com/etphor" ; git push
+     cd ~/mg/font/
      ;;
 esac
 ###### D end ###############
@@ -82,7 +86,7 @@ case "${systemfont_cenz_to}" in
    gsettings set org.cinnamon.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface font-name "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.interface document-font-name "'${systemfont_cenz_to}'"
-   gsettings set org.gnome.desktop.interface monospace-font-name 'hin58md 12'
+   gsettings set org.gnome.desktop.interface monospace-font-name 'hin58m 16'
    gsettings set org.cinnamon.desktop.wm.preferences titlebar-uses-system-font false
    gsettings set org.cinnamon.desktop.wm.preferences titlebar-font "'${systemfont_cenz_to}'"
    gsettings set org.gnome.desktop.wm.preferences titlebar-uses-system-font true
