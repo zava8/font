@@ -3633,7 +3633,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 27 10
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-1" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-2" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-3" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-4" "'abvm' Above Base Mark in Devanagari2 lookup 26 subtable" "Anchor-5" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-6" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-7" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-8" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable" "Anchor-9" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable"
@@ -4916,7 +4916,7 @@ SplineSet
  143 401 l 1,63,-1
  205 424 l 1,60,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: C
@@ -5025,7 +5025,7 @@ SplineSet
  450 17 450 17 480 -24 c 1,59,-1
  413 -58 l 1,0,1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -5080,7 +5080,7 @@ SplineSet
  393 435 393 435 364.5 454.5 c 128,-1,50
  336 474 336 474 291 474 c 0,43,44
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Kerns2: 51 60 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -5173,7 +5173,7 @@ SplineSet
  411 430 411 430 376 451 c 128,-1,70
  341 472 341 472 287 472 c 0,54,55
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: H
@@ -5233,7 +5233,7 @@ SplineSet
  413 19 413 19 348 2 c 1,59,-1
  321 69 l 1,29,30
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: I
@@ -5266,7 +5266,7 @@ SplineSet
  85 536 l 1,22,-1
  173 536 l 1,19,-1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: J
@@ -5386,7 +5386,7 @@ SplineSet
  777 622 l 1,79,-1
  777 551 l 1,19,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: L
@@ -5482,7 +5482,7 @@ SplineSet
  428 321 l 1,45,-1
  428 551 l 1,42,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: N
@@ -5513,7 +5513,7 @@ SplineSet
  469 572 l 1,17,-1
  548 572 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: O
@@ -5568,7 +5568,7 @@ SplineSet
  220 472 220 472 183 418 c 128,-1,51
  146 364 146 364 146 269 c 0,37,38
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -5629,7 +5629,7 @@ SplineSet
  398 246 l 1,54,-1
  398 551 l 1,40,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 95 -10 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -5680,7 +5680,7 @@ SplineSet
  477 407 477 407 486 427 c 5,49,-1
  486 571 l 5,40,41
 EndSplineSet
-Validated: 524325
+Validated: 37
 Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -5742,7 +5742,7 @@ SplineSet
  424 551 l 1,58,-1
  284 551 l 1,19,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: S
@@ -5828,7 +5828,7 @@ SplineSet
  282 328 282 328 311 325 c 128,-1,87
  340 322 340 322 369 322 c 0,71,72
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: T
@@ -5956,7 +5956,7 @@ SplineSet
  571 622 l 1,57,-1
  571 551 l 1,19,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: W
@@ -6090,7 +6090,7 @@ SplineSet
  410 551 l 1,58,-1
  175 551 l 1,43,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 95 -30 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
@@ -6152,7 +6152,7 @@ SplineSet
  757 551 l 1,57,-1
  653 551 l 1,19,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: a
@@ -6335,7 +6335,7 @@ SplineSet
  453 187 453 187 428.5 204.5 c 128,-1,55
  404 222 404 222 358 222 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: e
@@ -6433,7 +6433,7 @@ SplineSet
  379 551 l 1,56,-1
  160 551 l 1,43,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: g
@@ -6642,7 +6642,7 @@ SplineSet
  777 622 l 1,60,-1
  777 551 l 1,0,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: l
@@ -6930,7 +6930,7 @@ SplineSet
  424 551 l 1,39,-1
  284 551 l 1,0,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: s
@@ -7042,7 +7042,7 @@ SplineSet
  519 622 l 1,34,-1
  519 551 l 1,0,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: u
@@ -9814,7 +9814,7 @@ SplineSet
  477 407 477 407 486 427 c 5,49,-1
  486 571 l 5,40,41
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: uni009D

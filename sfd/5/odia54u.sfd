@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1573797574
-ModificationTime: 1683464979
+ModificationTime: 1683812994
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -298,20 +298,20 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "odia54u 2.003;GOOG;NotoSansOriya-Regular" "" "Version 2.003" "" "Noto is a trademark of Google Inc." "Google LLC" "Am+AOkA-lie Bonet and Sol Matas" "Designed by Am+AOkA-lie Bonet and Sol Matas" "http://www.google.com/get/noto/" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-OtfFeatName: 'ss03' 1033 "Latin to Oriya Figures"
-OtfFeatName: 'ss02' 1033 "Oriya to Latin Figures"
 OtfFeatName: 'ss01' 1033 "KaTaRa Alternate"
+OtfFeatName: 'ss02' 1033 "Oriya to Latin Figures"
+OtfFeatName: 'ss03' 1033 "Latin to Oriya Figures"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 27 10
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-1" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-2" "'blwm' Below Base Mark lookup 2 subtable" "Anchor-3" "'blwm' Below Base Mark lookup 2 subtable" "Anchor-4" "'blwm' Below Base Mark lookup 2 subtable" "Anchor-5" "'blwm' Below Base Mark lookup 3 subtable" "Anchor-6" "'mark' Mark Positioning lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning lookup 4 subtable" "Anchor-8" "'mark' Mark Positioning lookup 4 subtable" "Anchor-9" "'mark' Mark Positioning lookup 4 subtable" "Anchor-10" "'mark' Mark Positioning lookup 4 subtable" "Anchor-11" "'mkmk' Mark to Mark lookup 5 subtable" "Anchor-12" "'mkmk' Mark to Mark lookup 6 subtable"
-BeginChars: 65895 128
+BeginChars: 65895 129
 
 StartChar: NULL
 Encoding: 0 -1 0
@@ -6094,6 +6094,13 @@ SplineSet
  187 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 128
+Width: 260
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

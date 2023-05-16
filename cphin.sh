@@ -1,29 +1,13 @@
 #!/bin/bash -i
 #############################
-read -p "old hinDi fonts hin*.ttf remove? [y,n]" rm_kro_kya 
-case $rm_kro_kya in  
-  y|Y)
-     echo "yes old hinDi fonts hin*.ttf removing starts"
-     rm ~/.local/share/fonts/Monotype/hin5*.ttf
-     rm ~/.local/share/fonts/hin5*.ttf
-     sudo rm ~/.fonts/hin5*.ttf 
-     sudo rm /root/.local/share/fonts/hin5*.ttf
-     sudo rm /usr/local/share/fonts/hin5*.ttf 
-     sudo rm /usr/share/fonts/truetype/hscii/hin5*.ttf 
-     sudo rm /usr/share/gimp/2.0/fonts/hin5*.ttf 
-     sudo rm ~/.config/GIMP/2.10/fonts/hin5*.ttf 
-     echo yes old hinDi fonts hin*.ttf removing ends
-     ;; 
-  n|N) echo no ;; 
-  *) echo dont know ;; 
-esac
+./uninstall_fonts.sh
 ############################
 cp ~/mg/font/sfd/5/*.ttf ~/mg/free/font/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/dounload/font/5/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/font/daunlod/5/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/hpop/app/src/main/res/font/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/si_hpop/app/src/main/res/font/
-cp ~/mg/font/sfd/5/*.ttf ~/mg/zava8.github.io/font/
+cp ~/mg/font/sfd/5/*.ttf ~/mg/zava8.github.io/docs/font/
 ############################
 read -p "hin5*.ttf install ? [y,n]" instal_kro_kya 
 case $instal_kro_kya in  

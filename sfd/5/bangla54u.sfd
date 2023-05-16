@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1499331109
-ModificationTime: 1683466191
+ModificationTime: 1683812160
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -593,11 +593,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 10
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Bengali2 lookup 4 subtable" "Anchor-1" "'abvm' Above Base Mark in Bengali2 lookup 4 subtable" "Anchor-2" "'abvm' Above Base Mark in Bengali2 lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning in Bengali2 lookup 7 subtable" "Anchor-4" "'mark' Mark Positioning in Bengali2 lookup 7 subtable" "Anchor-5" "'mark' Mark Positioning in Bengali2 lookup 7 subtable"
-BeginChars: 66017 129
+BeginChars: 66017 130
 
 StartChar: NULL
 Encoding: 0 -1 0
@@ -1784,7 +1784,7 @@ SplineSet
  419 511 419 511 423 468 c 1,65,-1
  344 465 l 1,57,58
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 50 50 "'dist' Distance in Bengali2 lookup 5 per glyph data 0"
 EndChar
 
@@ -6189,6 +6189,13 @@ SplineSet
  187 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 129
+Width: 283
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

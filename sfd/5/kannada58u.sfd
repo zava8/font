@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1528877849
-ModificationTime: 1683710978
+ModificationTime: 1683783825
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -7940,11 +7940,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 27 10
+WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Kannada2 lookup 7 subtable" "Anchor-1" "'mark' Mark Positioning in Kannada2 lookup 8 subtable" "Cursive-2" "'curs' Cursive Attachment in Kannada2 lookup 9 subtable"
-BeginChars: 65860 129
+BeginChars: 65860 130
 
 StartChar: NULL
 Encoding: 0 -1 0
@@ -14286,6 +14286,13 @@ SplineSet
  187 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 129
+Width: 260
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

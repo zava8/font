@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1634404486
-ModificationTime: 1683452903
+ModificationTime: 1683810087
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3294,11 +3294,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 10
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark lookup 2 subtable" "Anchor-1" "'abvm' Above Base Mark lookup 2 subtable" "Anchor-2" "'abvm' Above Base Mark lookup 2 subtable" "Anchor-3" "'abvm' Above Base Mark lookup 2 subtable" "Anchor-4" "'mark' Mark Positioning lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning lookup 3 subtable" "Anchor-6" "'mark' Mark Positioning lookup 3 subtable" "Anchor-7" "'mark' Mark Positioning lookup 3 subtable"
-BeginChars: 66177 129
+BeginChars: 66177 130
 
 StartChar: NULL
 Encoding: 0 -1 0
@@ -4504,7 +4504,7 @@ SplineSet
  867 0 l 1,84,-1
  856 0 l 2,68,69
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 50 50 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
 EndChar
 
@@ -4641,7 +4641,7 @@ SplineSet
  173 358 173 358 232 333 c 1,60,-1
  156 292 l 1,40,41
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Kerns2: 64 -20 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
 EndChar
 
@@ -4788,7 +4788,7 @@ SplineSet
  577 225 577 225 535 193 c 128,-1,61
  493 161 493 161 422 161 c 0,24,25
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: I
@@ -4987,7 +4987,7 @@ SplineSet
  469 572 l 1,17,-1
  548 572 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: O
@@ -5109,7 +5109,7 @@ SplineSet
  477 407 477 407 486 427 c 5,49,-1
  486 571 l 5,40,41
 EndSplineSet
-Validated: 524325
+Validated: 37
 Kerns2: 64 -20 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
 EndChar
 
@@ -5146,7 +5146,6 @@ SplineSet
  348 636 348 636 289 636 c 2,16,-1
 EndSplineSet
 Validated: 1
-Kerns2:
 EndChar
 
 StartChar: S
@@ -5542,7 +5541,7 @@ SplineSet
  418 5 418 5 383 -2.5 c 128,-1,23
  348 -10 348 -10 301 -10 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: d
@@ -5693,7 +5692,7 @@ SplineSet
  289 297 l 1,74,-1
  65 211 l 1,69,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: g
@@ -5838,7 +5837,7 @@ SplineSet
  56 536 l 1,17,-1
  424 536 l 1,0,-1
 EndSplineSet
-Validated: 1049089
+Validated: 513
 Substitution2: "Single Substitution lookup 105 subtable" uni0237
 Substitution2: "Single Substitution lookup 104 subtable" uni0237
 EndChar
@@ -5895,7 +5894,7 @@ SplineSet
  289 297 l 1,50,-1
  65 211 l 1,45,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: l
@@ -6161,7 +6160,7 @@ SplineSet
  85 625 l 2,29,30
  85 765 85 765 206 765 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: r
@@ -6400,27 +6399,36 @@ AnchorPoint: "Anchor-0" 258 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-496 541 m 0,0,1
- 508 541 508 541 518 539 c 128,-1,2
- 528 537 528 537 537 535 c 1,3,-1
- 537 467 l 1,4,5
- 524 472 524 472 503 472 c 0,6,7
- 481 472 481 472 467 452 c 128,-1,8
- 453 432 453 432 439 390 c 2,9,-1
- 316 0 l 1,10,-1
- 199 0 l 1,11,-1
- 0 536 l 1,12,-1
- 92 536 l 1,13,-1
- 219 181 l 2,14,15
- 234 139 234 139 244 107.5 c 128,-1,16
- 254 76 254 76 256 62 c 1,17,-1
- 260 62 l 1,18,19
- 264 83 264 83 272 119 c 128,-1,20
- 280 155 280 155 291 189 c 2,21,-1
- 361 407 l 2,22,23
- 378 459 378 459 394.5 488 c 128,-1,24
- 411 517 411 517 434.5 529 c 128,-1,25
- 458 541 458 541 496 541 c 0,0,1
+259 682 m 4,0,1
+ 279 682 279 682 294.5 668.5 c 132,-1,2
+ 310 655 310 655 310 626 c 4,3,4
+ 310 598 310 598 294.5 584 c 132,-1,5
+ 279 570 279 570 259 570 c 4,6,7
+ 237 570 237 570 222 584 c 132,-1,8
+ 207 598 207 598 207 626 c 4,9,10
+ 207 655 207 655 222 668.5 c 132,-1,11
+ 237 682 237 682 259 682 c 4,0,1
+496 541 m 0,12,13
+ 508 541 508 541 518 539 c 128,-1,14
+ 528 537 528 537 537 535 c 1,15,-1
+ 537 467 l 1,16,17
+ 524 472 524 472 503 472 c 0,18,19
+ 481 472 481 472 467 452 c 128,-1,20
+ 453 432 453 432 439 390 c 2,21,-1
+ 316 0 l 1,22,-1
+ 199 0 l 1,23,-1
+ 0 536 l 1,24,-1
+ 92 536 l 1,25,-1
+ 219 181 l 2,26,27
+ 234 139 234 139 244 107.5 c 128,-1,28
+ 254 76 254 76 256 62 c 1,29,-1
+ 260 62 l 1,30,31
+ 264 83 264 83 272 119 c 128,-1,32
+ 280 155 280 155 291 189 c 2,33,-1
+ 361 407 l 2,34,35
+ 378 459 378 459 394.5 488 c 128,-1,36
+ 411 517 411 517 434.5 529 c 128,-1,37
+ 458 541 458 541 496 541 c 0,12,13
 EndSplineSet
 EndChar
 
@@ -9104,7 +9112,7 @@ SplineSet
  477 407 477 407 486 427 c 5,49,-1
  486 571 l 5,40,41
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: uni009D
@@ -9199,6 +9207,13 @@ SplineSet
  187 0 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 129
+Width: 260
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
