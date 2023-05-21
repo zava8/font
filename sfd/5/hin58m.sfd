@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432194851
-ModificationTime: 1684143397
+ModificationTime: 1684650988
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3633,11 +3633,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 0 27 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-1" "'abvm' Above Base Mark in Devanagari2 lookup 24 subtable" "Anchor-2" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-3" "'abvm' Above Base Mark in Devanagari2 lookup 25 subtable" "Anchor-4" "'abvm' Above Base Mark in Devanagari2 lookup 26 subtable" "Anchor-5" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-6" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-7" "'mark' Mark Positioning in Devanagari2 lookup 33 subtable" "Anchor-8" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable" "Anchor-9" "'mark' Mark Positioning in Devanagari2 lookup 34 subtable"
-BeginChars: 66219 161
+BeginChars: 66219 130
 
 StartChar: null
 Encoding: 0 -1 0
@@ -3647,22 +3647,15 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: CR
-Encoding: 13 13 1
-Width: 771
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: space
-Encoding: 32 32 2
+Encoding: 32 32 1
 Width: 771
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: exclam.deva
-Encoding: 33 33 3
+Encoding: 33 33 2
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3686,7 +3679,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl.deva
-Encoding: 34 34 4
+Encoding: 34 34 3
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3706,7 +3699,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign.deva
-Encoding: 35 35 5
+Encoding: 35 35 4
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3750,7 +3743,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent.deva
-Encoding: 37 37 6
+Encoding: 37 37 5
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3801,7 +3794,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle.deva
-Encoding: 39 39 7
+Encoding: 39 39 6
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3816,7 +3809,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft.deva
-Encoding: 40 40 8
+Encoding: 40 40 7
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3837,7 +3830,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright.deva
-Encoding: 41 41 9
+Encoding: 41 41 8
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3858,7 +3851,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk.deva
-Encoding: 42 42 10
+Encoding: 42 42 9
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3884,7 +3877,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus.deva
-Encoding: 43 43 11
+Encoding: 43 43 10
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3907,7 +3900,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma.deva
-Encoding: 44 44 12
+Encoding: 44 44 11
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3928,7 +3921,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen.deva
-Encoding: 45 45 13
+Encoding: 45 45 12
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3943,7 +3936,7 @@ EndSplineSet
 EndChar
 
 StartChar: period.deva
-Encoding: 46 46 14
+Encoding: 46 46 13
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3962,7 +3955,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash.deva
-Encoding: 47 47 15
+Encoding: 47 47 14
 Width: 771
 Flags: W
 LayerCount: 2
@@ -3977,7 +3970,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.deva
-Encoding: 48 48 16
+Encoding: 48 48 15
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4017,7 +4010,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.deva
-Encoding: 49 49 17
+Encoding: 49 49 16
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4047,7 +4040,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.deva
-Encoding: 50 50 18
+Encoding: 50 50 17
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4082,7 +4075,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.deva
-Encoding: 51 51 19
+Encoding: 51 51 18
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4129,7 +4122,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.deva
-Encoding: 52 52 20
+Encoding: 52 52 19
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4162,7 +4155,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.deva
-Encoding: 53 53 21
+Encoding: 53 53 20
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4199,7 +4192,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.deva
-Encoding: 54 54 22
+Encoding: 54 54 21
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4249,7 +4242,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.deva
-Encoding: 55 55 23
+Encoding: 55 55 22
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4267,7 +4260,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.deva
-Encoding: 56 56 24
+Encoding: 56 56 23
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4323,7 +4316,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.deva
-Encoding: 57 57 25
+Encoding: 57 57 24
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4373,7 +4366,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon.deva
-Encoding: 58 58 26
+Encoding: 58 58 25
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4401,7 +4394,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon.deva
-Encoding: 59 59 27
+Encoding: 59 59 26
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4431,7 +4424,7 @@ EndSplineSet
 EndChar
 
 StartChar: less.deva
-Encoding: 60 60 28
+Encoding: 60 60 27
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4449,7 +4442,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal.deva
-Encoding: 61 61 29
+Encoding: 61 61 28
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4469,7 +4462,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater.deva
-Encoding: 62 62 30
+Encoding: 62 62 29
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4487,7 +4480,7 @@ EndSplineSet
 EndChar
 
 StartChar: question.deva
-Encoding: 63 63 31
+Encoding: 63 63 30
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4532,7 +4525,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft.deva
-Encoding: 91 91 32
+Encoding: 91 91 31
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4551,7 +4544,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash.deva
-Encoding: 92 92 33
+Encoding: 92 92 32
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4566,7 +4559,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright.deva
-Encoding: 93 93 34
+Encoding: 93 93 33
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4585,7 +4578,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum.deva
-Encoding: 94 94 35
+Encoding: 94 94 34
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4603,7 +4596,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore.deva
-Encoding: 95 95 36
+Encoding: 95 95 35
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4618,7 +4611,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft.deva
-Encoding: 123 123 37
+Encoding: 123 123 36
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4656,7 +4649,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar.deva
-Encoding: 124 124 38
+Encoding: 124 124 37
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4671,7 +4664,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright.deva
-Encoding: 125 125 39
+Encoding: 125 125 38
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4709,7 +4702,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde.deva
-Encoding: 126 126 40
+Encoding: 126 126 39
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4744,14 +4737,14 @@ EndSplineSet
 EndChar
 
 StartChar: uni00A0.deva
-Encoding: 160 160 41
+Encoding: 160 160 40
 Width: 771
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: A
-Encoding: 65 65 42
+Encoding: 65 65 41
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4818,11 +4811,11 @@ SplineSet
  381.5 358 381.5 358 413.5 354 c 128,-1,72
  445.5 350 445.5 350 479.5 350 c 0,57,58
 EndSplineSet
-Kerns2: 51 50 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 50 50 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: B
-Encoding: 66 66 43
+Encoding: 66 66 42
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 378 798 basechar 0
@@ -4888,7 +4881,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 44
+Encoding: 67 67 43
 Width: 771
 Flags: W
 LayerCount: 2
@@ -4933,7 +4926,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 68 68 45
+Encoding: 68 68 44
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 397.5 0 basechar 0
@@ -4990,11 +4983,11 @@ SplineSet
  568.5 17 568.5 17 598.5 -24 c 5,59,-1
  531.5 -58 l 5,0,1
 EndSplineSet
-Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 64 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: E
-Encoding: 69 69 46
+Encoding: 69 69 45
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 404.775 536 basechar 0
@@ -5038,11 +5031,11 @@ SplineSet
  603.950195312 11 603.950195312 11 548.6953125 0.5 c 128,-1,45
  493.440429688 -10 493.440429688 -10 413.76953125 -10 c 0,0,1
 EndSplineSet
-Kerns2: 51 60 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 50 60 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: F
-Encoding: 70 70 47
+Encoding: 70 70 46
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 732.45 572 basechar 0
@@ -5063,11 +5056,11 @@ SplineSet
  273.705078125 0 l 1,9,-1
  161.91015625 0 l 1,0,-1
 EndSplineSet
-Kerns2: 42 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 41 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: G
-Encoding: 71 71 48
+Encoding: 71 71 47
 Width: 771
 Flags: W
 LayerCount: 2
@@ -5134,7 +5127,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 72 72 49
+Encoding: 72 72 48
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 378.5 0 basechar 0
@@ -5193,7 +5186,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 73 73 50
+Encoding: 73 73 49
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-4" 398.35 283 basechar 0
@@ -5233,7 +5226,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 74 74 51
+Encoding: 74 74 50
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 742.088 572 basechar 0
@@ -5260,7 +5253,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 75 75 52
+Encoding: 75 75 51
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 415 0 basechar 0
@@ -5337,7 +5330,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 76 76 53
+Encoding: 76 76 52
 Width: 771
 Flags: W
 LayerCount: 2
@@ -5378,7 +5371,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 77 77 54
+Encoding: 77 77 53
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 385.5 798 basechar 0
@@ -5431,7 +5424,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 78 78 55
+Encoding: 78 78 54
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 386 798 basechar 0
@@ -5479,7 +5472,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 79 79 56
+Encoding: 79 79 55
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 384.5 794 basechar 0
@@ -5530,11 +5523,11 @@ SplineSet
  302.5 472 302.5 472 265.5 418 c 128,-1,51
  228.5 364 228.5 364 228.5 269 c 0,37,38
 EndSplineSet
-Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 64 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: P
-Encoding: 80 80 57
+Encoding: 80 80 56
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 379 797 basechar 0
@@ -5590,11 +5583,11 @@ SplineSet
  492 246 l 1,54,-1
  492 551 l 1,40,-1
 EndSplineSet
-Kerns2: 95 -10 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 94 -10 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 64 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: Q
-Encoding: 81 81 58
+Encoding: 81 81 57
 Width: 771
 Flags: W
 LayerCount: 2
@@ -5640,11 +5633,11 @@ SplineSet
  603.950195312 351 603.950195312 351 615.514648438 371 c 5,49,-1
  615.514648438 515 l 5,40,41
 EndSplineSet
-Kerns2: 65 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 64 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: R
-Encoding: 82 82 59
+Encoding: 82 82 58
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 366.5 0 basechar 0
@@ -5704,7 +5697,7 @@ EndSplineSet
 EndChar
 
 StartChar: S
-Encoding: 83 83 60
+Encoding: 83 83 59
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 409 796 basechar 0
@@ -5789,7 +5782,7 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 84 84 61
+Encoding: 84 84 60
 Width: 771
 Flags: W
 LayerCount: 2
@@ -5824,11 +5817,11 @@ SplineSet
  677.5 551 l 5,32,-1
  574.5 551 l 5,0,-1
 EndSplineSet
-Kerns2: 95 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 94 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: U
-Encoding: 85 85 62
+Encoding: 85 85 61
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 751.725 572 basechar 0
@@ -5857,7 +5850,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 86 86 63
+Encoding: 86 86 62
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 376 797 basechar 0
@@ -5916,7 +5909,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 87 87 64
+Encoding: 87 87 63
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 385.5 536 basechar 0
@@ -5964,7 +5957,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 88 88 65
+Encoding: 88 88 64
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 745.942 572 basechar 0
@@ -5990,7 +5983,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 66
+Encoding: 89 89 65
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 373 798 basechar 0
@@ -6048,11 +6041,11 @@ SplineSet
  498 551 l 5,58,-1
  263 551 l 5,43,-1
 EndSplineSet
-Kerns2: 95 -30 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 94 -30 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: Z
-Encoding: 90 90 67
+Encoding: 90 90 66
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 355 798 basechar 0
@@ -6112,7 +6105,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 97 97 68
+Encoding: 97 97 67
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 758.15 536 basechar 0
@@ -6161,7 +6154,7 @@ EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 98 98 69
+Encoding: 98 98 68
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6210,7 +6203,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 99 99 70
+Encoding: 99 99 69
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6239,7 +6232,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 100 100 71
+Encoding: 100 100 70
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 405.5 0 basechar 0
@@ -6295,7 +6288,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 101 101 72
+Encoding: 101 101 71
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6331,7 +6324,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 102 102 73
+Encoding: 102 102 72
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 418.5 0 basechar 0
@@ -6391,7 +6384,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 103 103 74
+Encoding: 103 103 73
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6441,7 +6434,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 104 104 75
+Encoding: 104 104 74
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6474,7 +6467,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 105 105 76
+Encoding: 105 105 75
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-4" 398.35 283 basechar 0
@@ -6510,7 +6503,7 @@ Substitution2: "Single Substitution lookup 126 subtable" dotlessi
 EndChar
 
 StartChar: j
-Encoding: 106 106 77
+Encoding: 106 106 76
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6538,7 +6531,7 @@ Substitution2: "Single Substitution lookup 126 subtable" uni0237
 EndChar
 
 StartChar: k
-Encoding: 107 107 78
+Encoding: 107 107 77
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 417.5 0 basechar 0
@@ -6599,7 +6592,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 108 108 79
+Encoding: 108 108 78
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6652,7 +6645,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 109 109 80
+Encoding: 109 109 79
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6688,7 +6681,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 110 110 81
+Encoding: 110 110 80
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6719,7 +6712,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 111 111 82
+Encoding: 111 111 81
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6756,7 +6749,7 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 112 112 83
+Encoding: 112 112 82
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6798,7 +6791,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 113 113 84
+Encoding: 113 113 83
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-1" 347.5 765 basechar 0
@@ -6836,7 +6829,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 114 114 85
+Encoding: 114 114 84
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 347.5 0 basechar 0
@@ -6880,7 +6873,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 115 115 86
+Encoding: 115 115 85
 Width: 771
 Flags: W
 LayerCount: 2
@@ -6948,7 +6941,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 116 116 87
+Encoding: 116 116 86
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 384 0 basechar 0
@@ -6990,7 +6983,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 117 117 88
+Encoding: 117 117 87
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7021,7 +7014,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 118 118 89
+Encoding: 118 118 88
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7063,7 +7056,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 119 119 90
+Encoding: 119 119 89
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7095,7 +7088,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 120 120 91
+Encoding: 120 120 90
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7118,7 +7111,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 121 121 92
+Encoding: 121 121 91
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7162,7 +7155,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 122 122 93
+Encoding: 122 122 92
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7205,7 +7198,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 64 64 94
+Encoding: 64 64 93
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7274,7 +7267,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 95
+Encoding: 38 38 94
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7327,11 +7320,11 @@ SplineSet
  457.459960938 28 457.459960938 28 399.634765625 9 c 128,-1,58
  341.809570312 -10 341.809570312 -10 274.990234375 -10 c 0,0,1
 EndSplineSet
-Kerns2: 66 -30 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 64 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 63 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 61 -60 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
+Kerns2: 65 -30 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 63 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 62 -20 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0" 60 -60 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 96
+Encoding: 36 36 95
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7386,7 +7379,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 96 96 97
+Encoding: 96 96 96
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7408,7 +7401,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0080
-Encoding: 128 128 98
+Encoding: 128 128 97
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7554,7 +7547,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0081
-Encoding: 129 129 99
+Encoding: 129 129 98
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7683,7 +7676,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0082
-Encoding: 130 130 100
+Encoding: 130 130 99
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7812,7 +7805,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0083
-Encoding: 131 131 101
+Encoding: 131 131 100
 Width: 771
 Flags: W
 LayerCount: 2
@@ -7924,7 +7917,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0084
-Encoding: 132 132 102
+Encoding: 132 132 101
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8053,7 +8046,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0085
-Encoding: 133 133 103
+Encoding: 133 133 102
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8165,7 +8158,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0086
-Encoding: 134 134 104
+Encoding: 134 134 103
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8277,7 +8270,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0087
-Encoding: 135 135 105
+Encoding: 135 135 104
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8372,7 +8365,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0088
-Encoding: 136 136 106
+Encoding: 136 136 105
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8501,7 +8494,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0089
-Encoding: 137 137 107
+Encoding: 137 137 106
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8613,7 +8606,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008A
-Encoding: 138 138 108
+Encoding: 138 138 107
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8725,7 +8718,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008B
-Encoding: 139 139 109
+Encoding: 139 139 108
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8820,7 +8813,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008C
-Encoding: 140 140 110
+Encoding: 140 140 109
 Width: 771
 Flags: W
 LayerCount: 2
@@ -8932,7 +8925,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008D
-Encoding: 141 141 111
+Encoding: 141 141 110
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9027,7 +9020,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008E
-Encoding: 142 142 112
+Encoding: 142 142 111
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9122,7 +9115,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni008F
-Encoding: 143 143 113
+Encoding: 143 143 112
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9200,7 +9193,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0090
-Encoding: 144 144 114
+Encoding: 144 144 113
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9240,7 +9233,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0091
-Encoding: 145 145 115
+Encoding: 145 145 114
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9270,7 +9263,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0092
-Encoding: 146 146 116
+Encoding: 146 146 115
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9305,7 +9298,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0093
-Encoding: 147 147 117
+Encoding: 147 147 116
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9352,7 +9345,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0094
-Encoding: 148 148 118
+Encoding: 148 148 117
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9385,7 +9378,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0095
-Encoding: 149 149 119
+Encoding: 149 149 118
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9422,7 +9415,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0096
-Encoding: 150 150 120
+Encoding: 150 150 119
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9472,7 +9465,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0097
-Encoding: 151 151 121
+Encoding: 151 151 120
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9490,7 +9483,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0098
-Encoding: 152 152 122
+Encoding: 152 152 121
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9546,7 +9539,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0099
-Encoding: 153 153 123
+Encoding: 153 153 122
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9596,7 +9589,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009A
-Encoding: 154 154 124
+Encoding: 154 154 123
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9637,7 +9630,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009B
-Encoding: 155 155 125
+Encoding: 155 155 124
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 742.088 572 basechar 0
@@ -9664,7 +9657,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009C
-Encoding: 156 156 126
+Encoding: 156 156 125
 Width: 771
 Flags: W
 LayerCount: 2
@@ -9713,7 +9706,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009D
-Encoding: 157 157 127
+Encoding: 157 157 126
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-2" 385.5 536 basechar 0
@@ -9761,7 +9754,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009E
-Encoding: 158 158 128
+Encoding: 158 158 127
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 745.942 572 basechar 0
@@ -9787,7 +9780,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni009F
-Encoding: 159 159 129
+Encoding: 159 159 128
 Width: 771
 Flags: W
 AnchorPoint: "Anchor-3" 732.45 572 basechar 0
@@ -9810,248 +9803,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0001
-Encoding: 1 1 130
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0002
-Encoding: 2 2 131
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0003
-Encoding: 3 3 132
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0004
-Encoding: 4 4 133
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0005
-Encoding: 5 5 134
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0006
-Encoding: 6 6 135
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0007
-Encoding: 7 7 136
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0008
-Encoding: 8 8 137
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0009
-Encoding: 9 9 138
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni000A
-Encoding: 10 10 139
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni000B
-Encoding: 11 11 140
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni000C
-Encoding: 12 12 141
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni000E
-Encoding: 14 14 142
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni000F
-Encoding: 15 15 143
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0010
-Encoding: 16 16 144
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0011
-Encoding: 17 17 145
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0012
-Encoding: 18 18 146
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0013
-Encoding: 19 19 147
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0014
-Encoding: 20 20 148
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0015
-Encoding: 21 21 149
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0016
-Encoding: 22 22 150
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0017
-Encoding: 23 23 151
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0018
-Encoding: 24 24 152
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0019
-Encoding: 25 25 153
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001A
-Encoding: 26 26 154
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001B
-Encoding: 27 27 155
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001C
-Encoding: 28 28 156
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001D
-Encoding: 29 29 157
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001E
-Encoding: 30 30 158
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni001F
-Encoding: 31 31 159
-Width: 771
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: uni007F
-Encoding: 127 127 160
+Encoding: 127 127 129
 Width: 771
 VWidth: 0
 Flags: W
