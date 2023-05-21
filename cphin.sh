@@ -9,10 +9,10 @@ cp ~/mg/font/sfd/5/*.ttf ~/mg/hpop/app/src/main/res/font/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/si_hpop/app/src/main/res/font/
 cp ~/mg/font/sfd/5/*.ttf ~/mg/zava8.github.io/docs/font/
 ############################
-read -p "hin5*.ttf install ? [y,n]" instal_kro_kya 
+read -p "*5*.ttf install ? [y,n]" instal_kro_kya 
 case $instal_kro_kya in  
   y|Y)
-     echo "yes old hinDi fonts hin*.ttf removing starts"
+     echo "*5*.ttf ko system/usr/local ke fonts foldr me copy starts"
      cp ~/mg/font/sfd/5/*5m*.ttf ~/.local/share/fonts/Monotype/
      cp ~/mg/font/sfd/5/*5*.ttf ~/.local/share/fonts/
      sudo cp ~/mg/font/sfd/5/*5*.ttf ~/.fonts/
@@ -21,6 +21,7 @@ case $instal_kro_kya in
      sudo cp ~/mg/font/sfd/5/*5*.ttf /usr/share/gimp/2.0/fonts/
      sudo cp ~/mg/font/sfd/5/*5*.ttf ~/.config/GIMP/2.10/fonts/
      sudo cp ~/mg/font/sfd/5/*5*.ttf /root/.local/share/fonts/
+     echo "*5*.ttf ko system/usr/local ke fonts foldr me copy ends"
      fc-cache -fv
      sudo fc-cache -fv
      ;;

@@ -1,12 +1,19 @@
 #!/bin/bash
 
-select ffoxfont in hin58 hin5i default_font
+select ffoxfont in hin58 tmil58 kannada58 telugu58 mlyalm58 odia58 guz58 pnzabi58 bangla58 default_font
 do
-   printf "ffoxfont is ${ffoxfont}\n"
+   printf "selected ffoxfont ki value ${ffoxfont} h.\n"
    for f in ~/.mozilla/firefox/*.default* ; do
          cp ./user_dfont.js "${f}/"
          cp ./user_hin58.js "${f}/"
-         cp ./user_hin5i.js "${f}/"
+         cp ./user_odia58.js "${f}/"
+         cp ./user_bangla58.js "${f}/"
+         cp ./user_guz58.js "${f}/"
+         cp ./user_pnzabi58.js "${f}/"
+         cp ./user_kannada58.js "${f}/"
+         cp ./user_mlyalm58.js "${f}/"
+         cp ./user_tmil58.js "${f}/"
+         cp ./user_telugu58.js "${f}/"
          if [[ $(ls ${f}/user.js) ]]
          then
             printf "${f}/user.js yes present\n"
