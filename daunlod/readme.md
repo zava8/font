@@ -19,6 +19,5 @@ bilo are list oph phonetic/phonetik fonts :
 9. /home/viml/.fonts/ me font files (hinglish.ttf hnskrit.ttf) ko paste kre.
 10. /usr/share/fonts/truetype me hscii foldr bnaye.
 L. /usr/share/fonts/truetype/hscii/ me font files (hinglish.ttf hnskrit.ttf) ko paste kre.
-
 J. Androed mobile me install krne ke liye **zfont 3 app** install kre , fir (hinglish.ttf hnskrit.ttf) ko daunlod kre.
 Q. hinglish.ttf ko zfont 3 ke sath khole or old method se install kre. reboot ke liye puche toh ha kre.
