@@ -1,0 +1,11 @@
+_site/
+diliit/
+./**/diliit/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.zip
+*.swp
+.*.*.swp
+.*.swp
+

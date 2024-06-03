@@ -1,0 +1,31 @@
+com.github.maoschanz.drawing.tools-options last-font-name 'ing5small'
+org.cinnamon.desktop.interface font-name 'ing5small'
+org.cinnamon.desktop.screensaver font-date 'ing5small'
+org.cinnamon.desktop.screensaver font-message 'ing5small'
+org.cinnamon.desktop.screensaver font-time 'ing5small'
+org.cinnamon.desktop.wm.preferences titlebar-font 'ing5small'
+org.gnome.desktop.interface document-font-name 'ing5small'
+org.gnome.desktop.interface font-name 'ing5small 18'
+org.gnome.desktop.wm.preferences titlebar-font 'ing5small'
+org.gnome.libgnomekbd.indicator font-family 'ing5small'
+org.onboard key-label-font 'ing5small'
+org.onboard.theme-settings key-label-font 'ing5small'
+org.x.editor.preferences.editor editor-font 'ing5small'
+org.x.editor.preferences.print print-font-body-pango 'ing5small'
+org.x.editor.preferences.print print-font-header-pango 'ing5small'
+org.x.editor.preferences.print print-font-numbers-pango 'ing5small'
+org.x.pix.image-print font-name 'ing5small'
+org.x.pix.image-print footer-font-name 'ing5small'
+org.x.pix.image-print header-font-name 'ing5small'
+org.x.sticky font 'ing5small'
+org.x.viewer.plugins.pythonconsole font 'ing5small'
+org.x.viewer.plugins.pythonconsole use-system-font true
+x.dm.slick-greeter font-name 'ing5small'
+#########
+org.gnome.desktop.interface monospace-font-name 'hinkvz5m 18'
+#########
+org.cinnamon.desktop.wm.preferences titlebar-uses-system-font false
+org.gnome.desktop.wm.preferences titlebar-uses-system-font false
+org.x.editor.preferences.editor use-default-font true
+org.gnome.libgnomekbd.indicator font-size 10
+org.gnome.yelp font-adjustment 0

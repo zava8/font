@@ -1,0 +1,28 @@
+1. ps -A | egrep -i "gnome|kde|mate|cinnamon|lxde|xfce|jwm"
+2. sudo apt install screenfetch neofetch
+3. echo $XDG_CURRENT_DESKTOP
+======
+Usage:
+  gsettings --version
+  gsettings [--schemadir SCHEMADIR] COMMAND [ARGS…]
+
+Commands:
+  help                      											Show this information
+  gsettings list-schemas              				List installed schemas
+  gsettings list-relocatable-schemas  	List relocatable schemas
+  gsettings list-keys                 					List keys in a schema
+  gsettings list-children             				List children of a schema
+  gsettings list-recursively          			List keys and values, recursively
+  gsettings range                     						Queries the range of a key
+  gsettings describe                  					Queries the description of a key
+  gsettings get                       							Get the value of a key
+  ======
+  gsettings set                       						Set the value of a key
+  gsettings reset                     											Reset the value of a key
+  gsettings reset-recursively         								Reset all values in a given schema
+  ======
+  gsettings writable                  											Check if a key is writable
+  gsettings monitor                   											Watch for changes
+
+Use “gsettings help COMMAND” to get detailed help.
+=========
