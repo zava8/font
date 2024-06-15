@@ -1,2 +1,0 @@
-github.com/notofonts/symbols
-openfontlicense.org
