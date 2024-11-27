@@ -1,4 +1,4 @@
-#!/bin/bash -i
+#!/bin/bash
 ############################
 #~/mg/free/font/
 #~/mg/hpop/app/src/main/res/font/
