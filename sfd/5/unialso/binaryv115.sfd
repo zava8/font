@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: binaryvertical5
-FullName: binaryvertical5
-FamilyName: binaryvertical5
+FontName: binaryv115
+FullName: binaryv115
+FamilyName: binaryv115
 Weight: Book
 Copyright: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)
 Version: 2.003
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432194851
-ModificationTime: 1733201182
+ModificationTime: 1733201520
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3625,7 +3625,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "binaryvertical5 2.003;GOOG;NotoSansDevanagari-Regular" "" "Version 2.003" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Jelle Bosma - Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "binaryv115 2.003;GOOG;NotoSansDevanagari-Regular" "" "Version 2.003" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Jelle Bosma - Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -5600,55 +5600,51 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-412 -116 m 4,0,1
- 412 -138 412 -138 424 -149.5 c 132,-1,2
- 436 -161 436 -161 457 -161 c 4,3,4
- 474 -161 474 -161 485.5 -158.5 c 132,-1,5
- 497 -156 497 -156 505 -155 c 5,6,-1
- 505 -211 l 5,7,8
- 491 -215 491 -215 477 -217.5 c 132,-1,9
- 463 -220 463 -220 443 -220 c 4,10,11
- 390 -220 390 -220 365 -195 c 132,-1,12
- 340 -170 340 -170 340 -126 c 4,13,14
- 340 -97 340 -97 354.5 -70 c 132,-1,15
- 369 -43 369 -43 390.5 -21 c 132,-1,16
- 412 1 412 1 432 15 c 5,17,-1
- 480 0 l 5,18,19
- 446 -32 446 -32 429 -58.5 c 132,-1,20
- 412 -85 412 -85 412 -116 c 4,0,1
-288 545 m 0,21,22
- 386 545 386 545 433 502 c 128,-1,23
- 480 459 480 459 480 365 c 2,24,-1
- 480 0 l 5,25,-1
- 416 0 l 5,26,-1
- 399 76 l 1,27,-1
- 395 76 l 1,28,29
- 372 47 372 47 347.5 27.5 c 128,-1,30
- 323 8 323 8 291.5 -1 c 128,-1,31
- 260 -10 260 -10 215 -10 c 0,32,33
- 167 -10 167 -10 128.5 7 c 128,-1,34
- 90 24 90 24 68 59.5 c 128,-1,35
- 46 95 46 95 46 149 c 0,36,37
- 46 229 46 229 109 272.5 c 128,-1,38
- 172 316 172 316 303 320 c 2,39,-1
- 394 323 l 1,40,-1
- 394 355 l 2,41,42
- 394 422 394 422 365 448 c 128,-1,43
- 336 474 336 474 283 474 c 0,44,45
- 241 474 241 474 203 461.5 c 128,-1,46
- 165 449 165 449 132 433 c 1,47,-1
- 105 499 l 1,48,49
- 140 518 140 518 188 531.5 c 128,-1,50
- 236 545 236 545 288 545 c 0,21,22
-314 259 m 2,51,52
- 214 255 214 255 175.5 227 c 128,-1,53
- 137 199 137 199 137 148 c 0,54,55
- 137 103 137 103 164.5 82 c 128,-1,56
- 192 61 192 61 235 61 c 0,57,58
- 303 61 303 61 348 98.5 c 128,-1,59
- 393 136 393 136 393 214 c 2,60,-1
- 393 262 l 1,61,-1
- 314 259 l 2,51,52
+256 766 m 1,0,1
+ 267 744 267 744 283.5 716.5 c 128,-1,2
+ 300 689 300 689 318.5 663 c 128,-1,3
+ 337 637 337 637 352 618 c 1,4,-1
+ 352 606 l 1,5,-1
+ 293 606 l 1,6,7
+ 276 620 276 620 255 639.5 c 128,-1,8
+ 234 659 234 659 213.5 680.5 c 128,-1,9
+ 193 702 193 702 176.5 722 c 128,-1,10
+ 160 742 160 742 151 756 c 1,11,-1
+ 151 766 l 1,12,-1
+ 256 766 l 1,0,1
+288 545 m 0,13,14
+ 386 545 386 545 433 502 c 128,-1,15
+ 480 459 480 459 480 365 c 2,16,-1
+ 480 0 l 1,17,-1
+ 416 0 l 1,18,-1
+ 399 76 l 1,19,-1
+ 395 76 l 1,20,21
+ 372 47 372 47 347.5 27.5 c 128,-1,22
+ 323 8 323 8 291.5 -1 c 128,-1,23
+ 260 -10 260 -10 215 -10 c 0,24,25
+ 167 -10 167 -10 128.5 7 c 128,-1,26
+ 90 24 90 24 68 59.5 c 128,-1,27
+ 46 95 46 95 46 149 c 0,28,29
+ 46 229 46 229 109 272.5 c 128,-1,30
+ 172 316 172 316 303 320 c 2,31,-1
+ 394 323 l 1,32,-1
+ 394 355 l 2,33,34
+ 394 422 394 422 365 448 c 128,-1,35
+ 336 474 336 474 283 474 c 0,36,37
+ 241 474 241 474 203 461.5 c 128,-1,38
+ 165 449 165 449 132 433 c 1,39,-1
+ 105 499 l 1,40,41
+ 140 518 140 518 188 531.5 c 128,-1,42
+ 236 545 236 545 288 545 c 0,13,14
+314 259 m 2,43,44
+ 214 255 214 255 175.5 227 c 128,-1,45
+ 137 199 137 199 137 148 c 0,46,47
+ 137 103 137 103 164.5 82 c 128,-1,48
+ 192 61 192 61 235 61 c 0,49,50
+ 303 61 303 61 348 98.5 c 128,-1,51
+ 393 136 393 136 393 214 c 2,52,-1
+ 393 262 l 1,53,-1
+ 314 259 l 2,43,44
 EndSplineSet
 Kerns2: 51 50 "'dist' Distance in Devanagari2 lookup 27 per glyph data 0"
 EndChar
@@ -8354,7 +8350,6 @@ SplineSet
  71 601 71 601 55.5 616 c 128,-1,79
  40 631 40 631 40 648 c 256,60,61
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0090
@@ -9004,8 +8999,49 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: sterling
+Encoding: 163 163 131
+Width: 572
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+334 723 m 0,0,1
+ 389 723 389 723 433 711 c 128,-1,2
+ 477 699 477 699 511 682 c 1,3,-1
+ 480 612 l 1,4,5
+ 450 626 450 626 413.5 638 c 128,-1,6
+ 377 650 377 650 336 650 c 0,7,8
+ 279 650 279 650 249 620.5 c 128,-1,9
+ 219 591 219 591 219 525 c 2,10,-1
+ 219 386 l 1,11,-1
+ 423 386 l 1,12,-1
+ 423 320 l 1,13,-1
+ 219 320 l 1,14,-1
+ 219 216 l 2,15,16
+ 219 176 219 176 209.5 149.5 c 128,-1,17
+ 200 123 200 123 184.5 107 c 128,-1,18
+ 169 91 169 91 151 80 c 1,19,-1
+ 535 80 l 1,20,-1
+ 535 0 l 1,21,-1
+ 32 0 l 1,22,-1
+ 32 74 l 1,23,24
+ 61 81 61 81 83 97.5 c 128,-1,25
+ 105 114 105 114 118 142.5 c 128,-1,26
+ 131 171 131 171 131 215 c 2,27,-1
+ 131 320 l 1,28,-1
+ 35 320 l 1,29,-1
+ 35 386 l 1,30,-1
+ 131 386 l 1,31,-1
+ 131 534 l 2,32,33
+ 131 594 131 594 156 636 c 128,-1,34
+ 181 678 181 678 227 700.5 c 128,-1,35
+ 273 723 273 723 334 723 c 0,0,1
+EndSplineSet
+EndChar
+
 StartChar: currency
-Encoding: 164 164 131
+Encoding: 164 164 132
 Width: 524
 Flags: W
 AnchorPoint: "Anchor-5" 262 357 basechar 0
@@ -9024,7 +9060,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 132
+Encoding: 166 166 133
 Width: 650
 Flags: W
 AnchorPoint: "Anchor-5" 346 357 basechar 0
@@ -9069,7 +9105,7 @@ EndSplineSet
 EndChar
 
 StartChar: section
-Encoding: 167 167 133
+Encoding: 167 167 134
 Width: 572
 Flags: W
 LayerCount: 2
@@ -9095,7 +9131,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 134
+Encoding: 168 168 135
 Width: 572
 Flags: W
 LayerCount: 2
@@ -9128,48 +9164,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 135
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-334 723 m 0,0,1
- 389 723 389 723 433 711 c 128,-1,2
- 477 699 477 699 511 682 c 1,3,-1
- 480 612 l 1,4,5
- 450 626 450 626 413.5 638 c 128,-1,6
- 377 650 377 650 336 650 c 0,7,8
- 279 650 279 650 249 620.5 c 128,-1,9
- 219 591 219 591 219 525 c 2,10,-1
- 219 386 l 1,11,-1
- 423 386 l 1,12,-1
- 423 320 l 1,13,-1
- 219 320 l 1,14,-1
- 219 216 l 2,15,16
- 219 176 219 176 209.5 149.5 c 128,-1,17
- 200 123 200 123 184.5 107 c 128,-1,18
- 169 91 169 91 151 80 c 1,19,-1
- 535 80 l 1,20,-1
- 535 0 l 1,21,-1
- 32 0 l 1,22,-1
- 32 74 l 1,23,24
- 61 81 61 81 83 97.5 c 128,-1,25
- 105 114 105 114 118 142.5 c 128,-1,26
- 131 171 131 171 131 215 c 2,27,-1
- 131 320 l 1,28,-1
- 35 320 l 1,29,-1
- 35 386 l 1,30,-1
- 131 386 l 1,31,-1
- 131 534 l 2,32,33
- 131 594 131 594 156 636 c 128,-1,34
- 181 678 181 678 227 700.5 c 128,-1,35
- 273 723 273 723 334 723 c 0,0,1
-EndSplineSet
-EndChar
-
-StartChar: ordfeminine
-Encoding: 170 170 136
+Encoding: 169 169 136
 Width: 572
 Flags: W
 LayerCount: 2
@@ -9209,8 +9204,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: guillemotleft
-Encoding: 171 171 137
+StartChar: ordfeminine
+Encoding: 170 170 137
 Width: 631
 Flags: W
 LayerCount: 2
@@ -9267,8 +9262,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: logicalnot
-Encoding: 172 172 138
+StartChar: guillemotleft
+Encoding: 171 171 138
 Width: 858
 Flags: W
 AnchorPoint: "Anchor-5" 429 263 basechar 0
@@ -9320,8 +9315,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00AD
-Encoding: 173 173 139
+StartChar: logicalnot
+Encoding: 172 172 139
 Width: 556
 Flags: W
 AnchorPoint: "Anchor-5" 296 357 basechar 0
@@ -9345,8 +9340,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: registered
-Encoding: 174 174 140
+StartChar: uni00AD
+Encoding: 173 173 140
 Width: 519
 Flags: W
 AnchorPoint: "Anchor-5" 296 357 basechar 0

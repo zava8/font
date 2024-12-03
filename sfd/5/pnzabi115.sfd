@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: tmil115
-FullName: tmil115
-FamilyName: tmil115
+FontName: pnzabi115
+FullName: pnzabi115
+FamilyName: pnzabi115
 Weight: Regular
-Copyright: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tamil)
+Copyright: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gurmukhi)
 Version: 2.003
 ItalicAngle: 0
 UnderlinePosition: -125
@@ -15,32 +15,32 @@ sfntRevision: 0x000200c5
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 467 -1121320856 7345392]
+XUID: [1021 467 -1121320856 7114971]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1485160965
-ModificationTime: 1733211601
+CreationTime: 1550733484
+ModificationTime: 1733211909
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 0 0 0 0 0 0 0 0 0 0
-OS2TypoAscent: 870
+OS2TypoAscent: 896
 OS2TypoAOffset: 0
-OS2TypoDescent: -370
+OS2TypoDescent: -408
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 870
+OS2WinAscent: 896
 OS2WinAOffset: 0
-OS2WinDescent: 370
+OS2WinDescent: 408
 OS2WinDOffset: 0
-HheadAscent: 870
+HheadAscent: 896
 HheadAOffset: 0
-HheadDescent: -370
+HheadDescent: -408
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 600
@@ -51,40 +51,51 @@ OS2SupYSize: 600
 OS2SupXOff: 0
 OS2SupYOff: 350
 OS2StrikeYSize: 50
-OS2StrikeYPos: 332
-OS2CapHeight: 714
-OS2XHeight: 554
+OS2StrikeYPos: 373
+OS2CapHeight: 622
+OS2XHeight: 622
 OS2Vendor: 'GOOG'
 OS2CodePages: 00000093.00000000
-OS2UnicodeRanges: 80108003.02002043.00000000.00000000
-Lookup: 4 0 0 "'abvs' Above Base Substitutions in Tamil2 lookup 0" { "'abvs' Above Base Substitutions in Tamil2 lookup 0 subtable"  } ['abvs' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 256 0 "'abvs' Above Base Substitutions in Tamil2 lookup 1" { "'abvs' Above Base Substitutions in Tamil2 lookup 1 subtable"  } ['abvs' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Tamil2 lookup 2" { "'akhn' Akhand in Tamil2 lookup 2 subtable"  } ['akhn' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 256 0 "'haln' Halant Forms in Tamil2 lookup 3" { "'haln' Halant Forms in Tamil2 lookup 3 subtable"  } ['haln' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 256 0 "'psts' Post Base Substitutions in Tamil2 lookup 4" { "'psts' Post Base Substitutions in Tamil2 lookup 4 subtable"  } ['psts' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 256 0 "'psts' Post Base Substitutions in Tamil2 lookup 5" { "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 0"  "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 1"  "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 2"  "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 3"  "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 4"  } ['psts' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 1 256 0 "Single Substitution lookup 6" { "Single Substitution lookup 6 subtable"  } []
-Lookup: 1 256 0 "Single Substitution lookup 7" { "Single Substitution lookup 7 subtable"  } []
-Lookup: 1 256 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
-Lookup: 1 256 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
-Lookup: 1 0 0 "'subs' Subscript in Tamil2 lookup 10" { "'subs' Subscript in Tamil2 lookup 10 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript in Tamil2 lookup 11" { "'sups' Superscript in Tamil2 lookup 11 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 12" { "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 12 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 12 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' > 'tml2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 subtable"  } []
-Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 15" { "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 15 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' > 'tml2' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 16" { "'locl' Localized Forms in Latin lookup 16 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 17" { "'locl' Localized Forms in Latin lookup 17 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Tamil2 lookup 0" { "'abvm' Above Base Mark in Tamil2 lookup 0 subtable"  } ['abvm' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 264 0 0 "'dist' Distance in Tamil2 lookup 1" { "'dist' Distance in Tamil2 lookup 1 subtable"  } ['dist' ('DFLT' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
-Lookup: 258 8 0 "'dist' Distance in Tamil2 lookup 3" { "'dist' Distance in Tamil2 lookup 3 per glyph data 0"  "'dist' Distance in Tamil2 lookup 3 kerning class 1"  } ['dist' ('tml2' <'dflt' > ) 'kern' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
-Lookup: 258 0 0 "'dist' Distance in Tamil2 lookup 4" { "'dist' Distance in Tamil2 lookup 4 subtable"  } ['dist' ('tml2' <'dflt' > ) 'kern' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Tamil2 lookup 5" { "'mark' Mark Positioning in Tamil2 lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' > 'tml2' <'dflt' > ) ]
-MarkAttachClasses: 2
-"MarkClass-1" 202 aavowelsigntamil ivowelsigntamil iivowelsigntamil uvowelsigntamil uuvowelsigntamil viramatamil aulengthmarktamil ivowelsign3tamil ivowelsign2tamil ivowelsign1tamil uvowelsignalttamil uuvowelsignalttamil
+OS2UnicodeRanges: 80028003.00006042.00000000.00000000
+Lookup: 2 0 0 "Multiple Substitution lookup 0" { "Multiple Substitution lookup 0 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 1" { "Multiple Substitution lookup 1 subtable"  } []
+Lookup: 4 0 0 "'nukt' Nukta Forms in Gurmukhi2 lookup 2" { "'nukt' Nukta Forms in Gurmukhi2 lookup 2 subtable"  } ['nukt' ('gur2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Gurmukhi2 lookup 3" { "'blwf' Below Base Forms in Gurmukhi2 lookup 3 subtable"  } ['blwf' ('gur2' <'dflt' > ) ]
+Lookup: 4 0 0 "'pstf' Post Base Forms in Gurmukhi2 lookup 4" { "'pstf' Post Base Forms in Gurmukhi2 lookup 4 subtable"  } ['pstf' ('gur2' <'dflt' > ) ]
+Lookup: 6 0 0 "'blws' Below Base Substitutions in Gurmukhi2 lookup 5" { "'blws' Below Base Substitutions in Gurmukhi2 lookup 5 subtable"  } ['blws' ('gur2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions in Gurmukhi2 lookup 6" { "'blws' Below Base Substitutions in Gurmukhi2 lookup 6 subtable"  } ['blws' ('gur2' <'dflt' > ) ]
+Lookup: 6 0 0 "'blws' Below Base Substitutions in Gurmukhi2 lookup 7" { "'blws' Below Base Substitutions in Gurmukhi2 lookup 7 contextual 0"  "'blws' Below Base Substitutions in Gurmukhi2 lookup 7 contextual 1"  } ['blws' ('gur2' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Gurmukhi2 lookup 9" { "'abvs' Above Base Substitutions in Gurmukhi2 lookup 9 subtable"  } ['abvs' ('gur2' <'dflt' > ) ]
+Lookup: 6 0 0 "'abvs' Above Base Substitutions in Gurmukhi2 lookup 10" { "'abvs' Above Base Substitutions in Gurmukhi2 lookup 10 subtable"  } ['abvs' ('gur2' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 subtable"  } []
+Lookup: 4 0 0 "'haln' Halant Forms in Gurmukhi2 lookup 13" { "'haln' Halant Forms in Gurmukhi2 lookup 13 subtable"  } ['haln' ('gur2' <'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates in Gurmukhi2 lookup 14" { "'calt' Contextual Alternates in Gurmukhi2 lookup 14 subtable"  } ['calt' ('gur2' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 18" { "Single Substitution lookup 18 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 19" { "Single Substitution lookup 19 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 20" { "Single Substitution lookup 20 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 21" { "Single Substitution lookup 21 subtable"  } []
+Lookup: 4 0 0 "'half' Half Forms in Gurmukhi2 lookup 22" { "'half' Half Forms in Gurmukhi2 lookup 22 subtable"  } ['half' ('gur2' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 23" { "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 23 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 23 contextual 1"  } ['ccmp' ('gur2' <'dflt' > 'latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 24" { "Single Substitution lookup 24 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 25" { "Single Substitution lookup 25 subtable"  } []
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 26" { "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 26 subtable"  } ['ccmp' ('gur2' <'dflt' > 'latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 27" { "'locl' Localized Forms in Latin lookup 27 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 28" { "'locl' Localized Forms in Latin lookup 28 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 0" { "Single Positioning lookup 0 subtable"  } []
+Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi2 lookup 1" { "'abvm' Above Base Mark in Gurmukhi2 lookup 1 subtable"  } ['abvm' ('gur2' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 2" { "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 2 kerning class 1"  } ['dist' ('DFLT' <'dflt' > ) 'kern' ('DFLT' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 264 0 0 "'dist' Distance in Gurmukhi2 lookup 3" { "'dist' Distance in Gurmukhi2 lookup 3 contextual 0"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 1"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 2"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 3"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 4"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 5"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 6"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 7"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 8"  "'dist' Distance in Gurmukhi2 lookup 3 contextual 9"  } ['dist' ('gur2' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 4" { "Single Positioning lookup 4 per glyph data 0"  "Single Positioning lookup 4 per glyph data 1"  } []
+Lookup: 257 0 0 "Single Positioning lookup 5" { "Single Positioning lookup 5 per glyph data 0"  "Single Positioning lookup 5 per glyph data 1"  } []
+Lookup: 260 0 0 "'mark' Mark Positioning in Gurmukhi2 lookup 6" { "'mark' Mark Positioning in Gurmukhi2 lookup 6 subtable"  } ['mark' ('gur2' <'dflt' > 'latn' <'MOL ' 'ROM ' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 23+ 20 "'dist' Distance in Tamil2 lookup 3 kerning class 1"
+KernClass2: 23+ 20 "'kern' Horizontal Kerning in Latin lookup 2 kerning class 1"
  165 ae b eth e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn
  98 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde h m n nacute uni0146 eng
  95 D Eth Dcaron Dcroat O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q
@@ -128,95 +139,220 @@ KernClass2: 23+ 20 "'dist' Distance in Tamil2 lookup 3 kerning class 1"
  27 quotesinglbase quotedblbase
  2 AE
  0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -10 {} -10 {} -10 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -60 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -20 {} -10 {} -10 {} 0 {} -40 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} -30 {} -10 {} -50 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -20 {} -30 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -20 {} -30 {} 0 {} -60 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -50 {} -40 {} -20 {} 0 {} -80 {} -30 {} -60 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} -160 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -70 {} -20 {} -50 {} -20 {} -70 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} -70 {} -60 {} -40 {} 20 {} -60 {} -30 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -130 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -30 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -80 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -60 {} -60 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 12 contextual 1" 0 0 0 1
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 23 contextual 1" 0 0 0 1
  1 0 2
   Coverage: 3 i j
   FCoverage: 23 uni0326 uni0327 uni0328
   FCoverage: 101 uni0308 gravecomb acutecomb uni030B uni0304 uni0307 uni0302 uni030C uni0306 uni030A tildecomb uni0312
  1
-  SeqLookup: 0 "Single Substitution lookup 14"
+  SeqLookup: 0 "Single Substitution lookup 25"
 EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Tamil2 lookup 12 contextual 0" 0 0 0 1
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Gurmukhi2 lookup 23 contextual 0" 0 0 0 1
  1 0 1
   Coverage: 3 i j
   FCoverage: 101 uni0308 gravecomb acutecomb uni030B uni0304 uni0307 uni0302 uni030C uni0306 uni030A tildecomb uni0312
  1
-  SeqLookup: 0 "Single Substitution lookup 13"
+  SeqLookup: 0 "Single Substitution lookup 24"
 EndFPST
-ChainSub2: coverage "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 4" 0 0 0 1
- 1 1 0
-  Coverage: 32 uvowelsigntamil uuvowelsigntamil
-  BCoverage: 18 ssatamil tchatamil
+ChainSub2: glyph "'calt' Contextual Alternates in Gurmukhi2 lookup 14 subtable" 0 0 0 11
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 10 imatraguru
  1
-  SeqLookup: 0 "Single Substitution lookup 6"
-EndFPST
-ChainSub2: coverage "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 15 ivowelsigntamil
-  BCoverage: 18 ssatamil tchatamil
+  SeqLookup: 0 "Single Substitution lookup 15"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 18 taguru eematraguru
  1
-  SeqLookup: 0 "Single Substitution lookup 9"
-EndFPST
-ChainSub2: coverage "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 15 ivowelsigntamil
-  BCoverage: 32 ngatamil patamil yatamil vatamil
+  SeqLookup: 0 "Single Substitution lookup 16"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 20 tthaguru eematraguru
  1
-  SeqLookup: 0 "Single Substitution lookup 8"
-EndFPST
-ChainSub2: coverage "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 15 ivowelsigntamil
-  BCoverage: 24 catamil rratamil hatamil
+  SeqLookup: 0 "Single Substitution lookup 17"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 23 taguru eematrabindiguru
  1
-  SeqLookup: 0 "Single Substitution lookup 7"
-EndFPST
-ChainSub2: coverage "'psts' Post Base Substitutions in Tamil2 lookup 5 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 15 ivowelsigntamil
-  BCoverage: 32 katamil nyatamil tatamil natamil
+  SeqLookup: 0 "Single Substitution lookup 18"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 23 taguru oomatrabindiguru
  1
-  SeqLookup: 0 "Single Substitution lookup 6"
+  SeqLookup: 0 "Single Substitution lookup 19"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 24 thaguru oomatrabindiguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 20"
+ String: 10 uaddakguru
+ BString: 0 
+ FString: 24 dhaguru oomatrabindiguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 21"
+ String: 16 eematraaddakguru
+ BString: 0 
+ FString: 18 taguru oomatraguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15"
+ String: 16 eematraaddakguru
+ BString: 0 
+ FString: 10 imatraguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 16"
+ String: 16 oomatraaddakguru
+ BString: 0 
+ FString: 18 taguru oomatraguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15"
+ String: 16 oomatraaddakguru
+ BString: 0 
+ FString: 10 imatraguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 16"
 EndFPST
-ChainPos2: class "'dist' Distance in Tamil2 lookup 1 subtable" 2 5 1 5
-  Class: 13 anusvaratamil
-  BClass: 1125 atamil aatamil iitamil utamil uutamil etamil eetamil aitamil otamil ootamil autamil katamil catamil ttatamil tatamil natamil patamil matamil yatamil ratamil rratamil lllatamil kauvowelsigntamil kauuvowelsigntamil ngaiivowelsigntamil ngauvowelsigntamil ngauuvowelsigntamil cauvowelsigntamil cauuvowelsigntamil nyaiivowelsigntamil nyauvowelsigntamil nyauuvowelsigntamil ttaivowelsigntamil ttaiivowelsigntamil nnaiivowelsigntamil nnauvowelsigntamil nnauuvowelsigntamil tauvowelsigntamil tauuvowelsigntamil nauvowelsigntamil nauuvowelsigntamil nnnaiivowelsigntamil nnnauvowelsigntamil nnnauuvowelsigntamil pauvowelsigntamil pauuvowelsigntamil mauvowelsigntamil mauuvowelsigntamil yauvowelsigntamil yauuvowelsigntamil rauvowelsigntamil rauuvowelsigntamil rrauvowelsigntamil rrauuvowelsigntamil laivowelsigntamil laiivowelsigntamil lauvowelsigntamil lauuvowelsigntamil llaiivowelsigntamil llauvowelsigntamil llauuvowelsigntamil lllauvowelsigntamil lllauuvowelsigntamil vaiivowelsigntamil vauvowelsigntamil vauuvowelsigntamil ssaiivowelsigntamil saivowelsigntamil saiivowelsigntamil haiivowelsigntamil tchaiivowelsigntamil shritamil
-  BClass: 113 ngatamil jatamil nyatamil nnatamil nnnatamil latamil llatamil vatamil shatamil ssatamil satamil hatamil tchatamil
-  BClass: 106 aavowelsigntamil uvowelsigntamil uuvowelsigntamil aulengthmarktamil uvowelsignalttamil uuvowelsignalttamil
-  BClass: 83 ivowelsigntamil ivowelsign4tamil ivowelsign3tamil ivowelsign2tamil ivowelsign1tamil
+ChainSub2: class "'abvs' Above Base Substitutions in Gurmukhi2 lookup 10 subtable" 4 4 1 5
+  Class: 67 eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru
+  Class: 28 oomatraguru oomatrabindiguru
+  Class: 9 addakguru
+  BClass: 220 bindiguru tippiguru iibindiguru ubindiguru uubindiguru eebindiguru aibindiguru oobindiguru aubindiguru iimatrabindiguru eematrabindiguru aimatrabindiguru oomatrabindiguru aumatrabindiguru ubindinuktaguru uubindinuktaguru
+  BClass: 71 udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru
+  BClass: 41 tthaguru naguru tthanuktaguru nanuktaguru
+ 1 2 0
+  ClsList: 1
+  BClsList: 2 3
+  FClsList:
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 1"
  1 1 0
   ClsList: 1
+  BClsList: 3
+  FClsList:
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 1"
+ 1 2 0
+  ClsList: 2
+  BClsList: 2 3
+  FClsList:
+ 1
+  SeqLookup: 0 "Single Substitution lookup 11"
+ 1 1 0
+  ClsList: 2
+  BClsList: 3
+  FClsList:
+ 1
+  SeqLookup: 0 "Single Substitution lookup 12"
+ 1 1 0
+  ClsList: 3
   BClsList: 1
   FClsList:
  1
-  SeqLookup: 0 "Single Positioning lookup 2"
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Positioning lookup 2"
- 1 2 0
-  ClsList: 1
-  BClsList: 3 1
-  FClsList:
- 1
-  SeqLookup: 0 "Single Positioning lookup 2"
- 1 2 0
-  ClsList: 1
-  BClsList: 3 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Positioning lookup 2"
- 1 2 0
-  ClsList: 1
-  BClsList: 4 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Positioning lookup 2"
-  ClassNames: "0" "1"
-  BClassNames: "0" "1" "2" "3" "4"
+  SeqLookup: 0 "Single Substitution lookup 11"
+  ClassNames: "0" "1" "2" "3"
+  BClassNames: "0" "1" "2" "3"
   FClassNames: "0"
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Gurmukhi2 lookup 7 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 22 umatraguru uumatraguru
+  BCoverage: 202 lanuktaguru nganuktaguru chanuktaguru jhanuktaguru nyanuktaguru ttanuktaguru tthanuktaguru ddhanuktaguru nnanuktaguru tanuktaguru danuktaguru nanuktaguru bhanuktaguru ranuktaguru vanuktaguru hanuktaguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 8"
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Gurmukhi2 lookup 7 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 47 rasubscriptguru hasubscriptguru vasubscriptguru
+  BCoverage: 154 caguru chaguru nyaguru ttaguru tthaguru ddaguru ddhaguru nnaguru taguru daguru naguru phaguru bhaguru raguru laguru lanuktaguru vaguru haguru phanuktaguru
+ 1
+  SeqLookup: 0 "Single Substitution lookup 8"
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Gurmukhi2 lookup 5 subtable" 0 0 0 1
+ 1 0 1
+  Coverage: 47 rasubscriptguru hasubscriptguru vasubscriptguru
+  FCoverage: 68 udaatguru yakashguru rasubscriptguru hasubscriptguru vasubscriptguru
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 0"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 9" 0 0 0 1
+ 3 0 0
+  Coverage: 16 aumatraaddakguru
+  Coverage: 7 ttaguru
+  Coverage: 11 eematraguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 5"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 8" 0 0 0 1
+ 4 0 0
+  Coverage: 6 baguru
+  Coverage: 16 aumatraaddakguru
+  Coverage: 7 dhaguru
+  Coverage: 16 oomatrabindiguru
+ 1
+  SeqLookup: 1 "Single Positioning lookup 4"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 7" 0 0 0 1
+ 4 0 0
+  Coverage: 6 baguru
+  Coverage: 16 aumatraaddakguru
+  Coverage: 6 daguru
+  Coverage: 16 oomatrabindiguru
+ 1
+  SeqLookup: 1 "Single Positioning lookup 4"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 6" 0 0 0 1
+ 1 1 0
+  Coverage: 7 uni0952
+  BCoverage: 280 rasubscripthalantguru hasubscripthalantguru vasubscripthalantguru udaathalantguru yakashhalantguru rasubscriptuguru hasubscriptuguru vasubscriptuguru udaatuguru yakashuguru rasubscriptuuguru hasubscriptuuguru vasubscriptuuguru udaatuuguru yakashuuguru umatralowguru uumatralowguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 5"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 5" 0 0 0 1
+ 1 1 0
+  Coverage: 7 uni0952
+  BCoverage: 3585 .notdef NULL CR adakbindiguru bindiguru visargaguru aguru aaguru iguru iiguru uguru uuguru eeguru aiguru ooguru auguru kaguru khaguru gaguru ghaguru ngaguru caguru chaguru jaguru jhaguru nyaguru ttaguru tthaguru ddaguru ddhaguru nnaguru taguru thaguru daguru dhaguru naguru paguru phaguru baguru bhaguru maguru yaguru raguru laguru lanuktaguru vaguru sanuktaguru saguru haguru nuktaguru aamatraguru imatraguru iimatraguru umatraguru uumatraguru eematraguru aimatraguru oomatraguru aumatraguru halantguru udaatguru khanuktaguru ganuktaguru januktaguru rraguru phanuktaguru zeroguru oneguru twoguru threeguru fourguru fiveguru sixguru sevenguru eightguru nineguru tippiguru addakguru iriguru uraguru ekonkarguru yakashguru uni0A76 uni262C unuktaguru uunuktaguru kanuktaguru ghanuktaguru nganuktaguru canuktaguru chanuktaguru jhanuktaguru nyanuktaguru ttanuktaguru tthanuktaguru ddhanuktaguru nnanuktaguru tanuktaguru thanuktaguru danuktaguru dhanuktaguru nanuktaguru panuktaguru banuktaguru bhanuktaguru manuktaguru yanuktaguru ranuktaguru vanuktaguru hanuktaguru rasubscriptguru hasubscriptguru vasubscriptguru kaprehalfguru khaprehalfguru gaprehalfguru ghaprehalfguru ngaprehalfguru caprehalfguru chaprehalfguru japrehalfguru jhaprehalfguru nyaprehalfguru ttaprehalfguru tthaprehalfguru ddaprehalfguru ddhaprehalfguru nnaprehalfguru taprehalfguru thaprehalfguru daprehalfguru dhaprehalfguru naprehalfguru paprehalfguru phaprehalfguru baprehalfguru bhaprehalfguru maprehalfguru yaprehalfguru raprehalfguru laprehalfguru vaprehalfguru saprehalfguru haprehalfguru kanuktaprehalfguru khanuktaprehalfguru ganuktaprehalfguru ghanuktaprehalfguru nganuktaprehalfguru canuktaprehalfguru chanuktaprehalfguru januktaprehalfguru jhanuktaprehalfguru nyanuktaprehalfguru ttanuktaprehalfguru tthanuktaprehalfguru ddanuktaprehalfguru ddhanuktaprehalfguru nnanuktaprehalfguru tanuktaprehalfguru thanuktaprehalfguru danuktaprehalfguru dhanuktaprehalfguru nanuktaprehalfguru panuktaprehalfguru phanuktaprehalfguru banuktaprehalfguru bhanuktaprehalfguru manuktaprehalfguru yanuktaprehalfguru ranuktaprehalfguru lanuktaprehalfguru vanuktaprehalfguru sanuktaprehalfguru hanuktaprehalfguru yapostformguru karaguru rasubscript1guru hasubscript1guru vasubscript1guru phunuktaguru phuunuktaguru iibindiguru ubindiguru uubindiguru eebindiguru aibindiguru oobindiguru aubindiguru iimatrabindiguru eematrabindiguru aimatrabindiguru oomatrabindiguru aumatrabindiguru ubindinuktaguru uubindinuktaguru addakbaraltguru oomatra1guru oomatrabindi1guru iiaddakguru uaddakguru uuaddakguru eeaddakguru aiaddakguru ooaddakguru auaddakguru iimatraaddakguru eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru unuktaaddakguru uunuktaaddakguru exclam.guru quotedbl.guru numbersign.guru percent.guru quotesingle.guru parenleft.guru parenright.guru asterisk.guru plus.guru comma.guru hyphen.guru period.guru slash.guru zero.guru one.guru two.guru three.guru four.guru five.guru six.guru seven.guru eight.guru nine.guru colon.guru semicolon.guru less.guru equal.guru greater.guru question.guru bracketleft.guru backslash.guru bracketright.guru asciicircum.guru underscore.guru braceleft.guru bar.guru braceright.guru asciitilde.guru uni00A0.guru uni00AD.guru endash.guru emdash.guru quoteleft.guru quoteright.guru quotedblleft.guru quotedblright.guru ellipsis.guru multiply.guru divide.guru minus.guru uni20B9.guru uni0951 uni0952 uni0964.guru uni0965.guru uniA830 uniA831 uniA832 uniA833 uniA834 uniA835 uniA836 uniA837 uniA838 uniA839 uni2010 uni200C uni200D uaddakaltguru eematraaddakaltguru oomatraaddakaltguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 4"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 4" 0 0 0 1
+ 1 1 0
+  Coverage: 7 uni0951
+  BCoverage: 3585 .notdef NULL CR adakbindiguru bindiguru visargaguru aguru aaguru iguru iiguru uguru uuguru eeguru aiguru ooguru auguru kaguru khaguru gaguru ghaguru ngaguru caguru chaguru jaguru jhaguru nyaguru ttaguru tthaguru ddaguru ddhaguru nnaguru taguru thaguru daguru dhaguru naguru paguru phaguru baguru bhaguru maguru yaguru raguru laguru lanuktaguru vaguru sanuktaguru saguru haguru nuktaguru aamatraguru imatraguru iimatraguru umatraguru uumatraguru eematraguru aimatraguru oomatraguru aumatraguru halantguru udaatguru khanuktaguru ganuktaguru januktaguru rraguru phanuktaguru zeroguru oneguru twoguru threeguru fourguru fiveguru sixguru sevenguru eightguru nineguru tippiguru addakguru iriguru uraguru ekonkarguru yakashguru uni0A76 uni262C unuktaguru uunuktaguru kanuktaguru ghanuktaguru nganuktaguru canuktaguru chanuktaguru jhanuktaguru nyanuktaguru ttanuktaguru tthanuktaguru ddhanuktaguru nnanuktaguru tanuktaguru thanuktaguru danuktaguru dhanuktaguru nanuktaguru panuktaguru banuktaguru bhanuktaguru manuktaguru yanuktaguru ranuktaguru vanuktaguru hanuktaguru rasubscriptguru hasubscriptguru vasubscriptguru kaprehalfguru khaprehalfguru gaprehalfguru ghaprehalfguru ngaprehalfguru caprehalfguru chaprehalfguru japrehalfguru jhaprehalfguru nyaprehalfguru ttaprehalfguru tthaprehalfguru ddaprehalfguru ddhaprehalfguru nnaprehalfguru taprehalfguru thaprehalfguru daprehalfguru dhaprehalfguru naprehalfguru paprehalfguru phaprehalfguru baprehalfguru bhaprehalfguru maprehalfguru yaprehalfguru raprehalfguru laprehalfguru vaprehalfguru saprehalfguru haprehalfguru kanuktaprehalfguru khanuktaprehalfguru ganuktaprehalfguru ghanuktaprehalfguru nganuktaprehalfguru canuktaprehalfguru chanuktaprehalfguru januktaprehalfguru jhanuktaprehalfguru nyanuktaprehalfguru ttanuktaprehalfguru tthanuktaprehalfguru ddanuktaprehalfguru ddhanuktaprehalfguru nnanuktaprehalfguru tanuktaprehalfguru thanuktaprehalfguru danuktaprehalfguru dhanuktaprehalfguru nanuktaprehalfguru panuktaprehalfguru phanuktaprehalfguru banuktaprehalfguru bhanuktaprehalfguru manuktaprehalfguru yanuktaprehalfguru ranuktaprehalfguru lanuktaprehalfguru vanuktaprehalfguru sanuktaprehalfguru hanuktaprehalfguru yapostformguru karaguru rasubscript1guru hasubscript1guru vasubscript1guru phunuktaguru phuunuktaguru iibindiguru ubindiguru uubindiguru eebindiguru aibindiguru oobindiguru aubindiguru iimatrabindiguru eematrabindiguru aimatrabindiguru oomatrabindiguru aumatrabindiguru ubindinuktaguru uubindinuktaguru addakbaraltguru oomatra1guru oomatrabindi1guru iiaddakguru uaddakguru uuaddakguru eeaddakguru aiaddakguru ooaddakguru auaddakguru iimatraaddakguru eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru unuktaaddakguru uunuktaaddakguru exclam.guru quotedbl.guru numbersign.guru percent.guru quotesingle.guru parenleft.guru parenright.guru asterisk.guru plus.guru comma.guru hyphen.guru period.guru slash.guru zero.guru one.guru two.guru three.guru four.guru five.guru six.guru seven.guru eight.guru nine.guru colon.guru semicolon.guru less.guru equal.guru greater.guru question.guru bracketleft.guru backslash.guru bracketright.guru asciicircum.guru underscore.guru braceleft.guru bar.guru braceright.guru asciitilde.guru uni00A0.guru uni00AD.guru endash.guru emdash.guru quoteleft.guru quoteright.guru quotedblleft.guru quotedblright.guru ellipsis.guru multiply.guru divide.guru minus.guru uni20B9.guru uni0951 uni0952 uni0964.guru uni0965.guru uniA830 uniA831 uniA832 uniA833 uniA834 uniA835 uniA836 uniA837 uniA838 uniA839 uni2010 uni200C uni200D uaddakaltguru eematraaddakaltguru oomatraaddakaltguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 4"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 3" 0 0 0 1
+ 1 1 0
+  Coverage: 28 aumatraguru aumatrabindiguru
+  BCoverage: 41 tthaguru naguru tthanuktaguru nanuktaguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 0"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 28 aumatraguru aumatrabindiguru
+  BCoverage: 71 udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru
+  BCoverage: 41 tthaguru naguru tthanuktaguru nanuktaguru
+ 1
+  SeqLookup: 0 "Single Positioning lookup 0"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 1" 0 0 0 1
+ 2 1 0
+  Coverage: 28 aumatraguru aumatrabindiguru
+  Coverage: 9 addakguru
+  BCoverage: 41 tthaguru naguru tthanuktaguru nanuktaguru
+ 2
+  SeqLookup: 0 "Single Positioning lookup 0"
+  SeqLookup: 1 "Single Positioning lookup 0"
+EndFPST
+ChainPos2: coverage "'dist' Distance in Gurmukhi2 lookup 3 contextual 0" 0 0 0 1
+ 2 2 0
+  Coverage: 28 aumatraguru aumatrabindiguru
+  Coverage: 9 addakguru
+  BCoverage: 71 udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru
+  BCoverage: 41 tthaguru naguru tthanuktaguru nanuktaguru
+ 2
+  SeqLookup: 0 "Single Positioning lookup 0"
+  SeqLookup: 1 "Single Positioning lookup 0"
 EndFPST
 TtTable: prep
 PUSHW_1
@@ -229,11 +365,11 @@ EndTTInstrs
 ShortTable: maxp 16
   1
   0
-  534
-  195
+  595
+  171
   8
-  199
-  5
+  130
+  7
   1
   0
   0
@@ -241,12 +377,12 @@ ShortTable: maxp 16
   0
   0
   0
-  3
+  4
   1
 EndShort
-LangName: 1033 "" "" "" "tmil115 2.003;GOOG;NotoSansTamil-Regular" "" "Version 2.003" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Jelle Bosma - Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "pnzabi115 notosans 2.003;GOOG;NotoSansGurmukhi-Regular" "" "Version 2.003" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Jelle Bosma - Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: UnicodeFull
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -255,11 +391,12 @@ FitToEm: 0
 WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Tamil2 lookup 0 subtable" "Anchor-1" "'abvm' Above Base Mark in Tamil2 lookup 0 subtable" "Anchor-2" "'abvm' Above Base Mark in Tamil2 lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Tamil2 lookup 5 subtable" "Anchor-4" "'mark' Mark Positioning in Tamil2 lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning in Tamil2 lookup 5 subtable"
-BeginChars: 1114216 97
+AnchorClass2: "Anchor-0" "'abvm' Above Base Mark in Gurmukhi2 lookup 1 subtable" "Anchor-1" "'abvm' Above Base Mark in Gurmukhi2 lookup 1 subtable" "Anchor-2" "'abvm' Above Base Mark in Gurmukhi2 lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Gurmukhi2 lookup 6 subtable" "Anchor-4" "'mark' Mark Positioning in Gurmukhi2 lookup 6 subtable" "Anchor-5" "'mark' Mark Positioning in Gurmukhi2 lookup 6 subtable"
+BeginChars: 65694 97
 
 StartChar: NULL
-Encoding: 0 0 0
+Encoding: 0 -1 0
+AltUni2: 000000.ffffffff.0
 Width: 0
 Flags: W
 LayerCount: 2
@@ -285,342 +422,338 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: exclam.tamil
+StartChar: exclam.guru
 Encoding: 33 33 3
-Width: 269
+Width: 383
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-106 201 m 1,0,-1
- 81 714 l 1,1,-1
- 188 714 l 1,2,-1
- 163 201 l 1,3,-1
- 106 201 l 1,0,-1
-134 -12 m 256,4,5
- 106 -12 106 -12 89 5 c 128,-1,6
- 72 22 72 22 72 56 c 0,7,8
- 72 88 72 88 88 106 c 128,-1,9
- 104 124 104 124 134 124 c 0,10,11
- 163 124 163 124 179.5 106 c 128,-1,12
- 196 88 196 88 196 56 c 0,13,14
- 196 23 196 23 179 5.5 c 128,-1,15
- 162 -12 162 -12 134 -12 c 256,4,5
+181 201 m 1,0,-1
+ 156 714 l 1,1,-1
+ 263 714 l 1,2,-1
+ 238 201 l 1,3,-1
+ 181 201 l 1,0,-1
+147 54 m 0,4,5
+ 147 91 147 91 165 106 c 128,-1,6
+ 183 121 183 121 209 121 c 0,7,8
+ 234 121 234 121 252.5 106 c 128,-1,9
+ 271 91 271 91 271 54 c 0,10,11
+ 271 18 271 18 252.5 2 c 128,-1,12
+ 234 -14 234 -14 209 -14 c 0,13,14
+ 183 -14 183 -14 165 2 c 128,-1,15
+ 147 18 147 18 147 54 c 0,4,5
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotedbl.tamil
+StartChar: quotedbl.guru
 Encoding: 34 34 4
-Width: 426
+Width: 502
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-95 542 m 1,0,-1
- 70 800 l 1,1,-1
- 181 800 l 1,2,-1
- 156 542 l 1,3,-1
- 95 542 l 1,0,-1
-270 542 m 1,4,-1
- 245 800 l 1,5,-1
- 356 800 l 1,6,-1
- 331 542 l 1,7,-1
- 270 542 l 1,4,-1
+133 471 m 1,0,-1
+ 108 729 l 1,1,-1
+ 219 729 l 1,2,-1
+ 194 471 l 1,3,-1
+ 133 471 l 1,0,-1
+309 471 m 1,4,-1
+ 284 729 l 1,5,-1
+ 394 729 l 1,6,-1
+ 369 471 l 1,7,-1
+ 309 471 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: numbersign.tamil
+StartChar: numbersign.guru
 Encoding: 35 35 5
-Width: 646
+Width: 653
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-112 0 m 1,0,-1
- 152 209 l 1,1,-1
- 25 209 l 1,2,-1
- 25 276 l 1,3,-1
- 165 276 l 1,4,-1
- 196 436 l 1,5,-1
- 62 436 l 1,6,-1
- 62 503 l 1,7,-1
- 208 503 l 1,8,-1
- 248 714 l 1,9,-1
- 320 714 l 1,10,-1
- 280 503 l 1,11,-1
- 422 503 l 1,12,-1
- 462 714 l 1,13,-1
- 534 714 l 1,14,-1
- 494 503 l 1,15,-1
- 621 503 l 1,16,-1
- 621 436 l 1,17,-1
- 481 436 l 1,18,-1
- 451 276 l 1,19,-1
- 586 276 l 1,20,-1
- 586 209 l 1,21,-1
- 438 209 l 1,22,-1
- 398 0 l 1,23,-1
- 326 0 l 1,24,-1
- 366 209 l 1,25,-1
- 224 209 l 1,26,-1
- 184 0 l 1,27,-1
- 112 0 l 1,0,-1
-236 276 m 1,28,-1
- 379 276 l 1,29,-1
- 409 436 l 1,30,-1
- 267 436 l 1,31,-1
- 236 276 l 1,28,-1
+159 176 m 1,0,-1
+ 34 176 l 1,1,-1
+ 34 242 l 1,2,-1
+ 171 242 l 1,3,-1
+ 202 394 l 1,4,-1
+ 70 394 l 1,5,-1
+ 70 459 l 1,6,-1
+ 213 459 l 1,7,-1
+ 247 632 l 1,8,-1
+ 317 632 l 1,9,-1
+ 284 459 l 1,10,-1
+ 424 459 l 1,11,-1
+ 458 632 l 1,12,-1
+ 527 632 l 1,13,-1
+ 493 459 l 1,14,-1
+ 619 459 l 1,15,-1
+ 619 394 l 1,16,-1
+ 480 394 l 1,17,-1
+ 451 242 l 1,18,-1
+ 584 242 l 1,19,-1
+ 584 176 l 1,20,-1
+ 438 176 l 1,21,-1
+ 404 0 l 1,22,-1
+ 334 0 l 1,23,-1
+ 369 176 l 1,24,-1
+ 229 176 l 1,25,-1
+ 195 0 l 1,26,-1
+ 126 0 l 1,27,-1
+ 159 176 l 1,0,-1
+381 242 m 1,28,-1
+ 411 394 l 1,29,-1
+ 271 394 l 1,30,-1
+ 242 242 l 1,31,-1
+ 381 242 l 1,28,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: percent.tamil
+StartChar: percent.guru
 Encoding: 37 37 6
-Width: 831
+Width: 828
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-179 0 m 1,0,-1
- 575 714 l 1,1,-1
- 652 714 l 1,2,-1
- 256 0 l 1,3,-1
- 179 0 l 1,0,-1
-195 276 m 0,4,5
- 125 276 125 276 87 334 c 128,-1,6
- 49 392 49 392 49 501 c 0,7,8
- 49 613 49 613 85.5 669 c 128,-1,9
- 122 725 122 725 195 725 c 0,10,11
- 267 725 267 725 306 667 c 128,-1,12
- 345 609 345 609 345 501 c 0,13,14
- 345 390 345 390 307 333 c 128,-1,15
- 269 276 269 276 195 276 c 0,4,5
-195 339 m 0,16,17
- 234 339 234 339 253 379.5 c 128,-1,18
- 272 420 272 420 272 501 c 0,19,20
- 272 581 272 581 253 621.5 c 128,-1,21
- 234 662 234 662 195 662 c 0,22,23
- 157 662 157 662 139.5 621.5 c 128,-1,24
- 122 581 122 581 122 501 c 256,25,26
- 122 421 122 421 139.5 380 c 128,-1,27
- 157 339 157 339 195 339 c 0,16,17
-632 -12 m 0,28,29
- 563 -12 563 -12 524.5 46 c 128,-1,30
- 486 104 486 104 486 213 c 0,31,32
- 486 325 486 325 522.5 380.5 c 128,-1,33
- 559 436 559 436 632 436 c 0,34,35
- 704 436 704 436 743 378 c 128,-1,36
- 782 320 782 320 782 213 c 0,37,38
- 782 101 782 101 744 44.5 c 128,-1,39
- 706 -12 706 -12 632 -12 c 0,28,29
-632 51 m 0,40,41
- 671 51 671 51 690 91 c 128,-1,42
- 709 131 709 131 709 213 c 0,43,44
- 709 293 709 293 690 333 c 128,-1,45
- 671 373 671 373 632 373 c 0,46,47
- 594 373 594 373 576.5 333 c 128,-1,48
- 559 293 559 293 559 213 c 0,49,50
- 559 131 559 131 576.5 91 c 128,-1,51
- 594 51 594 51 632 51 c 0,40,41
+569 622 m 1,0,-1
+ 646 622 l 1,1,-1
+ 261 0 l 1,2,-1
+ 183 0 l 1,3,-1
+ 569 622 l 1,0,-1
+202 271 m 0,4,5
+ 131 271 131 271 94 319 c 128,-1,6
+ 57 367 57 367 57 452 c 0,7,8
+ 57 538 57 538 91.5 585 c 128,-1,9
+ 126 632 126 632 202 632 c 0,10,11
+ 274 632 274 632 311.5 585 c 128,-1,12
+ 349 538 349 538 349 452 c 0,13,14
+ 349 367 349 367 314 319 c 128,-1,15
+ 279 271 279 271 202 271 c 0,4,5
+201 334 m 256,16,17
+ 239 334 239 334 257.5 364 c 128,-1,18
+ 276 394 276 394 276 452 c 0,19,20
+ 276 511 276 511 257.5 540 c 128,-1,21
+ 239 569 239 569 201 569 c 256,22,23
+ 163 569 163 569 146 540 c 128,-1,24
+ 129 511 129 511 129 452 c 0,25,26
+ 129 394 129 394 146 364 c 128,-1,27
+ 163 334 163 334 201 334 c 256,16,17
+624 -10 m 0,28,29
+ 552 -10 552 -10 515.5 38.5 c 128,-1,30
+ 479 87 479 87 479 171 c 0,31,32
+ 479 257 479 257 513.5 304.5 c 128,-1,33
+ 548 352 548 352 624 352 c 0,34,35
+ 697 352 697 352 733.5 304.5 c 128,-1,36
+ 770 257 770 257 770 171 c 0,37,38
+ 770 87 770 87 735.5 38.5 c 128,-1,39
+ 701 -10 701 -10 624 -10 c 0,28,29
+624 55 m 256,40,41
+ 662 55 662 55 680.5 84 c 128,-1,42
+ 699 113 699 113 699 171 c 0,43,44
+ 699 230 699 230 680.5 259.5 c 128,-1,45
+ 662 289 662 289 624 289 c 256,46,47
+ 586 289 586 289 569 259.5 c 128,-1,48
+ 552 230 552 230 552 171 c 0,49,50
+ 552 113 552 113 569 84 c 128,-1,51
+ 586 55 586 55 624 55 c 256,40,41
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotesingle.tamil
+StartChar: quotesingle.guru
 Encoding: 39 39 7
-Width: 250
+Width: 326
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-95 542 m 1,0,-1
- 70 800 l 1,1,-1
- 181 800 l 1,2,-1
- 156 542 l 1,3,-1
- 95 542 l 1,0,-1
+132 471 m 1,0,-1
+ 107 729 l 1,1,-1
+ 218 729 l 1,2,-1
+ 193 471 l 1,3,-1
+ 132 471 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: parenleft.tamil
+StartChar: parenleft.guru
 Encoding: 40 40 8
-Width: 321
+Width: 354
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-61 283 m 0,0,1
- 61 379 61 379 77 471 c 128,-1,2
- 93 563 93 563 126 646.5 c 128,-1,3
- 159 730 159 730 208 800 c 1,4,-1
- 290 800 l 1,5,6
- 244 727 244 727 213 642 c 128,-1,7
- 182 557 182 557 166 466 c 128,-1,8
- 150 375 150 375 150 282 c 256,9,10
- 150 189 150 189 165 97 c 128,-1,11
- 180 5 180 5 211 -81 c 128,-1,12
- 242 -167 242 -167 290 -244 c 1,13,-1
- 208 -244 l 1,14,15
- 159 -172 159 -172 126 -87 c 128,-1,16
- 93 -2 93 -2 77 92 c 128,-1,17
- 61 186 61 186 61 283 c 0,0,1
+213 -165 m 1,0,1
+ 138 -62 138 -62 103 68.5 c 128,-1,2
+ 68 199 68 199 68 337 c 0,3,4
+ 68 477 68 477 102.5 603.5 c 128,-1,5
+ 137 730 137 730 213 832 c 1,6,-1
+ 294 832 l 1,7,8
+ 249 762 249 762 217.5 681.5 c 128,-1,9
+ 186 601 186 601 169.5 514 c 128,-1,10
+ 153 427 153 427 153 336 c 0,11,12
+ 153 248 153 248 169 160 c 128,-1,13
+ 185 72 185 72 216.5 -10 c 128,-1,14
+ 248 -92 248 -92 295 -165 c 1,15,-1
+ 213 -165 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: parenright.tamil
+StartChar: parenright.guru
 Encoding: 41 41 9
-Width: 321
+Width: 354
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-260 273 m 0,0,1
- 260 177 260 177 244 85 c 128,-1,2
- 228 -7 228 -7 195.5 -90 c 128,-1,3
- 163 -173 163 -173 113 -244 c 1,4,-1
- 31 -244 l 1,5,6
- 77 -170 77 -170 108 -85.5 c 128,-1,7
- 139 -1 139 -1 155 90 c 128,-1,8
- 171 181 171 181 171 274 c 256,9,10
- 171 367 171 367 156 458.5 c 128,-1,11
- 141 550 141 550 110 636.5 c 128,-1,12
- 79 723 79 723 31 800 c 1,13,-1
- 113 800 l 1,14,15
- 163 728 163 728 195.5 643 c 128,-1,16
- 228 558 228 558 244 464.5 c 128,-1,17
- 260 371 260 371 260 273 c 0,0,1
+60 -165 m 1,0,1
+ 105 -94 105 -94 136.5 -13 c 128,-1,2
+ 168 68 168 68 184 155 c 128,-1,3
+ 200 242 200 242 200 330 c 0,4,5
+ 200 419 200 419 184 506.5 c 128,-1,6
+ 168 594 168 594 137 676.5 c 128,-1,7
+ 106 759 106 759 59 832 c 1,8,-1
+ 141 832 l 1,9,10
+ 216 729 216 729 251 598 c 128,-1,11
+ 286 467 286 467 286 329 c 0,12,13
+ 286 190 286 190 251 63 c 128,-1,14
+ 216 -64 216 -64 141 -165 c 1,15,-1
+ 60 -165 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asterisk.tamil
+StartChar: asterisk.guru
 Encoding: 42 42 10
+Width: 607
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+134 340 m 1,0,-1
+ 252 499 l 1,1,-1
+ 69 513 l 1,2,-1
+ 83 607 l 1,3,-1
+ 274 553 l 1,4,-1
+ 253 745 l 1,5,-1
+ 353 745 l 1,6,-1
+ 332 553 l 1,7,-1
+ 526 607 l 1,8,-1
+ 539 513 l 1,9,-1
+ 354 499 l 1,10,-1
+ 474 340 l 1,11,-1
+ 387 293 l 1,12,-1
+ 301 468 l 1,13,-1
+ 224 293 l 1,14,-1
+ 134 340 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plus.guru
+Encoding: 43 43 11
 Width: 551
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-325 800 m 1,0,-1
- 304 608 l 1,1,-1
- 496 662 l 1,2,-1
- 510 568 l 1,3,-1
- 323 554 l 1,4,-1
- 445 395 l 1,5,-1
- 358 348 l 1,6,-1
- 275 528 l 1,7,-1
- 193 348 l 1,8,-1
- 105 395 l 1,9,-1
- 226 554 l 1,10,-1
- 40 568 l 1,11,-1
- 54 662 l 1,12,-1
- 246 608 l 1,13,-1
- 225 800 l 1,14,-1
- 325 800 l 1,0,-1
+239 286 m 1,0,-1
+ 50 286 l 1,1,-1
+ 50 359 l 1,2,-1
+ 239 359 l 1,3,-1
+ 239 548 l 1,4,-1
+ 312 548 l 1,5,-1
+ 312 359 l 1,6,-1
+ 501 359 l 1,7,-1
+ 501 286 l 1,8,-1
+ 312 286 l 1,9,-1
+ 312 97 l 1,10,-1
+ 239 97 l 1,11,-1
+ 239 286 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: plus.tamil
-Encoding: 43 43 11
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-250 111 m 1,0,-1
- 250 317 l 1,1,-1
- 51 317 l 1,2,-1
- 51 388 l 1,3,-1
- 250 388 l 1,4,-1
- 250 595 l 1,5,-1
- 322 595 l 1,6,-1
- 322 388 l 1,7,-1
- 521 388 l 1,8,-1
- 521 317 l 1,9,-1
- 322 317 l 1,10,-1
- 322 111 l 1,11,-1
- 250 111 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: comma.tamil
+StartChar: comma.guru
 Encoding: 44 44 12
-Width: 250
+Width: 268
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-177 116 m 1,0,-1
- 184 105 l 1,1,2
- 175 70 175 70 161 29.5 c 128,-1,3
- 147 -11 147 -11 131 -51.5 c 128,-1,4
- 115 -92 115 -92 98 -129 c 1,5,-1
- 31 -129 l 1,6,7
- 41 -89 41 -89 50 -45.5 c 128,-1,8
- 59 -2 59 -2 67 40 c 128,-1,9
- 75 82 75 82 80 116 c 1,10,-1
- 177 116 l 1,0,-1
+46 -129 m 1,0,1
+ 56 -89 56 -89 65.5 -45.5 c 128,-1,2
+ 75 -2 75 -2 82.5 40 c 128,-1,3
+ 90 82 90 82 95 116 c 1,4,-1
+ 192 116 l 1,5,-1
+ 199 105 l 1,6,7
+ 190 70 190 70 176 29.5 c 128,-1,8
+ 162 -11 162 -11 146 -51.5 c 128,-1,9
+ 130 -92 130 -92 113 -129 c 1,10,-1
+ 46 -129 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: hyphen.tamil
+StartChar: hyphen.guru
 Encoding: 45 45 13
-Width: 322
+Width: 340
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-40 262 m 1,0,-1
- 40 344 l 1,1,-1
- 282 344 l 1,2,-1
- 282 262 l 1,3,-1
- 40 262 l 1,0,-1
+49 338 m 1,0,-1
+ 291 338 l 1,1,-1
+ 291 256 l 1,2,-1
+ 49 256 l 1,3,-1
+ 49 338 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: period.tamil
+StartChar: period.guru
 Encoding: 46 46 14
 Width: 268
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-134 -12 m 256,0,1
- 108 -12 108 -12 90 4 c 128,-1,2
- 72 20 72 20 72 56 c 0,3,4
- 72 94 72 94 90 109 c 128,-1,5
- 108 124 108 124 134 124 c 256,6,7
- 160 124 160 124 178 109 c 128,-1,8
- 196 94 196 94 196 56 c 0,9,10
- 196 20 196 20 178 4 c 128,-1,11
- 160 -12 160 -12 134 -12 c 256,0,1
+72 54 m 0,0,1
+ 72 91 72 91 90 106 c 128,-1,2
+ 108 121 108 121 133 121 c 0,3,4
+ 159 121 159 121 177.5 106 c 128,-1,5
+ 196 91 196 91 196 54 c 0,6,7
+ 196 18 196 18 177.5 2 c 128,-1,8
+ 159 -14 159 -14 133 -14 c 0,9,10
+ 108 -14 108 -14 90 2 c 128,-1,11
+ 72 18 72 18 72 54 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: slash.tamil
+StartChar: slash.guru
 Encoding: 47 47 15
-Width: 393
+Width: 429
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-21 -244 m 1,0,-1
- 287 800 l 1,1,-1
- 372 800 l 1,2,-1
- 106 -244 l 1,3,-1
- 21 -244 l 1,0,-1
+305 833 m 1,0,-1
+ 387 833 l 1,1,-1
+ 125 -166 l 1,2,-1
+ 42 -166 l 1,3,-1
+ 305 833 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: zero.tamil
+StartChar: zero.guru
 Encoding: 48 48 16
 Width: 551
 Flags: W
@@ -652,7 +785,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: one.tamil
+StartChar: one.guru
 Encoding: 49 49 17
 Width: 551
 Flags: W
@@ -676,7 +809,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: two.tamil
+StartChar: two.guru
 Encoding: 50 50 18
 Width: 551
 Flags: W
@@ -709,12 +842,10 @@ SplineSet
  47 0 l 1,29,-1
  47 76 l 1,0,-1
 EndSplineSet
-Validated: 513
-Substitution2: "'sups' Superscript in Tamil2 lookup 11 subtable" uni00B2
-Substitution2: "'subs' Subscript in Tamil2 lookup 10 subtable" uni2082
+Validated: 1
 EndChar
 
-StartChar: three.tamil
+StartChar: three.guru
 Encoding: 51 51 19
 Width: 551
 Flags: W
@@ -759,12 +890,10 @@ SplineSet
  435 44 435 44 377 17 c 128,-1,47
  319 -10 319 -10 229 -10 c 0,0,1
 EndSplineSet
-Validated: 513
-Substitution2: "'sups' Superscript in Tamil2 lookup 11 subtable" uni00B3
-Substitution2: "'subs' Subscript in Tamil2 lookup 10 subtable" uni2083
+Validated: 1
 EndChar
 
-StartChar: four.tamil
+StartChar: four.guru
 Encoding: 52 52 20
 Width: 551
 Flags: W
@@ -785,22 +914,19 @@ SplineSet
  341 160 l 1,0,-1
 341 241 m 1,11,-1
  341 415 l 2,12,13
- 341 442 341 442 342 472 c 128,-1,14
- 343 502 343 502 344 531 c 128,-1,15
- 345 560 345 560 346 585 c 128,-1,16
- 347 610 347 610 347 626 c 1,17,-1
- 343 626 l 1,18,19
- 336 607 336 607 323 581 c 128,-1,20
- 310 555 310 555 299 538 c 2,21,-1
- 98 241 l 1,22,-1
+ 341 452 341 452 342.5 492.5 c 128,-1,14
+ 344 533 344 533 345.5 568.5 c 128,-1,15
+ 347 604 347 604 347 626 c 1,16,-1
+ 343 626 l 1,17,18
+ 336 607 336 607 323 581 c 128,-1,19
+ 310 555 310 555 299 538 c 2,20,-1
+ 98 241 l 1,21,-1
  341 241 l 1,11,-1
 EndSplineSet
-Validated: 513
-Substitution2: "'sups' Superscript in Tamil2 lookup 11 subtable" uni2074
-Substitution2: "'subs' Subscript in Tamil2 lookup 10 subtable" uni2084
+Validated: 1
 EndChar
 
-StartChar: five.tamil
+StartChar: five.guru
 Encoding: 53 53 21
 Width: 551
 Flags: W
@@ -837,56 +963,56 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: six.tamil
+StartChar: six.guru
 Encoding: 54 54 22
 Width: 551
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-288 -10 m 0,0,1
- 223 -10 223 -10 170 24 c 128,-1,2
- 117 58 117 58 86 128 c 128,-1,3
- 55 198 55 198 55 305 c 0,4,5
- 55 367 55 367 62.5 427 c 128,-1,6
- 70 487 70 487 90 540.5 c 128,-1,7
- 110 594 110 594 145 635.5 c 128,-1,8
- 180 677 180 677 234.5 700.5 c 128,-1,9
- 289 724 289 724 367 724 c 0,10,11
- 386 724 386 724 410.5 722 c 128,-1,12
- 435 720 435 720 451 715 c 1,13,-1
- 451 639 l 1,14,15
- 434 645 434 645 412.5 648 c 128,-1,16
- 391 651 391 651 370 651 c 0,17,18
- 304 651 304 651 261.5 628 c 128,-1,19
- 219 605 219 605 194.5 565.5 c 128,-1,20
- 170 526 170 526 159 474 c 128,-1,21
- 148 422 148 422 146 364 c 1,22,-1
- 152 364 l 1,23,24
- 172 399 172 399 208 423 c 128,-1,25
- 244 447 244 447 302 447 c 0,26,27
- 364 447 364 447 409.5 421.5 c 128,-1,28
- 455 396 455 396 480 347.5 c 128,-1,29
- 505 299 505 299 505 230 c 0,30,31
- 505 156 505 156 478.5 102 c 128,-1,32
- 452 48 452 48 403.5 19 c 128,-1,33
- 355 -10 355 -10 288 -10 c 0,0,1
-287 65 m 0,34,35
- 346 65 346 65 382.5 105 c 128,-1,36
- 419 145 419 145 419 230 c 0,37,38
- 419 298 419 298 387 337.5 c 128,-1,39
- 355 377 355 377 290 377 c 0,40,41
- 246 377 246 377 213 357.5 c 128,-1,42
- 180 338 180 338 162 308.5 c 128,-1,43
- 144 279 144 279 144 247 c 0,44,45
- 144 204 144 204 160 162 c 128,-1,46
- 176 120 176 120 208 92.5 c 128,-1,47
- 240 65 240 65 287 65 c 0,34,35
+290 -10 m 0,0,1
+ 225 -10 225 -10 172 24 c 128,-1,2
+ 119 58 119 58 88 128 c 128,-1,3
+ 57 198 57 198 57 305 c 0,4,5
+ 57 367 57 367 64.5 427 c 128,-1,6
+ 72 487 72 487 92 540.5 c 128,-1,7
+ 112 594 112 594 147 635.5 c 128,-1,8
+ 182 677 182 677 236.5 700.5 c 128,-1,9
+ 291 724 291 724 369 724 c 0,10,11
+ 388 724 388 724 412.5 722 c 128,-1,12
+ 437 720 437 720 453 715 c 1,13,-1
+ 453 639 l 1,14,15
+ 436 645 436 645 414.5 648 c 128,-1,16
+ 393 651 393 651 372 651 c 0,17,18
+ 306 651 306 651 263.5 628 c 128,-1,19
+ 221 605 221 605 196.5 565.5 c 128,-1,20
+ 172 526 172 526 161 474 c 128,-1,21
+ 150 422 150 422 148 364 c 1,22,-1
+ 154 364 l 1,23,24
+ 174 399 174 399 210 423 c 128,-1,25
+ 246 447 246 447 304 447 c 0,26,27
+ 366 447 366 447 411.5 421.5 c 128,-1,28
+ 457 396 457 396 482 347.5 c 128,-1,29
+ 507 299 507 299 507 230 c 0,30,31
+ 507 156 507 156 480.5 102 c 128,-1,32
+ 454 48 454 48 405.5 19 c 128,-1,33
+ 357 -10 357 -10 290 -10 c 0,0,1
+289 65 m 0,34,35
+ 348 65 348 65 384.5 105 c 128,-1,36
+ 421 145 421 145 421 230 c 0,37,38
+ 421 298 421 298 389 337.5 c 128,-1,39
+ 357 377 357 377 292 377 c 0,40,41
+ 248 377 248 377 215 357.5 c 128,-1,42
+ 182 338 182 338 164 308.5 c 128,-1,43
+ 146 279 146 279 146 247 c 0,44,45
+ 146 204 146 204 162 162 c 128,-1,46
+ 178 120 178 120 209.5 92.5 c 128,-1,47
+ 241 65 241 65 289 65 c 0,34,35
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: seven.tamil
+StartChar: seven.guru
 Encoding: 55 55 23
 Width: 551
 Flags: W
@@ -905,7 +1031,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: eight.tamil
+StartChar: eight.guru
 Encoding: 56 56 24
 Width: 551
 Flags: W
@@ -962,431 +1088,439 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: nine.tamil
+StartChar: nine.guru
 Encoding: 57 57 25
 Width: 551
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-190 -10 m 0,0,1
- 171 -10 171 -10 147 -7.5 c 128,-1,2
- 123 -5 123 -5 106 -1 c 1,3,-1
- 106 75 l 1,4,5
- 123 69 123 69 144.5 66 c 128,-1,6
- 166 63 166 63 187 63 c 0,7,8
- 253 63 253 63 296 86 c 128,-1,9
- 339 109 339 109 363 148.5 c 128,-1,10
- 387 188 387 188 398 240 c 128,-1,11
- 409 292 409 292 411 350 c 1,12,-1
- 405 350 l 1,13,14
- 392 327 392 327 371.5 308 c 128,-1,15
- 351 289 351 289 322.5 278 c 128,-1,16
- 294 267 294 267 255 267 c 0,17,18
- 194 267 194 267 148 292.5 c 128,-1,19
- 102 318 102 318 77 366.5 c 128,-1,20
- 52 415 52 415 52 484 c 0,21,22
- 52 559 52 559 78.5 612.5 c 128,-1,23
- 105 666 105 666 154 695 c 128,-1,24
- 203 724 203 724 269 724 c 256,25,26
- 335 724 335 724 387.5 690 c 128,-1,27
- 440 656 440 656 471 586 c 128,-1,28
- 502 516 502 516 502 409 c 0,29,30
- 502 348 502 348 494.5 287.5 c 128,-1,31
- 487 227 487 227 467 173.5 c 128,-1,32
- 447 120 447 120 412 78.5 c 128,-1,33
- 377 37 377 37 322.5 13.5 c 128,-1,34
- 268 -10 268 -10 190 -10 c 0,0,1
-267 337 m 0,35,36
- 311 337 311 337 344 356.5 c 128,-1,37
- 377 376 377 376 395 406 c 128,-1,38
- 413 436 413 436 413 467 c 0,39,40
- 413 500 413 500 404 532 c 128,-1,41
- 395 564 395 564 377 590.5 c 128,-1,42
- 359 617 359 617 332.5 633 c 128,-1,43
- 306 649 306 649 270 649 c 0,44,45
- 212 649 212 649 175 609 c 128,-1,46
- 138 569 138 569 138 484 c 0,47,48
- 138 416 138 416 170.5 376.5 c 128,-1,49
- 203 337 203 337 267 337 c 0,35,36
+182 -10 m 0,0,1
+ 163 -10 163 -10 139 -7.5 c 128,-1,2
+ 115 -5 115 -5 98 -1 c 1,3,-1
+ 98 75 l 1,4,5
+ 115 69 115 69 136.5 66 c 128,-1,6
+ 158 63 158 63 179 63 c 0,7,8
+ 245 63 245 63 288 86 c 128,-1,9
+ 331 109 331 109 355 148.5 c 128,-1,10
+ 379 188 379 188 390 240 c 128,-1,11
+ 401 292 401 292 403 350 c 1,12,-1
+ 397 350 l 1,13,14
+ 384 327 384 327 363.5 308 c 128,-1,15
+ 343 289 343 289 314.5 278 c 128,-1,16
+ 286 267 286 267 247 267 c 0,17,18
+ 186 267 186 267 140 292.5 c 128,-1,19
+ 94 318 94 318 69 366.5 c 128,-1,20
+ 44 415 44 415 44 484 c 0,21,22
+ 44 559 44 559 70.5 612.5 c 128,-1,23
+ 97 666 97 666 146 695 c 128,-1,24
+ 195 724 195 724 261 724 c 256,25,26
+ 327 724 327 724 379.5 690 c 128,-1,27
+ 432 656 432 656 463 586 c 128,-1,28
+ 494 516 494 516 494 409 c 0,29,30
+ 494 348 494 348 486.5 287.5 c 128,-1,31
+ 479 227 479 227 459 173.5 c 128,-1,32
+ 439 120 439 120 404 78.5 c 128,-1,33
+ 369 37 369 37 314.5 13.5 c 128,-1,34
+ 260 -10 260 -10 182 -10 c 0,0,1
+259 337 m 0,35,36
+ 303 337 303 337 336 356.5 c 128,-1,37
+ 369 376 369 376 387 406 c 128,-1,38
+ 405 436 405 436 405 467 c 0,39,40
+ 405 500 405 500 396 532 c 128,-1,41
+ 387 564 387 564 369 590.5 c 128,-1,42
+ 351 617 351 617 324.5 633 c 128,-1,43
+ 298 649 298 649 262 649 c 0,44,45
+ 204 649 204 649 167 609 c 128,-1,46
+ 130 569 130 569 130 484 c 0,47,48
+ 130 416 130 416 162.5 376.5 c 128,-1,49
+ 195 337 195 337 259 337 c 0,35,36
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: colon.tamil
+StartChar: colon.guru
 Encoding: 58 58 26
-Width: 268
+Width: 294
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-134 -12 m 256,0,1
- 108 -12 108 -12 90 4 c 128,-1,2
- 72 20 72 20 72 56 c 0,3,4
- 72 94 72 94 90 109 c 128,-1,5
- 108 124 108 124 134 124 c 256,6,7
- 160 124 160 124 178 109 c 128,-1,8
- 196 94 196 94 196 56 c 0,9,10
- 196 20 196 20 178 4 c 128,-1,11
- 160 -12 160 -12 134 -12 c 256,0,1
-134 414 m 256,12,13
- 108 414 108 414 90 430 c 128,-1,14
- 72 446 72 446 72 482 c 0,15,16
- 72 520 72 520 90 535 c 128,-1,17
- 108 550 108 550 134 550 c 256,18,19
- 160 550 160 550 178 535 c 128,-1,20
- 196 520 196 520 196 482 c 0,21,22
- 196 446 196 446 178 430 c 128,-1,23
- 160 414 160 414 134 414 c 256,12,13
+147 414 m 256,0,1
+ 121 414 121 414 103 430 c 128,-1,2
+ 85 446 85 446 85 482 c 0,3,4
+ 85 520 85 520 103 535 c 128,-1,5
+ 121 550 121 550 147 550 c 256,6,7
+ 173 550 173 550 191 535 c 128,-1,8
+ 209 520 209 520 209 482 c 0,9,10
+ 209 446 209 446 191 430 c 128,-1,11
+ 173 414 173 414 147 414 c 256,0,1
+147 -14 m 256,12,13
+ 121 -14 121 -14 103 2 c 128,-1,14
+ 85 18 85 18 85 54 c 0,15,16
+ 85 92 85 92 103 107 c 128,-1,17
+ 121 122 121 122 147 122 c 256,18,19
+ 173 122 173 122 191 107 c 128,-1,20
+ 209 92 209 92 209 54 c 0,21,22
+ 209 18 209 18 191 2 c 128,-1,23
+ 173 -14 173 -14 147 -14 c 256,12,13
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: semicolon.tamil
+StartChar: semicolon.guru
 Encoding: 59 59 27
-Width: 268
+Width: 294
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-177 116 m 1,0,-1
- 184 105 l 1,1,2
- 175 70 175 70 161 29.5 c 128,-1,3
- 147 -11 147 -11 131 -51.5 c 128,-1,4
- 115 -92 115 -92 98 -129 c 1,5,-1
- 31 -129 l 1,6,7
- 41 -89 41 -89 50 -45.5 c 128,-1,8
- 59 -2 59 -2 67 40 c 128,-1,9
- 75 82 75 82 80 116 c 1,10,-1
- 177 116 l 1,0,-1
-134 414 m 256,11,12
- 108 414 108 414 90 430 c 128,-1,13
- 72 446 72 446 72 482 c 0,14,15
- 72 520 72 520 90 535 c 128,-1,16
- 108 550 108 550 134 550 c 256,17,18
- 160 550 160 550 178 535 c 128,-1,19
- 196 520 196 520 196 482 c 0,20,21
- 196 446 196 446 178 430 c 128,-1,22
- 160 414 160 414 134 414 c 256,11,12
+190 116 m 1,0,-1
+ 197 105 l 1,1,2
+ 188 70 188 70 174 29.5 c 128,-1,3
+ 160 -11 160 -11 144 -51.5 c 128,-1,4
+ 128 -92 128 -92 111 -129 c 1,5,-1
+ 44 -129 l 1,6,7
+ 54 -89 54 -89 63.5 -45.5 c 128,-1,8
+ 73 -2 73 -2 80.5 40 c 128,-1,9
+ 88 82 88 82 93 116 c 1,10,-1
+ 190 116 l 1,0,-1
+147 414 m 256,11,12
+ 121 414 121 414 103 430 c 128,-1,13
+ 85 446 85 446 85 482 c 0,14,15
+ 85 520 85 520 103 535 c 128,-1,16
+ 121 550 121 550 147 550 c 256,17,18
+ 173 550 173 550 191 535 c 128,-1,19
+ 209 520 209 520 209 482 c 0,20,21
+ 209 446 209 446 191 430 c 128,-1,22
+ 173 414 173 414 147 414 c 256,11,12
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: less.tamil
+StartChar: less.guru
 Encoding: 60 60 28
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-521 116 m 1,0,-1
- 50 323 l 1,1,-1
- 50 373 l 1,2,-1
- 521 608 l 1,3,-1
- 521 530 l 1,4,-1
- 145 352 l 1,5,-1
- 521 194 l 1,6,-1
- 521 116 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: equal.tamil
-Encoding: 61 61 29
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-57 217 m 1,0,-1
- 57 288 l 1,1,-1
- 515 288 l 1,2,-1
- 515 217 l 1,3,-1
- 57 217 l 1,0,-1
-57 416 m 1,4,-1
- 57 487 l 1,5,-1
- 515 487 l 1,6,-1
- 515 416 l 1,7,-1
- 57 416 l 1,4,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: greater.tamil
-Encoding: 62 62 30
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-50 116 m 1,0,-1
- 50 194 l 1,1,-1
- 427 351 l 1,2,-1
- 50 530 l 1,3,-1
- 50 608 l 1,4,-1
- 521 373 l 1,5,-1
- 521 323 l 1,6,-1
- 50 116 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: question.tamil
-Encoding: 63 63 31
-Width: 445
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-216 725 m 0,0,1
- 307 725 307 725 360 676.5 c 128,-1,2
- 413 628 413 628 413 542 c 0,3,4
- 413 499 413 499 401 467 c 128,-1,5
- 389 435 389 435 365 407 c 128,-1,6
- 341 379 341 379 304 347 c 0,7,8
- 272 320 272 320 255 300 c 128,-1,9
- 238 280 238 280 231.5 260 c 128,-1,10
- 225 240 225 240 225 211 c 2,11,-1
- 225 202 l 1,12,-1
- 157 202 l 1,13,-1
- 157 220 l 2,14,15
- 157 258 157 258 164 285.5 c 128,-1,16
- 171 313 171 313 189 337.5 c 128,-1,17
- 207 362 207 362 240 390 c 0,18,19
- 271 417 271 417 290.5 438 c 128,-1,20
- 310 459 310 459 319 483 c 128,-1,21
- 328 507 328 507 328 541 c 0,22,23
- 328 588 328 588 299.5 617.5 c 128,-1,24
- 271 647 271 647 216 647 c 0,25,26
- 176 647 176 647 139.5 634.5 c 128,-1,27
- 103 622 103 622 68 605 c 1,28,-1
- 38 676 l 1,29,30
- 77 696 77 696 123 710.5 c 128,-1,31
- 169 725 169 725 216 725 c 0,0,1
-195 -12 m 0,32,33
- 170 -12 170 -12 151.5 4 c 128,-1,34
- 133 20 133 20 133 56 c 0,35,36
- 133 94 133 94 151.5 109 c 128,-1,37
- 170 124 170 124 195 124 c 0,38,39
- 221 124 221 124 239 109 c 128,-1,40
- 257 94 257 94 257 56 c 0,41,42
- 257 20 257 20 239 4 c 128,-1,43
- 221 -12 221 -12 195 -12 c 0,32,33
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: bracketleft.tamil
-Encoding: 91 91 32
-Width: 318
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-80 -244 m 1,0,-1
- 80 800 l 1,1,-1
- 278 800 l 1,2,-1
- 278 732 l 1,3,-1
- 167 732 l 1,4,-1
- 167 -176 l 1,5,-1
- 278 -176 l 1,6,-1
- 278 -244 l 1,7,-1
- 80 -244 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: backslash.tamil
-Encoding: 92 92 33
-Width: 393
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-287 -244 m 1,0,-1
- 21 800 l 1,1,-1
- 106 800 l 1,2,-1
- 372 -244 l 1,3,-1
- 287 -244 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: bracketright.tamil
-Encoding: 93 93 34
-Width: 323
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-40 -244 m 1,0,-1
- 40 -176 l 1,1,-1
- 151 -176 l 1,2,-1
- 151 732 l 1,3,-1
- 40 732 l 1,4,-1
- 40 800 l 1,5,-1
- 238 800 l 1,6,-1
- 238 -244 l 1,7,-1
- 40 -244 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: asciicircum.tamil
-Encoding: 94 94 35
-Width: 572
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-39 268 m 1,0,-1
- 264 719 l 1,1,-1
- 314 719 l 1,2,-1
- 532 268 l 1,3,-1
- 453 268 l 1,4,-1
- 289 627 l 1,5,-1
- 118 268 l 1,6,-1
- 39 268 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: underscore.tamil
-Encoding: 95 95 36
-Width: 444
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--2 -154 m 1,0,-1
- -2 -90 l 1,1,-1
- 446 -90 l 1,2,-1
- 446 -154 l 1,3,-1
- -2 -154 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: braceleft.tamil
-Encoding: 123 123 37
-Width: 369
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-330 -244 m 1,0,1
- 280 -243 280 -243 240.5 -225.5 c 128,-1,2
- 201 -208 201 -208 178.5 -169.5 c 128,-1,3
- 156 -131 156 -131 156 -70 c 2,4,-1
- 156 127 l 2,5,6
- 156 189 156 189 123.5 214.5 c 128,-1,7
- 91 240 91 240 30 240 c 1,8,-1
- 30 315 l 1,9,10
- 92 315 92 315 124 341 c 128,-1,11
- 156 367 156 367 156 428 c 2,12,-1
- 156 626 l 2,13,14
- 156 688 156 688 178.5 725.5 c 128,-1,15
- 201 763 201 763 240.5 781 c 128,-1,16
- 280 799 280 799 330 800 c 1,17,-1
- 330 727 l 1,18,19
- 290 726 290 726 267.5 708 c 128,-1,20
- 245 690 245 690 245 631 c 2,21,-1
- 245 431 l 2,22,23
- 245 367 245 367 215.5 330 c 128,-1,24
- 186 293 186 293 130 281 c 1,25,-1
- 130 275 l 1,26,27
- 186 263 186 263 215.5 225.5 c 128,-1,28
- 245 188 245 188 245 125 c 2,29,-1
- 245 -76 l 2,30,31
- 245 -115 245 -115 255 -135.5 c 128,-1,32
- 265 -156 265 -156 284.5 -163 c 128,-1,33
- 304 -170 304 -170 330 -171 c 1,34,-1
- 330 -244 l 1,0,1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: bar.tamil
-Encoding: 124 124 38
 Width: 551
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-239 -244 m 1,0,-1
- 239 800 l 1,1,-1
- 312 800 l 1,2,-1
- 312 -244 l 1,3,-1
- 239 -244 l 1,0,-1
+50 284 m 1,0,-1
+ 50 333 l 1,1,-1
+ 501 568 l 1,2,-1
+ 501 490 l 1,3,-1
+ 142 313 l 1,4,-1
+ 501 155 l 1,5,-1
+ 501 77 l 1,6,-1
+ 50 284 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: braceright.tamil
+StartChar: equal.guru
+Encoding: 61 61 29
+Width: 551
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 459 m 1,0,-1
+ 501 459 l 1,1,-1
+ 501 386 l 1,2,-1
+ 50 386 l 1,3,-1
+ 50 459 l 1,0,-1
+50 259 m 1,4,-1
+ 501 259 l 1,5,-1
+ 501 186 l 1,6,-1
+ 50 186 l 1,7,-1
+ 50 259 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: greater.guru
+Encoding: 62 62 30
+Width: 551
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 155 m 1,0,-1
+ 409 313 l 1,1,-1
+ 50 490 l 1,2,-1
+ 50 568 l 1,3,-1
+ 501 333 l 1,4,-1
+ 501 284 l 1,5,-1
+ 50 77 l 1,6,-1
+ 50 155 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: question.guru
+Encoding: 63 63 31
+Width: 518
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+190 202 m 1,0,-1
+ 190 220 l 2,1,2
+ 190 258 190 258 197 285.5 c 128,-1,3
+ 204 313 204 313 222.5 338 c 128,-1,4
+ 241 363 241 363 273 390 c 0,5,6
+ 304 417 304 417 323.5 438 c 128,-1,7
+ 343 459 343 459 352 483 c 128,-1,8
+ 361 507 361 507 361 541 c 0,9,10
+ 361 588 361 588 332.5 617 c 128,-1,11
+ 304 646 304 646 250 646 c 0,12,13
+ 210 646 210 646 173 633.5 c 128,-1,14
+ 136 621 136 621 102 604 c 1,15,-1
+ 71 675 l 1,16,17
+ 111 695 111 695 157 709.5 c 128,-1,18
+ 203 724 203 724 250 724 c 0,19,20
+ 341 724 341 724 393.5 676 c 128,-1,21
+ 446 628 446 628 446 542 c 0,22,23
+ 446 499 446 499 434.5 467 c 128,-1,24
+ 423 435 423 435 399.5 408 c 128,-1,25
+ 376 381 376 381 341 350 c 0,26,27
+ 308 321 308 321 290 300.5 c 128,-1,28
+ 272 280 272 280 265 260 c 128,-1,29
+ 258 240 258 240 258 211 c 2,30,-1
+ 258 202 l 1,31,-1
+ 190 202 l 1,0,-1
+167 54 m 0,32,33
+ 167 92 167 92 185 107 c 128,-1,34
+ 203 122 203 122 229 122 c 256,35,36
+ 255 122 255 122 273 107 c 128,-1,37
+ 291 92 291 92 291 54 c 0,38,39
+ 291 18 291 18 273 2 c 128,-1,40
+ 255 -14 255 -14 229 -14 c 256,41,42
+ 203 -14 203 -14 185 2 c 128,-1,43
+ 167 18 167 18 167 54 c 0,32,33
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketleft.guru
+Encoding: 91 91 32
+Width: 356
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+108 832 m 1,0,-1
+ 302 832 l 1,1,-1
+ 302 762 l 1,2,-1
+ 188 762 l 1,3,-1
+ 188 -96 l 1,4,-1
+ 302 -96 l 1,5,-1
+ 302 -166 l 1,6,-1
+ 108 -166 l 1,7,-1
+ 108 832 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: backslash.guru
+Encoding: 92 92 33
+Width: 429
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+42 832 m 1,0,-1
+ 124 832 l 1,1,-1
+ 387 -166 l 1,2,-1
+ 305 -166 l 1,3,-1
+ 42 832 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketright.guru
+Encoding: 93 93 34
+Width: 356
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+54 -96 m 1,0,-1
+ 167 -96 l 1,1,-1
+ 167 762 l 1,2,-1
+ 54 762 l 1,3,-1
+ 54 832 l 1,4,-1
+ 248 832 l 1,5,-1
+ 248 -166 l 1,6,-1
+ 54 -166 l 1,7,-1
+ 54 -96 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciicircum.guru
+Encoding: 94 94 35
+Width: 551
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+253 719 m 1,0,-1
+ 303 719 l 1,1,-1
+ 521 268 l 1,2,-1
+ 443 268 l 1,3,-1
+ 278 627 l 1,4,-1
+ 108 268 l 1,5,-1
+ 29 268 l 1,6,-1
+ 253 719 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: underscore.guru
+Encoding: 95 95 36
+Width: 411
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-2 -90 m 1,0,-1
+ 413 -90 l 1,1,-1
+ 413 -158 l 1,2,-1
+ -2 -158 l 1,3,-1
+ -2 -90 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceleft.guru
+Encoding: 123 123 37
+Width: 391
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+44 370 m 1,0,1
+ 84 370 84 370 111.5 379 c 128,-1,2
+ 139 388 139 388 153 408 c 128,-1,3
+ 167 428 167 428 167 460 c 2,4,-1
+ 167 691 l 2,5,6
+ 167 741 167 741 189 771.5 c 128,-1,7
+ 211 802 211 802 249.5 816.5 c 128,-1,8
+ 288 831 288 831 337 832 c 1,9,-1
+ 337 760 l 1,10,11
+ 310 760 310 760 290 753.5 c 128,-1,12
+ 270 747 270 747 259 731.5 c 128,-1,13
+ 248 716 248 716 248 685 c 2,14,-1
+ 248 455 l 2,15,16
+ 248 405 248 405 221 375.5 c 128,-1,17
+ 194 346 194 346 142 335 c 1,18,-1
+ 142 330 l 1,19,20
+ 194 320 194 320 221 291 c 128,-1,21
+ 248 262 248 262 248 211 c 2,22,-1
+ 248 -18 l 2,23,24
+ 248 -49 248 -49 259 -65 c 128,-1,25
+ 270 -81 270 -81 290 -87 c 128,-1,26
+ 310 -93 310 -93 337 -94 c 1,27,-1
+ 337 -166 l 1,28,29
+ 288 -165 288 -165 249.5 -150.5 c 128,-1,30
+ 211 -136 211 -136 189 -105.5 c 128,-1,31
+ 167 -75 167 -75 167 -25 c 2,32,-1
+ 167 206 l 2,33,34
+ 167 239 167 239 153 258.5 c 128,-1,35
+ 139 278 139 278 111.5 287 c 128,-1,36
+ 84 296 84 296 44 296 c 1,37,-1
+ 44 370 l 1,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bar.guru
+Encoding: 124 124 38
+Width: 540
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+234 832 m 1,0,-1
+ 306 832 l 1,1,-1
+ 306 -166 l 1,2,-1
+ 234 -166 l 1,3,-1
+ 234 832 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceright.guru
 Encoding: 125 125 39
-Width: 369
+Width: 376
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-40 800 m 1,0,1
- 90 799 90 799 129.5 781 c 128,-1,2
- 169 763 169 763 191.5 725.5 c 128,-1,3
- 214 688 214 688 214 626 c 2,4,-1
- 214 428 l 2,5,6
- 214 367 214 367 246 341.5 c 128,-1,7
- 278 316 278 316 339 316 c 1,8,-1
- 339 240 l 1,9,10
- 278 240 278 240 246 214.5 c 128,-1,11
- 214 189 214 189 214 128 c 2,12,-1
- 214 -70 l 2,13,14
- 214 -131 214 -131 191.5 -169.5 c 128,-1,15
- 169 -208 169 -208 129.5 -225.5 c 128,-1,16
- 90 -243 90 -243 40 -244 c 1,17,-1
- 40 -171 l 1,18,19
- 80 -169 80 -169 102.5 -151 c 128,-1,20
- 125 -133 125 -133 125 -75 c 2,21,-1
- 125 125 l 2,22,23
- 125 189 125 189 154.5 226 c 128,-1,24
- 184 263 184 263 239 275 c 1,25,-1
- 239 281 l 1,26,27
- 184 293 184 293 154.5 330 c 128,-1,28
- 125 367 125 367 125 431 c 2,29,-1
- 125 631 l 2,30,31
- 125 670 125 670 115 690.5 c 128,-1,32
- 105 711 105 711 86 719 c 128,-1,33
- 67 727 67 727 40 727 c 1,34,-1
- 40 800 l 1,0,1
+347 296 m 1,0,1
+ 307 296 307 296 280 287 c 128,-1,2
+ 253 278 253 278 239 258.5 c 128,-1,3
+ 225 239 225 239 225 206 c 2,4,-1
+ 225 -25 l 2,5,6
+ 225 -75 225 -75 202.5 -105.5 c 128,-1,7
+ 180 -136 180 -136 141.5 -150.5 c 128,-1,8
+ 103 -165 103 -165 54 -166 c 1,9,-1
+ 54 -94 l 1,10,11
+ 82 -93 82 -93 102 -87 c 128,-1,12
+ 122 -81 122 -81 132.5 -65 c 128,-1,13
+ 143 -49 143 -49 143 -18 c 2,14,-1
+ 143 211 l 2,15,16
+ 143 262 143 262 170 291 c 128,-1,17
+ 197 320 197 320 249 330 c 1,18,-1
+ 249 335 l 1,19,20
+ 197 346 197 346 170 375.5 c 128,-1,21
+ 143 405 143 405 143 455 c 2,22,-1
+ 143 685 l 2,23,24
+ 143 716 143 716 132.5 731.5 c 128,-1,25
+ 122 747 122 747 102 753.5 c 128,-1,26
+ 82 760 82 760 54 760 c 1,27,-1
+ 54 832 l 1,28,29
+ 103 831 103 831 141.5 816.5 c 128,-1,30
+ 180 802 180 802 202.5 771.5 c 128,-1,31
+ 225 741 225 741 225 691 c 2,32,-1
+ 225 460 l 2,33,34
+ 225 428 225 428 239 408 c 128,-1,35
+ 253 388 253 388 280 379 c 128,-1,36
+ 307 370 307 370 347 370 c 1,37,-1
+ 347 296 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asciitilde.tamil
+StartChar: asciitilde.guru
 Encoding: 126 126 40
-Width: 572
+Width: 551
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-270 319 m 0,0,1
- 234 335 234 335 212 341 c 128,-1,2
- 190 347 190 347 167 347 c 0,3,4
- 137 347 137 347 106 329.5 c 128,-1,5
- 75 312 75 312 50 287 c 1,6,-1
- 50 365 l 1,7,8
- 75 391 75 391 105 404.5 c 128,-1,9
- 135 418 135 418 170 418 c 0,10,11
- 199 418 199 418 227.5 412 c 128,-1,12
- 256 406 256 406 298 388 c 0,13,14
- 338 371 338 371 360 365 c 128,-1,15
- 382 359 382 359 410 359 c 0,16,17
- 440 359 440 359 467.5 375.5 c 128,-1,18
- 495 392 495 392 521 418 c 1,19,-1
- 521 339 l 1,20,21
- 496 314 496 314 467 300.5 c 128,-1,22
- 438 287 438 287 401 287 c 0,23,24
- 373 287 373 287 344 293.5 c 128,-1,25
- 315 300 315 300 270 319 c 0,0,1
+50 335 m 1,0,1
+ 75 362 75 362 105 375 c 128,-1,2
+ 135 388 135 388 171 388 c 0,3,4
+ 190 388 190 388 206 385.5 c 128,-1,5
+ 222 383 222 383 242 376.5 c 128,-1,6
+ 262 370 262 370 292 357 c 0,7,8
+ 329 341 329 341 349 335.5 c 128,-1,9
+ 369 330 369 330 390 330 c 0,10,11
+ 418 330 418 330 448 347 c 128,-1,12
+ 478 364 478 364 501 389 c 1,13,-1
+ 501 310 l 1,14,15
+ 477 284 477 284 446.5 270.5 c 128,-1,16
+ 416 257 416 257 380 257 c 0,17,18
+ 361 257 361 257 345 259.5 c 128,-1,19
+ 329 262 329 262 309.5 268.5 c 128,-1,20
+ 290 275 290 275 259 288 c 0,21,22
+ 223 304 223 304 203.5 309.5 c 128,-1,23
+ 184 315 184 315 161 315 c 0,24,25
+ 134 315 134 315 104 298 c 128,-1,26
+ 74 281 74 281 50 256 c 1,27,-1
+ 50 335 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1444,7 +1578,7 @@ SplineSet
  393 262 l 1,53,-1
  314 259 l 2,43,44
 EndSplineSet
-Kerns2: 50 50 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 50 50 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: B
@@ -1572,7 +1706,7 @@ SplineSet
  146 169 146 169 181.5 116 c 128,-1,40
  217 63 217 63 289 63 c 0,28,29
 EndSplineSet
-Kerns2: 64 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 64 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: E
@@ -1598,7 +1732,7 @@ SplineSet
  74 0 l 1,11,-1
  74 572 l 1,0,-1
 EndSplineSet
-Kerns2: 50 60 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 50 60 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: F
@@ -1622,7 +1756,7 @@ SplineSet
  74 0 l 1,9,-1
  74 572 l 1,0,-1
 EndSplineSet
-Kerns2: 41 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 41 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: G
@@ -1958,7 +2092,7 @@ SplineSet
  220 472 220 472 183 418 c 128,-1,44
  146 364 146 364 146 269 c 0,30,31
 EndSplineSet
-Kerns2: 64 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 64 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: P
@@ -2014,7 +2148,7 @@ SplineSet
  469 362 469 362 433.5 417 c 128,-1,52
  398 472 398 472 324 472 c 0,37,38
 EndSplineSet
-Kerns2: 94 -10 "'dist' Distance in Tamil2 lookup 3 per glyph data 0" 64 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 94 -10 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0" 64 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: Q
@@ -2053,7 +2187,7 @@ SplineSet
  172 536 l 1,31,-1
  172 363 l 2,12,13
 EndSplineSet
-Kerns2: 64 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 64 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: R
@@ -2166,7 +2300,7 @@ SplineSet
  11 572 l 5,7,-1
  438 572 l 1,0,-1
 EndSplineSet
-Kerns2: 94 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 94 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: U
@@ -2362,7 +2496,7 @@ SplineSet
  217 -2 l 1,41,-1
  1 536 l 1,12,-1
 EndSplineSet
-Kerns2: 94 -30 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 94 -30 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: Z
@@ -2399,8 +2533,6 @@ StartChar: a
 Encoding: 97 97 67
 Width: 615
 Flags: W
-AnchorPoint: "Anchor-5" 308 0 basechar 0
-AnchorPoint: "Anchor-4" 308 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2440,48 +2572,63 @@ SplineSet
  146 169 146 169 181.5 116 c 128,-1,44
  217 63 217 63 289 63 c 0,31,32
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: b
 Encoding: 98 98 68
-Width: 615
+Width: 608
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-173 575 m 2,0,1
- 173 541 173 541 171.5 511.5 c 128,-1,2
- 170 482 170 482 168 465 c 1,3,-1
- 173 465 l 1,4,5
- 196 499 196 499 236 522 c 128,-1,6
- 276 545 276 545 339 545 c 0,7,8
- 439 545 439 545 499.5 475.5 c 128,-1,9
- 560 406 560 406 560 268 c 0,10,11
- 560 176 560 176 532.5 114 c 128,-1,12
- 505 52 505 52 455 21 c 128,-1,13
- 405 -10 405 -10 339 -10 c 0,14,15
- 276 -10 276 -10 236 13 c 128,-1,16
- 196 36 196 36 173 68 c 1,17,-1
- 166 68 l 1,18,-1
- 148 0 l 1,19,-1
- 85 0 l 1,20,-1
- 85 760 l 1,21,-1
- 173 760 l 1,22,-1
- 173 575 l 2,0,1
-324 472 m 0,23,24
- 267 472 267 472 234 450.5 c 128,-1,25
- 201 429 201 429 187 384.5 c 128,-1,26
- 173 340 173 340 173 271 c 2,27,-1
- 173 267 l 2,28,29
- 173 168 173 168 205.5 115.5 c 128,-1,30
- 238 63 238 63 326 63 c 0,31,32
- 398 63 398 63 433.5 116 c 128,-1,33
- 469 169 469 169 469 269 c 0,34,35
- 469 370 469 370 433.5 421 c 128,-1,36
- 398 472 398 472 324 472 c 0,23,24
+41 248 m 1,0,1
+ 56 271 56 271 78 292.5 c 128,-1,2
+ 100 314 100 314 128 332 c 128,-1,3
+ 156 350 156 350 189 361 c 1,4,-1
+ 196 343 l 1,5,6
+ 153 358 153 358 122 384 c 128,-1,7
+ 91 410 91 410 75 452 c 128,-1,8
+ 59 494 59 494 59 555 c 1,9,-1
+ 95 551 l 1,10,-1
+ -7 551 l 1,11,-1
+ -7 622 l 1,12,-1
+ 569 622 l 1,13,-1
+ 569 551 l 1,14,-1
+ 105 551 l 1,15,-1
+ 141 554 l 1,16,17
+ 141 511 141 511 150.5 477.5 c 128,-1,18
+ 160 444 160 444 182 423 c 0,19,20
+ 200 407 200 407 224.5 399.5 c 128,-1,21
+ 249 392 249 392 296 392 c 2,22,-1
+ 456 392 l 1,23,-1
+ 454 322 l 1,24,-1
+ 313 322 l 2,25,26
+ 272 322 272 322 238 312 c 128,-1,27
+ 204 302 204 302 175 281 c 128,-1,28
+ 146 260 146 260 120 225 c 1,29,-1
+ 122 268 l 1,30,31
+ 142 226 142 226 168 198 c 128,-1,32
+ 194 170 194 170 228.5 156.5 c 128,-1,33
+ 263 143 263 143 307 143 c 0,34,35
+ 345 143 345 143 380 151 c 128,-1,36
+ 415 159 415 159 446 176 c 1,37,-1
+ 452 100 l 1,38,39
+ 420 85 420 85 384 77 c 128,-1,40
+ 348 69 348 69 307 69 c 0,41,42
+ 240 69 240 69 189 92.5 c 128,-1,43
+ 138 116 138 116 101.5 156.5 c 128,-1,44
+ 65 197 65 197 41 248 c 1,0,1
+438 0 m 1,45,-1
+ 438 551 l 1,46,-1
+ 342 551 l 1,47,-1
+ 342 622 l 1,48,-1
+ 616 622 l 1,49,-1
+ 616 551 l 1,50,-1
+ 519 551 l 1,51,-1
+ 519 0 l 1,52,-1
+ 438 0 l 1,45,-1
 EndSplineSet
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: c
@@ -2517,43 +2664,69 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 70
-Width: 615
+Width: 597
 Flags: W
+AnchorPoint: "Anchor-2" 366 0 basechar 0
+AnchorPoint: "Anchor-1" 281 0 basechar 0
+AnchorPoint: "Anchor-0" 502 622 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-275 -10 m 0,0,1
- 175 -10 175 -10 115 59.5 c 128,-1,2
- 55 129 55 129 55 267 c 256,3,4
- 55 405 55 405 115.5 475.5 c 128,-1,5
- 176 546 176 546 276 546 c 0,6,7
- 318 546 318 546 349 535.5 c 128,-1,8
- 380 525 380 525 403 507 c 128,-1,9
- 426 489 426 489 442 467 c 1,10,-1
- 448 467 l 1,11,12
- 447 480 447 480 444.5 505.5 c 128,-1,13
- 442 531 442 531 442 546 c 2,14,-1
- 442 760 l 1,15,-1
- 530 760 l 1,16,-1
- 530 0 l 1,17,-1
- 459 0 l 1,18,-1
- 446 72 l 1,19,-1
- 442 72 l 1,20,21
- 426 49 426 49 403 30.5 c 128,-1,22
- 380 12 380 12 348.5 1 c 128,-1,23
- 317 -10 317 -10 275 -10 c 0,0,1
-289 63 m 0,24,25
- 374 63 374 63 408.5 109.5 c 128,-1,26
- 443 156 443 156 443 250 c 2,27,-1
- 443 266 l 2,28,29
- 443 366 443 366 410 419.5 c 128,-1,30
- 377 473 377 473 288 473 c 0,31,32
- 217 473 217 473 181.5 416.5 c 128,-1,33
- 146 360 146 360 146 265 c 0,34,35
- 146 169 146 169 181.5 116 c 128,-1,36
- 217 63 217 63 289 63 c 0,24,25
+249 0 m 0,0,1
+ 175 0 175 0 127.5 15.5 c 128,-1,2
+ 80 31 80 31 57.5 59.5 c 128,-1,3
+ 35 88 35 88 35 127 c 0,4,5
+ 35 157 35 157 51 182 c 128,-1,6
+ 67 207 67 207 98.5 222 c 128,-1,7
+ 130 237 130 237 178 237 c 0,8,9
+ 236 237 236 237 282.5 217 c 128,-1,10
+ 329 197 329 197 365 165.5 c 128,-1,11
+ 401 134 401 134 424 101 c 1,12,-1
+ 362 67 l 1,13,14
+ 330 104 330 104 284 135 c 128,-1,15
+ 238 166 238 166 182 166 c 0,16,17
+ 149 166 149 166 132.5 155 c 128,-1,18
+ 116 144 116 144 116 125 c 0,19,20
+ 116 97 116 97 149.5 83 c 128,-1,21
+ 183 69 183 69 248 69 c 0,22,23
+ 284 69 284 69 321.5 74 c 128,-1,24
+ 359 79 359 79 390.5 93 c 128,-1,25
+ 422 107 422 107 441.5 133 c 128,-1,26
+ 461 159 461 159 461 202 c 0,27,28
+ 461 243 461 243 430 276 c 128,-1,29
+ 399 309 399 309 349 324 c 1,30,31
+ 326 320 326 320 296.5 316 c 128,-1,32
+ 267 312 267 312 236 312 c 0,33,34
+ 191 312 191 312 167 320.5 c 128,-1,35
+ 143 329 143 329 134 342 c 128,-1,36
+ 125 355 125 355 125 369 c 0,37,38
+ 125 398 125 398 150.5 408.5 c 128,-1,39
+ 176 419 176 419 212 419 c 0,40,41
+ 252 419 252 419 287.5 412.5 c 128,-1,42
+ 323 406 323 406 357 393 c 1,43,44
+ 392 407 392 407 414.5 436 c 128,-1,45
+ 437 465 437 465 437 512 c 0,46,47
+ 437 526 437 526 434.5 542.5 c 128,-1,48
+ 432 559 432 559 425 578 c 1,49,-1
+ 458 551 l 1,50,-1
+ 49 551 l 1,51,-1
+ 49 622 l 1,52,-1
+ 580 622 l 5,53,-1
+ 580 551 l 5,54,-1
+ 487 551 l 1,55,-1
+ 510 576 l 1,56,57
+ 514 560 514 560 516 543 c 128,-1,58
+ 518 526 518 526 518 511 c 0,59,60
+ 518 449 518 449 493.5 416.5 c 128,-1,61
+ 469 384 469 384 432 362 c 1,62,63
+ 488 333 488 333 515.5 293 c 128,-1,64
+ 543 253 543 253 543 199 c 0,65,66
+ 543 149 543 149 521.5 111.5 c 128,-1,67
+ 500 74 500 74 461 49.5 c 128,-1,68
+ 422 25 422 25 368 12.5 c 128,-1,69
+ 314 0 314 0 249 0 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: e
@@ -2595,35 +2768,61 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 72
-Width: 344
+Width: 579
 Flags: W
+AnchorPoint: "Anchor-0" 489 622 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-332 468 m 1,0,-1
- 197 468 l 1,1,-1
- 197 0 l 1,2,-1
- 109 0 l 1,3,-1
- 109 468 l 1,4,-1
- 15 468 l 1,5,-1
- 15 509 l 1,6,-1
- 109 539 l 1,7,-1
- 109 570 l 2,8,9
- 109 639 109 639 129.5 682 c 128,-1,10
- 150 725 150 725 189 745 c 128,-1,11
- 228 765 228 765 283 765 c 0,12,13
- 315 765 315 765 341.5 759.5 c 128,-1,14
- 368 754 368 754 387 747 c 1,15,-1
- 364 678 l 1,16,17
- 348 683 348 683 327 688 c 128,-1,18
- 306 693 306 693 284 693 c 0,19,20
- 240 693 240 693 218.5 663.5 c 128,-1,21
- 197 634 197 634 197 571 c 2,22,-1
- 197 536 l 1,23,-1
- 332 536 l 1,24,-1
- 332 468 l 1,0,-1
+336 0 m 0,0,1
+ 271 0 271 0 216 20 c 128,-1,2
+ 161 40 161 40 121 76.5 c 128,-1,3
+ 81 113 81 113 59 161 c 128,-1,4
+ 37 209 37 209 37 264 c 0,5,6
+ 37 299 37 299 49 327.5 c 128,-1,7
+ 61 356 61 356 82 374 c 0,8,9
+ 101 390 101 390 123.5 400 c 128,-1,10
+ 146 410 146 410 180.5 415 c 128,-1,11
+ 215 420 215 420 268 420 c 2,12,-1
+ 408 420 l 1,13,-1
+ 408 551 l 1,14,-1
+ 60 551 l 1,15,-1
+ 60 622 l 1,16,-1
+ 557 622 l 5,17,-1
+ 557 551 l 5,18,-1
+ 489 551 l 1,19,-1
+ 489 378 l 1,20,-1
+ 460 349 l 1,21,-1
+ 279 349 l 2,22,23
+ 239 349 239 349 213 346 c 128,-1,24
+ 187 343 187 343 170.5 337 c 128,-1,25
+ 154 331 154 331 141 320 c 0,26,27
+ 128 310 128 310 123 294 c 128,-1,28
+ 118 278 118 278 118 259 c 0,29,30
+ 118 219 118 219 134.5 184 c 128,-1,31
+ 151 149 151 149 181 123.5 c 128,-1,32
+ 211 98 211 98 252 83.5 c 128,-1,33
+ 293 69 293 69 341 69 c 0,34,35
+ 400 69 400 69 428.5 82.5 c 128,-1,36
+ 457 96 457 96 457 124 c 0,37,38
+ 457 143 457 143 440 154.5 c 128,-1,39
+ 423 166 423 166 388 166 c 0,40,41
+ 350 166 350 166 316 151.5 c 128,-1,42
+ 282 137 282 137 254 114.5 c 128,-1,43
+ 226 92 226 92 204 67 c 1,44,-1
+ 144 100 l 1,45,46
+ 169 133 169 133 204.5 164.5 c 128,-1,47
+ 240 196 240 196 287.5 216.5 c 128,-1,48
+ 335 237 335 237 396 237 c 0,49,50
+ 445 237 445 237 476 222 c 128,-1,51
+ 507 207 507 207 522 182 c 128,-1,52
+ 537 157 537 157 537 127 c 0,53,54
+ 537 98 537 98 526 74.5 c 128,-1,55
+ 515 51 515 51 491 34.5 c 128,-1,56
+ 467 18 467 18 429 9 c 128,-1,57
+ 391 0 391 0 336 0 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: g
@@ -2735,8 +2934,8 @@ SplineSet
  108 737 108 737 130 737 c 0,4,5
 EndSplineSet
 Validated: 513
-Substitution2: "Single Substitution lookup 14 subtable" dotlessi
-Substitution2: "Single Substitution lookup 13 subtable" dotlessi
+Substitution2: "Single Substitution lookup 25 subtable" dotlessi
+Substitution2: "Single Substitution lookup 24 subtable" dotlessi
 EndChar
 
 StartChar: j
@@ -2772,8 +2971,8 @@ SplineSet
  108 625 108 625 93 639 c 128,-1,28
  78 653 78 653 78 681 c 0,17,18
 EndSplineSet
-Substitution2: "Single Substitution lookup 14 subtable" uni0237
-Substitution2: "Single Substitution lookup 13 subtable" uni0237
+Substitution2: "Single Substitution lookup 25 subtable" uni0237
+Substitution2: "Single Substitution lookup 24 subtable" uni0237
 EndChar
 
 StartChar: k
@@ -2808,185 +3007,152 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 78
-Width: 1013
+Width: 674
 Flags: W
-AnchorPoint: "Anchor-2" 506 -78 basechar 0
-AnchorPoint: "Anchor-1" 506 -29 basechar 0
-AnchorPoint: "Anchor-0" 506 -29 basechar 0
+AnchorPoint: "Anchor-2" 479 0 basechar 0
+AnchorPoint: "Anchor-1" 337 0 basechar 0
+AnchorPoint: "Anchor-0" 557 622 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-249 -12 m 0,0,1
- 196 -12 196 -12 152 14 c 128,-1,2
- 108 40 108 40 82.5 96.5 c 128,-1,3
- 57 153 57 153 57 242 c 0,4,5
- 57 323 57 323 81 384 c 128,-1,6
- 105 445 105 445 147 485.5 c 128,-1,7
- 189 526 189 526 243.5 546 c 128,-1,8
- 298 566 298 566 359 566 c 0,9,10
- 407 566 407 566 457 553 c 128,-1,11
- 507 540 507 540 545 502 c 0,12,13
- 573 475 573 475 588.5 440 c 128,-1,14
- 604 405 604 405 610.5 359 c 128,-1,15
- 617 313 617 313 617 252 c 0,16,17
- 617 217 617 217 620.5 188 c 128,-1,18
- 624 159 624 159 633 136 c 128,-1,19
- 642 113 642 113 658 95 c 0,20,21
- 673 79 673 79 694 70.5 c 128,-1,22
- 715 62 715 62 744 62 c 0,23,24
- 777 62 777 62 804 78 c 128,-1,25
- 831 94 831 94 847 132 c 128,-1,26
- 863 170 863 170 863 237 c 0,27,28
- 863 303 863 303 847 359 c 128,-1,29
- 831 415 831 415 802.5 461.5 c 128,-1,30
- 774 508 774 508 738 547 c 1,31,-1
- 816 600 l 1,32,33
- 878 521 878 521 914 434 c 128,-1,34
- 950 347 950 347 950 244 c 0,35,36
- 950 159 950 159 925.5 102 c 128,-1,37
- 901 45 901 45 854 16.5 c 128,-1,38
- 807 -12 807 -12 737 -12 c 0,39,40
- 694 -12 694 -12 658.5 0.5 c 128,-1,41
- 623 13 623 13 597 38 c 0,42,43
- 565 68 565 68 548 121 c 128,-1,44
- 531 174 531 174 530 250 c 0,45,46
- 530 286 530 286 526 324 c 128,-1,47
- 522 362 522 362 510 396.5 c 128,-1,48
- 498 431 498 431 472 455 c 0,49,50
- 452 473 452 473 424 482.5 c 128,-1,51
- 396 492 396 492 355 492 c 0,52,53
- 286 492 286 492 237 458.5 c 128,-1,54
- 188 425 188 425 162 366.5 c 128,-1,55
- 136 308 136 308 136 232 c 0,56,57
- 136 168 136 168 151.5 129 c 128,-1,58
- 167 90 167 90 193.5 73 c 128,-1,59
- 220 56 220 56 253 56 c 0,60,61
- 280 56 280 56 299.5 67.5 c 128,-1,62
- 319 79 319 79 329.5 101 c 128,-1,63
- 340 123 340 123 340 155 c 0,64,65
- 340 205 340 205 314 231.5 c 128,-1,66
- 288 258 288 258 247 258 c 0,67,68
- 207 258 207 258 172 237 c 128,-1,69
- 137 216 137 216 108 184 c 1,70,-1
- 93 248 l 1,71,72
- 123 283 123 283 167.5 305.5 c 128,-1,73
- 212 328 212 328 261 328 c 0,74,75
- 333 328 333 328 377.5 284 c 128,-1,76
- 422 240 422 240 422 165 c 0,77,78
- 422 110 422 110 401 70 c 128,-1,79
- 380 30 380 30 341.5 9 c 128,-1,80
- 303 -12 303 -12 249 -12 c 0,0,1
+337 250 m 1,0,1
+ 282 281 282 281 236 328.5 c 128,-1,2
+ 190 376 190 376 159 433.5 c 128,-1,3
+ 128 491 128 491 117 551 c 1,4,-1
+ 27 551 l 1,5,-1
+ 27 622 l 1,6,-1
+ 641 622 l 5,7,-1
+ 641 551 l 5,8,-1
+ 557 551 l 1,9,10
+ 549 504 549 504 529.5 460.5 c 128,-1,11
+ 510 417 510 417 481.5 378 c 128,-1,12
+ 453 339 453 339 416.5 306.5 c 128,-1,13
+ 380 274 380 274 337 250 c 1,0,1
+475 551 m 1,14,-1
+ 199 551 l 1,15,16
+ 207 498 207 498 229.5 455 c 128,-1,17
+ 252 412 252 412 285 379 c 128,-1,18
+ 318 346 318 346 356 322 c 1,19,-1
+ 318 323 l 1,20,21
+ 357 345 357 345 389.5 378 c 128,-1,22
+ 422 411 422 411 444.5 454.5 c 128,-1,23
+ 467 498 467 498 475 551 c 1,14,-1
+39 193 m 0,24,25
+ 39 261 39 261 83 317.5 c 128,-1,26
+ 127 374 127 374 206 408 c 1,27,-1
+ 246 353 l 1,28,29
+ 194 329 194 329 156.5 289.5 c 128,-1,30
+ 119 250 119 250 119 195 c 0,31,32
+ 119 141 119 141 151 107 c 128,-1,33
+ 183 73 183 73 254 73 c 2,34,-1
+ 259 73 l 1,35,-1
+ 254 0 l 1,36,-1
+ 248 0 l 2,37,38
+ 186 0 186 0 145.5 19 c 128,-1,39
+ 105 38 105 38 81.5 67.5 c 128,-1,40
+ 58 97 58 97 48.5 130.5 c 128,-1,41
+ 39 164 39 164 39 193 c 0,24,25
+635 194 m 0,42,43
+ 635 165 635 165 625 131.5 c 128,-1,44
+ 615 98 615 98 592 68 c 128,-1,45
+ 569 38 569 38 528.5 19 c 128,-1,46
+ 488 0 488 0 426 0 c 2,47,-1
+ 420 0 l 1,48,-1
+ 415 73 l 1,49,-1
+ 426 73 l 2,50,51
+ 493 73 493 73 524 106.5 c 128,-1,52
+ 555 140 555 140 555 191 c 0,53,54
+ 555 241 555 241 522.5 283 c 128,-1,55
+ 490 325 490 325 421 353 c 1,56,-1
+ 464 412 l 1,57,58
+ 556 370 556 370 595.5 312.5 c 128,-1,59
+ 635 255 635 255 635 194 c 0,42,43
 EndSplineSet
 Validated: 5
 EndChar
 
 StartChar: m
 Encoding: 109 109 79
-Width: 858
+Width: 596
 Flags: W
-AnchorPoint: "Anchor-2" 429 -78 basechar 0
-AnchorPoint: "Anchor-1" 429 -29 basechar 0
-AnchorPoint: "Anchor-0" 429 -29 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-580 566 m 0,0,1
- 655 566 655 566 703 527.5 c 128,-1,2
- 751 489 751 489 774 420.5 c 128,-1,3
- 797 352 797 352 797 262 c 0,4,5
- 797 192 797 192 782 142 c 128,-1,6
- 767 92 767 92 734 60 c 0,7,8
- 711 37 711 37 681 24 c 128,-1,9
- 651 11 651 11 610.5 5.5 c 128,-1,10
- 570 0 570 0 512 0 c 2,11,-1
- 88 0 l 1,12,-1
- 88 554 l 1,13,-1
- 174 554 l 1,14,-1
- 174 72 l 1,15,-1
- 400 72 l 1,16,-1
- 400 355 l 2,17,18
- 400 417 400 417 411.5 453.5 c 128,-1,19
- 423 490 423 490 445 515 c 0,20,21
- 468 540 468 540 500 553 c 128,-1,22
- 532 566 532 566 580 566 c 0,0,1
-578 494 m 0,23,24
- 561 494 561 494 545 488.5 c 128,-1,25
- 529 483 529 483 518 471 c 0,26,27
- 502 453 502 453 494 426.5 c 128,-1,28
- 486 400 486 400 486 338 c 2,29,-1
- 486 72 l 1,30,-1
- 533 72 l 2,31,32
- 601 72 601 72 639 91 c 128,-1,33
- 677 110 677 110 693 153 c 128,-1,34
- 709 196 709 196 709 267 c 0,35,36
- 709 331 709 331 695.5 382 c 128,-1,37
- 682 433 682 433 653.5 463.5 c 128,-1,38
- 625 494 625 494 578 494 c 0,23,24
+426 0 m 1,0,-1
+ 426 261 l 1,1,-1
+ 192 261 l 1,2,3
+ 190 206 190 206 179.5 165.5 c 128,-1,4
+ 169 125 169 125 150.5 103 c 128,-1,5
+ 132 81 132 81 105 81 c 0,6,7
+ 85 81 85 81 71.5 93 c 128,-1,8
+ 58 105 58 105 58 139 c 0,9,10
+ 58 154 58 154 63 178.5 c 128,-1,11
+ 68 203 68 203 81.5 232 c 128,-1,12
+ 95 261 95 261 119 288 c 1,13,14
+ 117 331 117 331 110.5 376.5 c 128,-1,15
+ 104 422 104 422 93 466.5 c 128,-1,16
+ 82 511 82 511 67 551 c 1,17,-1
+ -7 551 l 1,18,-1
+ -7 622 l 1,19,-1
+ 130 622 l 1,20,21
+ 149 576 149 576 163 526 c 128,-1,22
+ 177 476 177 476 185 427 c 128,-1,23
+ 193 378 193 378 193 332 c 1,24,-1
+ 426 332 l 1,25,-1
+ 426 622 l 1,26,-1
+ 603 622 l 1,27,-1
+ 603 551 l 1,28,-1
+ 507 551 l 1,29,-1
+ 507 0 l 1,30,-1
+ 426 0 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: n
 Encoding: 110 110 80
-Width: 789
+Width: 648
 Flags: W
-AnchorPoint: "Anchor-2" 395 -200 basechar 0
-AnchorPoint: "Anchor-1" 395 -29 basechar 0
-AnchorPoint: "Anchor-0" 395 -29 basechar 0
+AnchorPoint: "Anchor-2" 454 0 basechar 0
+AnchorPoint: "Anchor-1" 324 0 basechar 0
+AnchorPoint: "Anchor-0" 364 622 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-557 362 m 0,0,1
- 608 362 608 362 649.5 336 c 128,-1,2
- 691 310 691 310 716 259 c 128,-1,3
- 741 208 741 208 741 134 c 0,4,5
- 741 44 741 44 715 -8 c 128,-1,6
- 689 -60 689 -60 642 -94 c 0,7,8
- 610 -117 610 -117 568.5 -131 c 128,-1,9
- 527 -145 527 -145 473 -150.5 c 128,-1,10
- 419 -156 419 -156 347 -156 c 2,11,-1
- 272 -156 l 2,12,13
- 230 -156 230 -156 207 -162 c 128,-1,14
- 184 -168 184 -168 167 -179 c 0,15,16
- 151 -190 151 -190 142 -210 c 128,-1,17
- 133 -230 133 -230 133 -263 c 0,18,19
- 133 -278 133 -278 134 -291.5 c 128,-1,20
- 135 -305 135 -305 136 -317 c 1,21,-1
- 54 -321 l 1,22,23
- 51 -303 51 -303 49 -281.5 c 128,-1,24
- 47 -260 47 -260 47 -243 c 0,25,26
- 47 -199 47 -199 63 -168.5 c 128,-1,27
- 79 -138 79 -138 104 -119 c 0,28,29
- 122 -106 122 -106 141.5 -98.5 c 128,-1,30
- 161 -91 161 -91 186.5 -87.5 c 128,-1,31
- 212 -84 212 -84 245 -84 c 2,32,-1
- 338 -84 l 2,33,34
- 420 -84 420 -84 471.5 -77 c 128,-1,35
- 523 -70 523 -70 555 -54.5 c 128,-1,36
- 587 -39 587 -39 610 -14 c 0,37,38
- 630 8 630 8 642.5 43.5 c 128,-1,39
- 655 79 655 79 655 131 c 256,40,41
- 655 183 655 183 641.5 218 c 128,-1,42
- 628 253 628 253 601.5 271 c 128,-1,43
- 575 289 575 289 536 289 c 0,44,45
- 508 289 508 289 479.5 276.5 c 128,-1,46
- 451 264 451 264 430 247 c 1,47,-1
- 427 322 l 1,48,49
- 453 338 453 338 485 350 c 128,-1,50
- 517 362 517 362 557 362 c 0,0,1
-88 0 m 1,51,-1
- 88 554 l 1,52,-1
- 609 554 l 1,53,-1
- 609 482 l 1,54,-1
- 434 482 l 1,55,-1
- 434 0 l 1,56,-1
- 348 0 l 1,57,-1
- 348 482 l 1,58,-1
- 174 482 l 1,59,-1
- 174 0 l 1,60,-1
- 88 0 l 1,51,-1
+240 0 m 1,0,1
+ 181 0 181 0 142 19 c 128,-1,2
+ 103 38 103 38 80.5 68 c 128,-1,3
+ 58 98 58 98 48.5 131.5 c 128,-1,4
+ 39 165 39 165 39 194 c 0,5,6
+ 39 245 39 245 65 292.5 c 128,-1,7
+ 91 340 91 340 145.5 378 c 128,-1,8
+ 200 416 200 416 284 438 c 1,9,-1
+ 284 551 l 1,10,-1
+ 54 551 l 1,11,-1
+ 54 622 l 1,12,-1
+ 589 622 l 5,13,-1
+ 589 551 l 5,14,-1
+ 364 551 l 1,15,-1
+ 364 438 l 1,16,17
+ 449 416 449 416 503 378 c 128,-1,18
+ 557 340 557 340 583 292.5 c 128,-1,19
+ 609 245 609 245 609 194 c 0,20,21
+ 609 165 609 165 600 131.5 c 128,-1,22
+ 591 98 591 98 568.5 68 c 128,-1,23
+ 546 38 546 38 507 19 c 128,-1,24
+ 468 0 468 0 409 0 c 1,25,-1
+ 404 73 l 1,26,27
+ 471 73 471 73 500 107 c 128,-1,28
+ 529 141 529 141 529 195 c 0,29,30
+ 529 257 529 257 477 305 c 128,-1,31
+ 425 353 425 353 324 378 c 1,32,33
+ 223 353 223 353 171 305 c 128,-1,34
+ 119 257 119 257 119 195 c 0,35,36
+ 119 141 119 141 148.5 107 c 128,-1,37
+ 178 73 178 73 245 73 c 1,38,-1
+ 240 0 l 1,0,1
 EndSplineSet
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: o
@@ -3029,25 +3195,43 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 82
-Width: 778
+Width: 593
 Flags: W
-AnchorPoint: "Anchor-2" 389 -78 basechar 0
-AnchorPoint: "Anchor-1" 389 -29 basechar 0
-AnchorPoint: "Anchor-0" 389 -29 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-88 0 m 1,0,-1
- 88 554 l 1,1,-1
- 174 554 l 1,2,-1
- 174 72 l 1,3,-1
- 604 72 l 1,4,-1
- 604 554 l 1,5,-1
- 690 554 l 1,6,-1
- 690 0 l 1,7,-1
- 88 0 l 1,0,-1
+423 0 m 1,0,-1
+ 423 180 l 1,1,-1
+ 429 165 l 1,2,3
+ 395 149 395 149 361 140.5 c 128,-1,4
+ 327 132 327 132 284 132 c 0,5,6
+ 196 132 196 132 136 186.5 c 128,-1,7
+ 76 241 76 241 38 333 c 1,8,9
+ 68 359 68 359 88 389 c 128,-1,10
+ 108 419 108 419 108 459 c 0,11,12
+ 108 481 108 481 101.5 506.5 c 128,-1,13
+ 95 532 95 532 84 551 c 1,14,-1
+ -7 551 l 1,15,-1
+ -7 622 l 1,16,-1
+ 142 622 l 1,17,18
+ 164 582 164 582 176 539.5 c 128,-1,19
+ 188 497 188 497 188 460 c 0,20,21
+ 188 407 188 407 167.5 371.5 c 128,-1,22
+ 147 336 147 336 114 313 c 1,23,-1
+ 118 357 l 1,24,25
+ 150 282 150 282 188 244 c 128,-1,26
+ 226 206 226 206 284 206 c 0,27,28
+ 325 206 325 206 359 217.5 c 128,-1,29
+ 393 229 393 229 429 251 c 1,30,-1
+ 423 240 l 1,31,-1
+ 423 622 l 1,32,-1
+ 600 622 l 1,33,-1
+ 600 551 l 1,34,-1
+ 504 551 l 1,35,-1
+ 504 0 l 1,36,-1
+ 423 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: q
@@ -3094,142 +3278,135 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 84
-Width: 640
+Width: 579
 Flags: W
-AnchorPoint: "Anchor-2" 320 -225 basechar 0
-AnchorPoint: "Anchor-1" 320 -29 basechar 0
-AnchorPoint: "Anchor-0" 320 -29 basechar 0
+AnchorPoint: "Anchor-2" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-231 -212 m 1,0,-1
- 174 -159 l 1,1,-1
- 367 24 l 1,2,-1
- 367 482 l 1,3,-1
- 174 482 l 1,4,-1
- 174 0 l 1,5,-1
- 88 0 l 1,6,-1
- 88 554 l 1,7,-1
- 592 554 l 5,8,-1
- 592 482 l 5,9,-1
- 453 482 l 1,10,-1
- 453 0 l 1,11,-1
- 231 -212 l 1,0,-1
+310 0 m 0,0,1
+ 256 0 256 0 207 21.5 c 128,-1,2
+ 158 43 158 43 119.5 79.5 c 128,-1,3
+ 81 116 81 116 59 162.5 c 128,-1,4
+ 37 209 37 209 37 258 c 0,5,6
+ 37 294 37 294 49.5 319.5 c 128,-1,7
+ 62 345 62 345 82 363 c 0,8,9
+ 109 386 109 386 150.5 397 c 128,-1,10
+ 192 408 192 408 272 408 c 2,11,-1
+ 409 408 l 1,12,-1
+ 409 551 l 1,13,-1
+ 56 551 l 1,14,-1
+ 56 622 l 1,15,-1
+ 554 622 l 5,16,-1
+ 554 551 l 5,17,-1
+ 490 551 l 1,18,-1
+ 490 172 l 2,19,20
+ 490 114 490 114 470.5 76 c 128,-1,21
+ 451 38 451 38 411.5 19 c 128,-1,22
+ 372 0 372 0 310 0 c 0,0,1
+317 73 m 0,23,24
+ 340 73 340 73 359 78 c 128,-1,25
+ 378 83 378 83 390 96 c 0,26,27
+ 399 107 399 107 404 124.5 c 128,-1,28
+ 409 142 409 142 409 183 c 2,29,-1
+ 409 337 l 1,30,-1
+ 282 337 l 2,31,32
+ 220 337 220 337 189 331.5 c 128,-1,33
+ 158 326 158 326 141 311 c 0,34,35
+ 128 300 128 300 123 285 c 128,-1,36
+ 118 270 118 270 118 252 c 0,37,38
+ 118 220 118 220 135 188 c 128,-1,39
+ 152 156 152 156 180.5 130 c 128,-1,40
+ 209 104 209 104 244.5 88.5 c 128,-1,41
+ 280 73 280 73 317 73 c 0,23,24
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: s
 Encoding: 115 115 85
-Width: 1285
+Width: 596
 Flags: W
-AnchorPoint: "Anchor-2" 642 -78 basechar 0
-AnchorPoint: "Anchor-1" 642 -29 basechar 0
-AnchorPoint: "Anchor-0" 642 -29 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-249 -12 m 0,0,1
- 196 -12 196 -12 152 14 c 128,-1,2
- 108 40 108 40 82.5 96.5 c 128,-1,3
- 57 153 57 153 57 242 c 0,4,5
- 57 323 57 323 81 384 c 128,-1,6
- 105 445 105 445 147 485.5 c 128,-1,7
- 189 526 189 526 243.5 546 c 128,-1,8
- 298 566 298 566 359 566 c 0,9,10
- 411 566 411 566 452.5 551.5 c 128,-1,11
- 494 537 494 537 527.5 507 c 128,-1,12
- 561 477 561 477 587 430 c 1,13,-1
- 558 433 l 1,14,15
- 567 468 567 468 588 498.5 c 128,-1,16
- 609 529 609 529 641.5 547.5 c 128,-1,17
- 674 566 674 566 719 566 c 0,18,19
- 756 566 756 566 785.5 555 c 128,-1,20
- 815 544 815 544 837 521 c 0,21,22
- 863 494 863 494 876 452.5 c 128,-1,23
- 889 411 889 411 889 343 c 2,24,-1
- 889 255 l 2,25,26
- 889 200 889 200 897 160.5 c 128,-1,27
- 905 121 905 121 930 95 c 0,28,29
- 945 79 945 79 966 70.5 c 128,-1,30
- 987 62 987 62 1015 62 c 0,31,32
- 1049 62 1049 62 1076 78 c 128,-1,33
- 1103 94 1103 94 1119 132 c 128,-1,34
- 1135 170 1135 170 1135 237 c 0,35,36
- 1135 303 1135 303 1118.5 359 c 128,-1,37
- 1102 415 1102 415 1074 461.5 c 128,-1,38
- 1046 508 1046 508 1009 547 c 1,39,-1
- 1087 600 l 1,40,41
- 1149 521 1149 521 1185.5 434 c 128,-1,42
- 1222 347 1222 347 1222 244 c 0,43,44
- 1222 159 1222 159 1197.5 102 c 128,-1,45
- 1173 45 1173 45 1126 16.5 c 128,-1,46
- 1079 -12 1079 -12 1009 -12 c 0,47,48
- 966 -12 966 -12 930.5 0.5 c 128,-1,49
- 895 13 895 13 869 38 c 0,50,51
- 848 58 848 58 833 88.5 c 128,-1,52
- 818 119 818 119 810 159.5 c 128,-1,53
- 802 200 802 200 802 250 c 2,54,-1
- 802 288 l 2,55,56
- 802 353 802 353 797.5 390 c 128,-1,57
- 793 427 793 427 783 449 c 0,58,59
- 773 473 773 473 755 483.5 c 128,-1,60
- 737 494 737 494 714 494 c 0,61,62
- 693 494 693 494 677.5 485 c 128,-1,63
- 662 476 662 476 652 463 c 0,64,65
- 637 444 637 444 630 417.5 c 128,-1,66
- 623 391 623 391 623 351 c 2,67,-1
- 623 0 l 1,68,-1
- 537 0 l 1,69,-1
- 537 293 l 2,70,71
- 537 356 537 356 520 393.5 c 128,-1,72
- 503 431 503 431 477 453 c 0,73,74
- 449 476 449 476 420.5 484 c 128,-1,75
- 392 492 392 492 355 492 c 0,76,77
- 286 492 286 492 237 458.5 c 128,-1,78
- 188 425 188 425 162 366.5 c 128,-1,79
- 136 308 136 308 136 232 c 0,80,81
- 136 168 136 168 151.5 129 c 128,-1,82
- 167 90 167 90 193.5 73 c 128,-1,83
- 220 56 220 56 253 56 c 0,84,85
- 279 56 279 56 298.5 67.5 c 128,-1,86
- 318 79 318 79 329 101 c 128,-1,87
- 340 123 340 123 340 155 c 0,88,89
- 340 205 340 205 314 231.5 c 128,-1,90
- 288 258 288 258 247 258 c 0,91,92
- 207 258 207 258 172 237 c 128,-1,93
- 137 216 137 216 108 184 c 1,94,-1
- 93 248 l 1,95,96
- 123 283 123 283 167.5 305.5 c 128,-1,97
- 212 328 212 328 261 328 c 0,98,99
- 333 328 333 328 377.5 284 c 128,-1,100
- 422 240 422 240 422 165 c 0,101,102
- 422 110 422 110 401 70 c 128,-1,103
- 380 30 380 30 341.5 9 c 128,-1,104
- 303 -12 303 -12 249 -12 c 0,0,1
+426 0 m 1,0,-1
+ 426 261 l 1,1,-1
+ 192 261 l 1,2,3
+ 190 206 190 206 179.5 165.5 c 128,-1,4
+ 169 125 169 125 150.5 103 c 128,-1,5
+ 132 81 132 81 105 81 c 0,6,7
+ 85 81 85 81 71.5 93 c 128,-1,8
+ 58 105 58 105 58 139 c 0,9,10
+ 58 154 58 154 63 178.5 c 128,-1,11
+ 68 203 68 203 81.5 232 c 128,-1,12
+ 95 261 95 261 119 288 c 1,13,14
+ 117 331 117 331 110.5 376.5 c 128,-1,15
+ 104 422 104 422 93 466.5 c 128,-1,16
+ 82 511 82 511 67 551 c 1,17,-1
+ 13 551 l 5,18,-1
+ 13 622 l 5,19,-1
+ 581 622 l 1,20,-1
+ 581 551 l 1,21,-1
+ 507 551 l 1,22,-1
+ 507 0 l 1,23,-1
+ 426 0 l 1,0,-1
+193 332 m 1,24,-1
+ 426 332 l 1,25,-1
+ 426 551 l 1,26,-1
+ 153 551 l 1,27,28
+ 166 511 166 511 174.5 472.5 c 128,-1,29
+ 183 434 183 434 188 399 c 128,-1,30
+ 193 364 193 364 193 332 c 1,24,-1
 EndSplineSet
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: t
 Encoding: 116 116 86
-Width: 693
+Width: 575
 Flags: W
-AnchorPoint: "Anchor-2" 346 -78 basechar 0
-AnchorPoint: "Anchor-1" 346 -29 basechar 0
-AnchorPoint: "Anchor-0" 346 -29 basechar 0
+AnchorPoint: "Anchor-1" 292 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-88 0 m 1,0,-1
- 88 554 l 1,1,-1
- 174 554 l 1,2,-1
- 174 72 l 1,3,-1
- 676 72 l 1,4,-1
- 676 0 l 1,5,-1
- 88 0 l 1,0,-1
+322 0 m 0,0,1
+ 265 0 265 0 221.5 17.5 c 128,-1,2
+ 178 35 178 35 144 66 c 128,-1,3
+ 110 97 110 97 83.5 140 c 128,-1,4
+ 57 183 57 183 34 234 c 1,5,6
+ 66 275 66 275 95 306.5 c 128,-1,7
+ 124 338 124 338 155 361 c 0,8,9
+ 183 381 183 381 211 394 c 128,-1,10
+ 239 407 239 407 277 413.5 c 128,-1,11
+ 315 420 315 420 370 420 c 2,12,-1
+ 405 420 l 1,13,-1
+ 405 551 l 1,14,-1
+ 47 551 l 1,15,-1
+ 47 622 l 1,16,-1
+ 552 622 l 5,17,-1
+ 552 551 l 5,18,-1
+ 485 551 l 1,19,-1
+ 485 378 l 1,20,-1
+ 456 349 l 1,21,-1
+ 419 349 l 2,22,23
+ 361 349 361 349 326 347 c 128,-1,24
+ 291 345 291 345 268 337.5 c 128,-1,25
+ 245 330 245 330 221 315 c 0,26,27
+ 189 296 189 296 163.5 269.5 c 128,-1,28
+ 138 243 138 243 107 204 c 1,29,-1
+ 114 253 l 1,30,31
+ 140 200 140 200 168 159.5 c 128,-1,32
+ 196 119 196 119 233 96 c 128,-1,33
+ 270 73 270 73 322 73 c 0,34,35
+ 359 73 359 73 387 78 c 128,-1,36
+ 415 83 415 83 444 93.5 c 128,-1,37
+ 473 104 473 104 510 122 c 1,38,-1
+ 538 51 l 1,39,40
+ 484 25 484 25 433 12.5 c 128,-1,41
+ 382 0 382 0 322 0 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: u
@@ -3366,41 +3543,44 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 91
-Width: 963
+Width: 695
 Flags: W
-AnchorPoint: "Anchor-2" 481 -78 basechar 0
-AnchorPoint: "Anchor-1" 481 -29 basechar 0
-AnchorPoint: "Anchor-0" 481 -29 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-354 0 m 1,0,-1
- 354 554 l 1,1,-1
- 440 554 l 1,2,-1
- 440 72 l 1,3,-1
- 789 72 l 1,4,-1
- 789 554 l 1,5,-1
- 875 554 l 1,6,-1
- 875 0 l 1,7,-1
- 354 0 l 1,0,-1
-240 -11 m 0,8,9
- 203 -11 203 -11 175.5 1.5 c 128,-1,10
- 148 14 148 14 129 36 c 0,11,12
- 118 51 118 51 108.5 70 c 128,-1,13
- 99 89 99 89 93.5 120 c 128,-1,14
- 88 151 88 151 88 202 c 2,15,-1
- 88 554 l 1,16,-1
- 174 554 l 1,17,-1
- 174 223 l 2,18,19
- 174 177 174 177 178 139.5 c 128,-1,20
- 182 102 182 102 202 82 c 0,21,22
- 212 72 212 72 225.5 66.5 c 128,-1,23
- 239 61 239 61 258 61 c 0,24,25
- 287 61 287 61 312.5 76 c 128,-1,26
- 338 91 338 91 360 125 c 1,27,-1
- 358 39 l 1,28,29
- 339 20 339 20 310 4.5 c 128,-1,30
- 281 -11 281 -11 240 -11 c 0,8,9
+525 0 m 1,0,-1
+ 525 299 l 1,1,-1
+ 396 299 l 1,2,-1
+ 396 136 l 1,3,4
+ 374 129 374 129 344.5 124.5 c 128,-1,5
+ 315 120 315 120 284 120 c 0,6,7
+ 196 120 196 120 136 176.5 c 128,-1,8
+ 76 233 76 233 38 327 c 1,9,10
+ 68 353 68 353 88 384 c 128,-1,11
+ 108 415 108 415 108 457 c 0,12,13
+ 108 479 108 479 101.5 505.5 c 128,-1,14
+ 95 532 95 532 84 551 c 1,15,-1
+ 23 551 l 5,16,-1
+ 23 622 l 5,17,-1
+ 671 622 l 1,18,-1
+ 671 551 l 1,19,-1
+ 606 551 l 1,20,-1
+ 606 0 l 1,21,-1
+ 525 0 l 1,0,-1
+315 371 m 1,22,-1
+ 525 371 l 1,23,-1
+ 525 551 l 1,24,-1
+ 169 551 l 1,25,26
+ 179 526 179 526 183.5 502 c 128,-1,27
+ 188 478 188 478 188 457 c 0,28,29
+ 188 403 188 403 167.5 367 c 128,-1,30
+ 147 331 147 331 115 307 c 1,31,-1
+ 119 352 l 1,32,33
+ 151 273 151 273 188.5 233 c 128,-1,34
+ 226 193 226 193 284 193 c 0,35,36
+ 295 193 295 193 302 193.5 c 128,-1,37
+ 309 194 309 194 315 195 c 1,38,-1
+ 315 371 l 1,22,-1
 EndSplineSet
 Validated: 5
 EndChar
@@ -3557,7 +3737,7 @@ SplineSet
  342 653 342 653 301 653 c 0,49,50
 EndSplineSet
 Validated: 1
-Kerns2: 65 -30 "'dist' Distance in Tamil2 lookup 3 per glyph data 0" 63 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0" 62 -20 "'dist' Distance in Tamil2 lookup 3 per glyph data 0" 60 -60 "'dist' Distance in Tamil2 lookup 3 per glyph data 0"
+Kerns2: 65 -30 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0" 63 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0" 62 -20 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0" 60 -60 "'kern' Horizontal Kerning in Latin lookup 2 per glyph data 0"
 EndChar
 
 StartChar: dollar
