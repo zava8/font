@@ -1,0 +1,12 @@
+_site/
+diliit/
+daunlod/fontdrum/
+./**/diliit/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.zip
+*.swp
+.*.*.swp
+.*.swp
+
