@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1633362791
-ModificationTime: 1735478595
+ModificationTime: 1735536218
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4189,10 +4189,10 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "korean115 2.013;GOOG;NotoSans-Regular" "" "Version 2.013" "" "Noto is a trademark of Google LLC." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team, Irene Vlachou." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-OtfFeatName: 'ss07' 1033 "iota adscript"
-OtfFeatName: 'ss06' 1033 "Accented Greek SC"
-OtfFeatName: 'ss04' 1033 "Titling Alternates I and J for titling and all cap settings"
 OtfFeatName: 'ss03' 1033 "florin symbol"
+OtfFeatName: 'ss04' 1033 "Titling Alternates I and J for titling and all cap settings"
+OtfFeatName: 'ss06' 1033 "Accented Greek SC"
+OtfFeatName: 'ss07' 1033 "iota adscript"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -5828,11 +5828,11 @@ AnchorPoint: "Anchor-4" 129 766 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-173 0 m 5
- 85 0 l 5
- 85 536 l 5
- 173 536 l 5
- 173 0 l 5
+173 0 m 5,0,-1
+ 85 0 l 5,1,-1
+ 85 536 l 5,2,-1
+ 173 536 l 5,3,-1
+ 173 0 l 5,0,-1
 EndSplineSet
 Refer: 66 96 N 1 0 0 1 -41 0 2
 Substitution2: "'ss04' Style Set 4 lookup 45 subtable" I.salt
@@ -7682,27 +7682,27 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 91
-Width: 920
+Width: 366
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-422 427 m 5,0,-1
- 651 427 l 5,1,-1
- 651 358 l 5,2,-1
- 422 358 l 5,3,-1
- 422 427 l 5,0,-1
-422 181 m 5,4,-1
- 651 181 l 5,5,-1
- 651 111 l 5,6,-1
- 422 111 l 5,7,-1
- 422 181 l 5,4,-1
-364 688 m 5,8,-1
- 447 688 l 5,9,-1
- 447 -200 l 5,10,-1
- 364 -200 l 5,11,-1
- 364 688 l 5,8,-1
+116 428 m 5,0,-1
+ 345 428 l 5,1,-1
+ 345 359 l 5,2,-1
+ 116 359 l 5,3,-1
+ 116 428 l 5,0,-1
+116 182 m 5,4,-1
+ 345 182 l 5,5,-1
+ 345 112 l 5,6,-1
+ 116 112 l 5,7,-1
+ 116 182 l 5,4,-1
+58 689 m 5,8,-1
+ 141 689 l 5,9,-1
+ 141 -199 l 5,10,-1
+ 58 -199 l 5,11,-1
+ 58 689 l 5,8,-1
 EndSplineSet
 Kerns2: 33 20 "'kern' Horizontal Kerning in Latin lookup 5 per glyph data 0"
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 39 subtable" y.sc
