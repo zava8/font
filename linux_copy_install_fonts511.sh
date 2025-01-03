@@ -17,14 +17,16 @@ if ! command -v woff2_compress &> /dev/null; then
 else
 # Loop through all TTF files in the current directory
 	for ttf_file in *.ttf; do
-		woff2_file="${ttf_file%.ttf}.woff2"
+		#woff2_file="${ttf_file%.ttf}.woff2"
 		woff2_compress "$ttf_file" # -o "$woff2_file"
-		echo "Converted $ttf_file to $woff2_file"
+		echo "Converted $ttf_file to woff2" #to $woff2_file"
 	done
 fi
+echo "running pwd now:"
 pwd
 ls *.ttf *.woff2
 cd ../../
+echo "running pwd now:"
 pwd
 ls *.ttf *.woff2
 ############################
