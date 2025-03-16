@@ -1,0 +1,15 @@
+gsettings set org.gnome.desktop.interface monospace-font-name 'Ubuntu Mono 11'
+~/.config/fontconfig/fonts.conf /etc/fonts/local.conf
+<match target="pattern">
+  <test name="family" qual="any">
+    <string>monospace</string>
+  </test>
+  <edit binding="strong" mode="prepend" name="family">
+    <string>Font B</string>
+  </edit>
+</match>
+sudo fc-cache -f -v
+####urls
+https://www.freedesktop.org/software/fontconfig/fontconfig-user.html
+https://www.baeldung.com/linux/find-installed-fonts-command-line
+https://unix.stackexchange.com/questions/106070/changing-monospace-fonts-system-wide
