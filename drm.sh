@@ -83,7 +83,9 @@ if [ -d "/home/viml/mg/free/" ]; then
 	############################
 	if [ "$key" = 'g' ]; then
 		printf "pressed g so doiNg filling git add commit push /home/viml/mg/free.\n"
+		cd /home/viml/mg/free/ && printf "current directory is : $(pwd)\n"
 		git add . ; git commit -am "mck82.vercel.app zikis8.vercel.app fb.com/ztrabc" ; git push
+		cd /home/viml/mg/font/
 	else
 		printf "pressed other key ${key} .  so not doiNg git-commiting. please do git add-commit-push /home/viml/mg/free lateron \n"
 	fi	
@@ -101,7 +103,9 @@ if [ -d "/home/viml/mg/zw4s/hfont" ]; then
 	############################
 	if [ "$key" = 'g' ]; then
 		printf "pressed g so doiNg filling git add commit push /home/viml/mg/zw4s/hfont\n"
+		cd /home/viml/mg/zw4s/hfont && printf "current directory is : $(pwd)\n"
 		git add . ; git commit -am "mck82.vercel.app zikis8.vercel.app fb.com/ztrabc" ; git push
+		cd /home/viml/mg/font
 	else
 		printf "pressed other key ${key} .  so not doiNg git-commiting. please do git add-commit-push /home/viml/mg/zw4s/hfont lateron \n"
 	fi
@@ -119,7 +123,9 @@ if [ -d "/home/viml/mg/zw4s/sfd_hfont" ]; then
 	############################
 	if [ "$key" = 'g' ]; then
 		printf "pressed g so doiNg filling git add commit push /home/viml/mg/zw4s/sfd_hfont\n"
+		cd /home/viml/mg/zw4s/sfd_hfont && printf "now current directory is : $(pwd)\n"
 		git add . ; git commit -am "mck82.vercel.app zikis8.vercel.app fb.com/ztrabc" ; git push
+		cd /home/viml/mg/font
 	else
 		printf "pressed other key ${key} .  so not doiNg git-commiting. please do git add-commit-push /home/viml/mg/zw4s/sfd_hfont lateron \n"
 	fi
@@ -149,4 +155,17 @@ fi
 #if [ -d "/usr/share/gimp/2.0/fonts/" ]; then
 	#sudo cp -r daunlod/5 daunlod/8 /usr/share/gimp/2.0/fonts/
 #fi
+############################
+	cd /home/viml/mg/font
+	printf "current directory is : $(pwd)\n"
+	read -n1 -s -r -p $'Press g to git add commit push\n' key
+	############################
+	if [ "$key" = 'g' ]; then
+		printf "pressed g so doiNg filling git add commit push /home/viml/mg/zw4s/sfd_hfont\n"
+		cd /home/viml/mg/font && printf "now current directory is : $(pwd)\n"
+		git add . ; git commit -am "mck82.vercel.app zikis8.vercel.app fb.com/ztrabc" ; git push
+		cd /home/viml/mg/font
+	else
+		printf "pressed other key ${key} .  so not doiNg git-commiting. please do git add-commit-push /home/viml/mg/zw4s/sfd_hfont lateron \n"
+	fi
 ############################
