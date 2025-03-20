@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1633362791
-ModificationTime: 1742491513
+ModificationTime: 1742492476
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -97,10 +97,10 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "ing15 2.013;GOOG;NotoSans-Regular" "" "Version 2.013" "" "Noto is a trademark of Google LLC." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team, Irene Vlachou." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-OtfFeatName: 'ss07' 1033 "iota adscript"
-OtfFeatName: 'ss06' 1033 "Accented Greek SC"
-OtfFeatName: 'ss04' 1033 "Titling Alternates I and J for titling and all cap settings"
 OtfFeatName: 'ss03' 1033 "florin symbol"
+OtfFeatName: 'ss04' 1033 "Titling Alternates I and J for titling and all cap settings"
+OtfFeatName: 'ss06' 1033 "Accented Greek SC"
+OtfFeatName: 'ss07' 1033 "iota adscript"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -5840,8 +5840,8 @@ Fore
 SplineSet
 372 79 m 1,0,-1
  123 79 l 1,1,-1
- 123 171 l 1,2,-1
- 372 171 l 1,3,-1
+ 123 173 l 1,2,-1
+ 372 173 l 1,3,-1
  372 79 l 1,0,-1
 49 -8 m 0,4,5
  34 -8 34 -8 22.5 2.5 c 128,-1,6
@@ -5859,13 +5859,13 @@ SplineSet
  83 656 83 656 88.5 654 c 0,26,27
  96 651 96 651 100 646 c 0,28,29
  103 642 103 642 117.5 629.46484375 c 0,30,31
- 134 616 134 616 150 602 c 2,32,-1
- 231 535 l 2,33,34
- 239 521 239 521 240.5 519 c 0,35,36
- 244 513 244 513 246 513 c 256,37,-1
- 260 535 l 2,38,-1
+ 144 607 144 607 150 602 c 2,32,-1
+ 231 503 l 2,33,34
+ 239 489 239 489 240.5 487 c 0,35,36
+ 244 481 244 481 246 481 c 256,37,-1
+ 260 503 l 2,38,-1
  373 642 l 2,39,40
- 373 645 373 645 384 653 c 0,41,42
+ 384 653 l 0,41,42
  388 656 388 656 398 656 c 256,43,44
  405 656 405 656 416.5 653 c 128,-1,45
  428 650 428 650 438 643 c 0,46,47
@@ -5881,14 +5881,14 @@ SplineSet
  448 5 448 5 435 0 c 128,-1,63
  422 -5 422 -5 407 -5 c 0,64,65
  402 -5 402 -5 394.5 -3 c 0,66,67
- 386.34889687 -1.08209338122 386.34889687 -1.08209338122 383 6 c 2,68,-1
- 261 264 l 2,69,70
- 260 265 260 265 251.5 280.5 c 0,71,72
- 247 288 247 288 243 288 c 256,73,74
- 239 288 239 288 235.5 282 c 0,75,76
- 234 279 234 279 223 261 c 2,77,-1
+ 385.691546392 -0.927422680412 385.691546392 -0.927422680412 383 6 c 2,68,-1
+ 261 320 l 2,69,70
+ 260 321 260 321 251.5 336.5 c 0,71,72
+ 247 344 247 344 243 344 c 256,73,74
+ 239 344 239 344 235.5 338 c 0,75,76
+ 234 335 234 335 223 317 c 2,77,-1
  107 29 l 2,78,79
- 97 10 97 10 80 0 c 0,80,81
+ 100 11 100 11 80 0 c 0,80,81
  66 -8 66 -8 49 -8 c 0,4,5
 392 616 m 0,82,83
  392 622 392 622 403 633 c 256,84,85
