@@ -143,8 +143,9 @@ fi
 ############################
 if [ -d ${lifontspath} ]; then
 	printf "replaciNg old woff2 folders by niyu in ${lifontspath}.\n"
-	rm -rf ${lifontspath}/15m_woff2 ${lifontspath}/15_woff2 ${lifontspath}/25_woff2 ${lifontspath}/4_woff2
-	cp -r ${daunlod_hfont_path}/15m_woff2 ${daunlod_hfont_path}/15_woff2 ${daunlod_hfont_path}/25_woff2 ${daunlod_hfont_path}/4_woff2 ${lifontspath}/
+	rm -rf ${lifontspath}/15m_woff2 ${lifontspath}/15_woff2 # ${lifontspath}/25_woff2 ${lifontspath}/4_woff2
+	cp -r ${daunlod_hfont_path}/15m_woff2 ${daunlod_hfont_path}/15_woff2  ${lifontspath}/
+	#cp -r ${daunlod_hfont_path}/15m_woff2 ${daunlod_hfont_path}/15_woff2 ${daunlod_hfont_path}/25_woff2 ${daunlod_hfont_path}/4_woff2 ${lifontspath}/
 else
 	printf "${lifontspath} does not ekzist.\n"
 fi
