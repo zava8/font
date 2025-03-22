@@ -8,7 +8,8 @@ sfdpath="${fontrepopath}/sfdsource_v2"
 drumpath="${fontrepopath}/daunlod/fontdrum"
 daunlodpath="${fontrepopath}/daunlod"
 daunlod_hfont_path="${fontrepopath}/daunlod/hfont"
-declare -a arr=("15m" "15" "115" "25" "125" "4")
+declare -a arr=("15m" "15" "115" "4")
+# declare -a arr=("15m" "15" "115" "25" "125" "4")
 ############################
 printf "current directory is : $(pwd)\n"
 read -n1 -s -r -p $'Press f to fill ${drumpath}...\n' key
